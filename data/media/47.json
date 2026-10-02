@@ -1,0 +1,111 @@
+[
+ {
+  "source": "Global Energy Monitor",
+  "source_key": "gem",
+  "title": "Colbert Fossil Plant",
+  "url": "https://www.gem.wiki/Colbert_Fossil_Plant",
+  "thumb": null,
+  "extract": "Colbert Fossil Plant is an operating power station of at least 1230-megawatts (MW) in Tuscumbia, Colbert, Alabama, United States with multiple units, some of which are not currently operating. It is also known as Colbert Combustion Turbine Plant.",
+  "date": null,
+  "rights": "GEM wiki text, CC BY 4.0",
+  "rights_status": "licensed",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Minor House, Tuscumbia, Colbert County, AL",
+  "url": "http://www.loc.gov/item/al0095/",
+  "thumb": null,
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Colonel Goodloe House, Tuscumbia, Colbert County, AL",
+  "url": "http://www.loc.gov/item/al0866/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/al/al0800/al0866/photos/001652p_150px.jpg#h=109&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Commercial Row, Fifth Street, Tuscumbia, Colbert County, AL",
+  "url": "http://www.loc.gov/item/al0087/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/al/al0000/al0087/photos/001787p_150px.jpg#h=106&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "The Oaks, Ricks Lane, Leighton, Colbert County, AL",
+  "url": "http://www.loc.gov/item/al0077/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/al/al0000/al0077/photos/001677p_150px.jpg#h=108&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Presbyterian Church, Mount Pleasant Road, Leighton, Colbert County, AL",
+  "url": "http://www.loc.gov/item/al0072/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/al/al0000/al0072/photos/001617p_150px.jpg#h=107&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Big Bear Creek Covered Bridge, Allsboro, Colbert County, AL",
+  "url": "http://www.loc.gov/item/al0070/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/al/al0000/al0070/photos/001613p_150px.jpg#h=150&w=108",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "John Johnson House, Broad Street, Tuscumbia, Colbert County, AL",
+  "url": "http://www.loc.gov/item/al0092/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/al/al0000/al0092/photos/001784p_150px.jpg#h=108&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Bonner House, 2708 Tenth Avenue, Sheffield, Colbert County, AL",
+  "url": "http://www.loc.gov/item/al0078/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/al/al0000/al0078/photos/001696p_150px.jpg#h=110&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ }
+]
