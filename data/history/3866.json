@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WA00069",
+  "dam_name": "Little Falls Dam",
+  "owner": "Avista Utilities",
+  "owner_type": "Private",
+  "designer": "Thomas, Dean & Hoskins",
+  "year_completed": 1910,
+  "years_modified": "2000S",
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Spokane River",
+  "height_ft": 64.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WA00069/summary",
+  "distance_km": 0.93,
+  "score": 0.769,
+  "verified": false
+ }
+}

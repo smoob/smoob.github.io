@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00597",
+  "dam_name": "Walden",
+  "owner": "Village of Walden, NY",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1909,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fire Protection, Stock, Or Small Fish Pond",
+  "river": "Wallkill River",
+  "height_ft": 32.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00597/summary",
+  "distance_km": 0.08,
+  "score": 0.981,
+  "verified": false
+ }
+}

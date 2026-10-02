@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MT00563",
+  "dam_name": "Morony",
+  "owner": "NorthWestern Energy",
+  "owner_type": "Private",
+  "designer": "Electric Bond and Share/Charles T. Main",
+  "year_completed": 1929,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Missouri River",
+  "height_ft": 107.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MT00563/summary",
+  "distance_km": 0.08,
+  "score": 0.979,
+  "verified": false
+ }
+}

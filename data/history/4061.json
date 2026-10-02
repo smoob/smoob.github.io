@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WI00759",
+  "dam_name": "Caldron Falls",
+  "owner": "Wisconsin Public Service Corporation",
+  "owner_type": "Public Utility",
+  "designer": "MEAD & SCASTONE",
+  "year_completed": 1924,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fish and Wildlife Pond;Recreation;Flood Risk Reduction",
+  "river": "Peshtigo River",
+  "height_ft": 81.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WI00759/summary",
+  "distance_km": 0.05,
+  "score": 0.987,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY12019",
+  "dam_name": "Philadelphia - Nonoverflow Section",
+  "owner": "FortisUS Energy Corporation",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1910,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Indian River",
+  "height_ft": 13.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY12019/summary",
+  "distance_km": 0.05,
+  "score": 0.486,
+  "verified": false
+ }
+}

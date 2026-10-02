@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q7572303",
+  "url": "http://www.wikidata.org/entity/Q7572303",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Solar%20power%20system%20at%20Kennedy%20Space%20Center.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Space Coast Next Generation Solar Energy Center",
+  "url": "https://en.wikipedia.org/wiki/Space_Coast_Next_Generation_Solar_Energy_Center",
+  "extract": "The Space Coast Next Generation Solar Energy Center is a 10 megawatt (MW) solar photovoltaic (PV) facility at the Kennedy Space Center, Florida.  Commissioned in April 2010, the center is the result of a partnership between NASA and Florida Power & Light.  The facility has approximately 35,000 solar photovoltaic panels from SunPower covering an area of 60 acres. The facility provides slightly less than one percent of the power needed to keep Kennedy Space Center up and running.\nA 1 MW solar photovoltaic array is also located at the Kennedy Space Center.\nThe Space Coast Next Generation Solar Energy Center was the second largest-scale solar facility in Florida, with the 25 MW DeSoto Next Gener",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Solar_power_system_at_Kennedy_Space_Center.jpg/500px-Solar_power_system_at_Kennedy_Space_Center.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

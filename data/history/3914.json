@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WA00145",
+  "dam_name": "Cushman No. 1 Spillway",
+  "owner": "City of Tacoma",
+  "owner_type": "Public Utility",
+  "designer": "Harza Engineering Co.",
+  "year_completed": 1990,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "North Fork Skokomish River",
+  "height_ft": 55.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WA00145/summary",
+  "distance_km": 0.02,
+  "score": 0.996,
+  "verified": false
+ }
+}

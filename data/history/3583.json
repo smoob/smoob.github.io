@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "TX01912",
+  "dam_name": "Lake Gonzales Dam",
+  "owner": "GUADALUPE-BLANCO RIVER AUTHORITY",
+  "owner_type": "State",
+  "designer": "FORREST AND COTTON",
+  "year_completed": 1931,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Guadalupe River",
+  "height_ft": 42.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/TX01912/summary",
+  "distance_km": 0.08,
+  "score": 0.479,
+  "verified": false
+ }
+}

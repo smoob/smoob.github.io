@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00382",
+  "dam_name": "Salt Springs",
+  "owner": "Pacific Gas and Electric Company",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1931,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "North Fork Mokelumne River",
+  "height_ft": 328.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00382/summary",
+  "distance_km": 0.23,
+  "score": 0.942,
+  "verified": false
+ }
+}

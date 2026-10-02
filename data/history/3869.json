@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WA00068",
+  "dam_name": "Nine Mile",
+  "owner": "Avista Corporation",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1908,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fish and Wildlife Pond;Recreation",
+  "river": "Spokane River",
+  "height_ft": 87.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WA00068/summary",
+  "distance_km": 0.79,
+  "score": 0.802,
+  "verified": false
+ }
+}

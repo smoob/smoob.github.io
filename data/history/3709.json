@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "VT00044",
+  "dam_name": "Bradford",
+  "owner": "Green Mountain Power Corporation",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1905,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Waits River",
+  "height_ft": 52.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/VT00044/summary",
+  "distance_km": 0.1,
+  "score": 0.475,
+  "verified": false
+ }
+}

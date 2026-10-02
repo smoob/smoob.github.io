@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MN00506",
+  "dam_name": "St. Cloud",
+  "owner": "St Cloud, City of",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1972,
+  "years_modified": null,
+  "purposes": "Water Supply;Hydroelectric",
+  "river": "Mississippi River",
+  "height_ft": 23.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MN00506/summary",
+  "distance_km": 0.11,
+  "score": 0.973,
+  "verified": false
+ }
+}

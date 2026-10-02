@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00685",
+  "dam_name": "Colliersville",
+  "owner": null,
+  "owner_type": "Not Listed",
+  "designer": "Stevens - Hewitt Engineering Co.",
+  "year_completed": 1908,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "North Branch Susquehanna River",
+  "height_ft": 35.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00685/summary",
+  "distance_km": 0.17,
+  "score": 0.457,
+  "verified": false
+ }
+}

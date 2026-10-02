@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WI00792",
+  "dam_name": "Thornapple",
+  "owner": "Northern States Power Co",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1909,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Flambeau",
+  "height_ft": 14.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WI00792/summary",
+  "distance_km": 0.13,
+  "score": 0.967,
+  "verified": false
+ }
+}

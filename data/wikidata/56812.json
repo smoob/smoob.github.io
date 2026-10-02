@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q7555685",
+  "url": "http://www.wikidata.org/entity/Q7555685",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abengoa%20Solar%20%287336111844%29.jpg?width=800",
+  "inception": 2013,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Solana Generating Station"
+ },
+ "wikipedia": {
+  "title": "Solana Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Solana_Generating_Station",
+  "extract": "The Solana Generating Station is a solar power plant near Gila Bend, Arizona, about 70 miles (110 km) southwest of Phoenix. It was completed in 2013. When commissioned, it was the largest parabolic trough plant in the world, and the first U.S. solar plant with molten salt thermal energy storage. Built by the Spanish company Abengoa Solar, the project can produce up to 280 megawatts (MW) gross, supplied by two 140 MW gross (125 MW net) steam turbine generators: enough electricity to meet the needs of approximately 70,000 homes and obviate the emission of roughly 475,000 tons of CO2 every year. Its name is the Spanish term for \"sunny spot\".",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Abengoa_Solar_%287336111844%29.jpg/500px-Abengoa_Solar_%287336111844%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

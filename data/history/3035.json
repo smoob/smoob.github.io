@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "OR04092",
+  "dam_name": "Prospect Forebay Dam",
+  "owner": "PacifiCorp",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1911,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "North Fork, Rogue River",
+  "height_ft": 31.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/OR04092/summary",
+  "distance_km": 0.97,
+  "score": 0.758,
+  "verified": false
+ }
+}

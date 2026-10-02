@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00256",
+  "dam_name": "Stark Falls Dike F",
+  "owner": "Erie Boulevard Hydropower, L.P.",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1957,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Raquette River",
+  "height_ft": 10.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00256/summary",
+  "distance_km": 0.25,
+  "score": 0.937,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "AL01423",
+  "dam_name": "Jordan",
+  "owner": "Alabama Power Company",
+  "owner_type": "Public Utility",
+  "designer": "ALABAMA POWER COMPANY",
+  "year_completed": 1928,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Coosa River",
+  "height_ft": 125.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/AL01423/summary",
+  "distance_km": 0.33,
+  "score": 0.918,
+  "verified": false
+ }
+}

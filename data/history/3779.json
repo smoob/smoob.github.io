@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "VA009004",
+  "dam_name": "Reusens",
+  "owner": "Eagle Creek Reusens Hydro, LLC",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1903,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "James",
+  "height_ft": 40.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/VA009004/summary",
+  "distance_km": 0.06,
+  "score": 0.986,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "TX01087",
+  "dam_name": "Mansfield Dam",
+  "owner": "LOWER COLORADO RIVER AUTHORITY",
+  "owner_type": "Local Government",
+  "designer": "DOI BR",
+  "year_completed": 1942,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Irrigation;Hydroelectric;Water Supply",
+  "river": "Colorado River",
+  "height_ft": 277.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/TX01087/summary",
+  "distance_km": 0.26,
+  "score": 0.436,
+  "verified": false
+ }
+}

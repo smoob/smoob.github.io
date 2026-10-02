@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ID00282",
+  "dam_name": "Black Canyon Diversion Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1924,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Irrigation",
+  "river": "Payette River",
+  "height_ft": 183.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ID00282/summary",
+  "distance_km": 0.04,
+  "score": 0.99,
+  "verified": false
+ }
+}

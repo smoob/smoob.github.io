@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q3305184",
+  "url": "http://www.wikidata.org/entity/Q3305184",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nellis%201.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Nellis Solar Power Plant"
+ },
+ "wikipedia": {
+  "title": "Nellis Solar Power Plant",
+  "url": "https://en.wikipedia.org/wiki/Nellis_Solar_Power_Plant",
+  "extract": "The Nellis Solar Power Plant is a 14-megawatt (MW) photovoltaic power station located within Nellis Air Force Base. The power plant was inaugurated in a ceremony on December 17, 2007, with Nevada Governor Jim Gibbons activating its full operation.\nThe peak power generation capacity of the plant is 15 MWAC. This means the ratio of average to peak output, or capacity factor, of this plant is around 22%.\nConstruction began on April 23, 2007, and operation of the first 5 MW began on October 12, 2007.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Nellis_AFB_Solar_panels.jpg/500px-Nellis_AFB_Solar_panels.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

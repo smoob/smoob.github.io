@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "OR00317",
+  "dam_name": "Development No. 2 Dam",
+  "owner": "City of Portland Oregon",
+  "owner_type": "Local Government",
+  "designer": "Stevens & Thompson of Portland, OR",
+  "year_completed": 1962,
+  "years_modified": null,
+  "purposes": "Water Supply;Hydroelectric",
+  "river": "Bull Run River",
+  "height_ft": 145.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/OR00317/summary",
+  "distance_km": 0.18,
+  "score": 0.455,
+  "verified": false
+ }
+}

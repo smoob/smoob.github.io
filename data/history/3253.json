@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "SCD04003",
+  "dam_name": "Boyd's Millpond Dam",
+  "owner": "NORTHBROOK CAROLINA HYDRO LLC",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1909,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Reedy River",
+  "height_ft": 36.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/SCD04003/summary",
+  "distance_km": 0.04,
+  "score": 0.491,
+  "verified": false
+ }
+}

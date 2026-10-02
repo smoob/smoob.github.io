@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q930391",
+  "url": "http://www.wikidata.org/entity/Q930391",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Coulee%20Dam.jpg?width=800",
+  "inception": 1941,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Grand Coulee Dam"
+ },
+ "wikipedia": {
+  "title": "Grand Coulee Dam",
+  "url": "https://en.wikipedia.org/wiki/Grand_Coulee_Dam",
+  "extract": "Grand Coulee Dam is a concrete gravity dam on the Columbia River in the U.S. state of Washington, built to produce hydroelectric power and provide irrigation water. Constructed between 1933 and 1942, Grand Coulee originally had two powerhouses. The third powerhouse (\"Nat\"), completed in 1974 to increase energy production, makes Grand Coulee the largest power station in the United States by nameplate capacity at 6,809 MW.\nThe proposal to build the dam was the focus of intense debate during the 1920s between two groups. One group wanted to irrigate the ancient Grand Coulee with a gravity canal while the other pursued a high dam and pumping scheme. The dam supporters won in 1933, but, although ",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Grand_Coulee_Dam_Panorama.jpg/500px-Grand_Coulee_Dam_Panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

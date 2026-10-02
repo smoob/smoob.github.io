@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q104867181",
+  "url": "http://www.wikidata.org/entity/Q104867181",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kawaiola%20wind%20Farm.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Kawailoa Wind Farm",
+  "url": "https://en.wikipedia.org/wiki/Kawailoa_Wind_Farm",
+  "extract": "Kawailoa Wind Farm is a wind farm near the Waimea Valley, on the North Shore of Oahu. Commissioned in 2011, it comprises 30\n\nwind turbines. At maximum capacity the farm is able to produce 69 MW. Kawailoa Wind Farm has been operational since 2012 and is a part of Hawaii's renewable energy efforts. Despite its clean energy, there are unintended ecosystem impacts on some native species of birds and bats, and efforts to mitigate these threats are ongoing.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kawaiola_wind_Farm.jpg/500px-Kawaiola_wind_Farm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

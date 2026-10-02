@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA01364",
+  "dam_name": "Devil Canyon Second Afterbay",
+  "owner": "California Department of Water Resources",
+  "owner_type": "State",
+  "designer": "DWR",
+  "year_completed": 1995,
+  "years_modified": null,
+  "purposes": "Water Supply;Hydroelectric",
+  "river": "Devil Canyon Creek",
+  "height_ft": 88.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA01364/summary",
+  "distance_km": 0.18,
+  "score": 0.955,
+  "verified": false
+ }
+}

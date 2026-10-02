@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q5264019",
+  "url": "http://www.wikidata.org/entity/Q5264019",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Desert-Sky-Wind-Farm.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Desert Sky Wind Farm",
+  "url": "https://en.wikipedia.org/wiki/Desert_Sky_Wind_Farm",
+  "extract": "The Desert Sky Wind Farm is a 160.5 megawatt (MW) wind power station near the far West Texas town of Iraan, in Pecos County. The wind farm consists of 107 GE wind turbines, each rated at 1.5 megawatts spread over a 15-square-mile (39 km2) area. American Electric Power (AEP) owns the facility and CPS Energy of San Antonio purchases all power produced under long-term agreements with AEP.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Desert-Sky-Wind-Farm.jpg/500px-Desert-Sky-Wind-Farm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

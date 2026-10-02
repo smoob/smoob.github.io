@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q1508667",
+  "url": "http://www.wikidata.org/entity/Q1508667",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PaloVerdeNuclearGeneratingStation.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": "Arizona Public Service",
+  "commons_category": "Palo Verde Nuclear Generating Station"
+ },
+ "wikipedia": {
+  "title": "Palo Verde Nuclear Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Palo_Verde_Nuclear_Generating_Station",
+  "extract": "The Palo Verde Generating Station is a nuclear power plant located near Tonopah, Arizona about 45 miles (72 km) west of downtown Phoenix. Palo Verde generates the second most electricity of any power plant in the United States per year, and is the second largest power plant by net generation as of 2021. Palo Verde has the third-highest rated capacity of any US power plant. It is a critical asset to the Southwest, generating approximately 32 million megawatt-hours annually.\nIts average electric power production is about 3.3 gigawatts (GW), serving about four million people. Arizona Public Service (APS) owns 29.1% of, and operates the plant. Its other owners are the Salt River Project (20.2%),",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/PaloVerdeNuclearGeneratingStation.jpg/500px-PaloVerdeNuclearGeneratingStation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

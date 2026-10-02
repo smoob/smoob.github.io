@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "VT00025",
+  "dam_name": "Harriman",
+  "owner": "Great River Hydro, LLC",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1924,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Deerfield River",
+  "height_ft": 186.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/VT00025/summary",
+  "distance_km": 0.04,
+  "score": 0.991,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NH00126",
+  "dam_name": "Lower Great Falls",
+  "owner": null,
+  "owner_type": "Not Listed",
+  "designer": null,
+  "year_completed": 1984,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Salmon Falls River",
+  "height_ft": 36.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NH00126/summary",
+  "distance_km": 1.36,
+  "score": 0.661,
+  "verified": false
+ }
+}

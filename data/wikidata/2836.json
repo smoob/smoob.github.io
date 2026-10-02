@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q11959837",
+  "url": "http://www.wikidata.org/entity/Q11959837",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Avon%20Lake%20power%20plant.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Avon Lake Power Plant",
+  "url": "https://en.wikipedia.org/wiki/Avon_Lake_Power_Plant",
+  "extract": "The Avon Lake Power Plant was a coal-fired power plant located in Avon Lake, Ohio.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Avon_Lake_power_plant.jpg/500px-Avon_Lake_power_plant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

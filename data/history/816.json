@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ID00052",
+  "dam_name": "Lower Salmon",
+  "owner": "Idaho Power Company",
+  "owner_type": "Private",
+  "designer": "EBASCO",
+  "year_completed": 1949,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Snake River",
+  "height_ft": 110.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ID00052/summary",
+  "distance_km": 0.13,
+  "score": 0.967,
+  "verified": false
+ }
+}

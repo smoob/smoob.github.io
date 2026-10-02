@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q985274",
+  "url": "http://www.wikidata.org/entity/Q985274",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RusselvillePowerplant.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": "Entergy",
+  "commons_category": "Arkansas Nuclear One"
+ },
+ "wikipedia": {
+  "title": "Arkansas Nuclear One",
+  "url": "https://en.wikipedia.org/wiki/Arkansas_Nuclear_One",
+  "extract": "Arkansas Nuclear One (ANO) is a two-unit pressurized water nuclear power plant located on Lake Dardanelle outside Russellville, Arkansas. It is owned by Entergy Arkansas and operated by Entergy Nuclear. It is the only nuclear power facility in Arkansas. ANO has been in continuous operation for 50 years as of December 17, 2024.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/RusselvillePowerplant_b.jpg/500px-RusselvillePowerplant_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

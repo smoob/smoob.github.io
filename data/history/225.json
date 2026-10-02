@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00418",
+  "dam_name": "Chili Bar",
+  "owner": "Sacramento Municipal Utility District",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1964,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "South Fork American River",
+  "height_ft": 126.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00418/summary",
+  "distance_km": 0.05,
+  "score": 0.988,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WA00013",
+  "dam_name": "Box Canyon Forebay Dam",
+  "owner": "PUD #1 of Pend Oreille County",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1955,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Pend Oreille River",
+  "height_ft": 32.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WA00013/summary",
+  "distance_km": 0.4,
+  "score": 0.899,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "KY03010",
+  "dam_name": "Wolf Creek Dam",
+  "owner": "USACE - Nashville District",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1951,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Other;Recreation;Water Supply;Flood Risk Reduction",
+  "river": "Cumberland",
+  "height_ft": 258.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/KY03010/summary",
+  "distance_km": 0.29,
+  "score": 0.926,
+  "verified": false
+ }
+}

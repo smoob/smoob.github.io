@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WI00005",
+  "dam_name": "Kilbourn",
+  "owner": "Alliant Energy",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1909,
+  "years_modified": "2011O;2011O",
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Wisconsin",
+  "height_ft": 61.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WI00005/summary",
+  "distance_km": 0.11,
+  "score": 0.973,
+  "verified": false
+ }
+}

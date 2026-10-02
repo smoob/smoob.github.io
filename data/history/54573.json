@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00003",
+  "dam_name": "Wappingers Falls",
+  "owner": "Village of Wappingers Falls, NY",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1872,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fire Protection, Stock, Or Small Fish Pond;Navigation;Recreation",
+  "river": "Wappinger Creek",
+  "height_ft": 20.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00003/summary",
+  "distance_km": 0.3,
+  "score": 0.426,
+  "verified": false
+ }
+}

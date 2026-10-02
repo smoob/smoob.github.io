@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MA00853",
+  "dam_name": "Gardners Falls",
+  "owner": null,
+  "owner_type": "Not Listed",
+  "designer": null,
+  "year_completed": 1904,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Deerfield River",
+  "height_ft": 37.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MA00853/summary",
+  "distance_km": 0.05,
+  "score": 0.987,
+  "verified": false
+ }
+}

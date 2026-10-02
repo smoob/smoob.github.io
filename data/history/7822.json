@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WI00779",
+  "dam_name": "Little Chute Locks and Dam",
+  "owner": "USACE - Chicago District;Wisconsin DNR",
+  "owner_type": "Federal",
+  "designer": "CELRE",
+  "year_completed": 1932,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Navigation;Recreation;Hydroelectric",
+  "river": "Fox",
+  "height_ft": 20.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WI00779/summary",
+  "distance_km": 0.09,
+  "score": 0.477,
+  "verified": false
+ }
+}

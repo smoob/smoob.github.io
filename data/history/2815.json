@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ND00145",
+  "dam_name": "Garrison Dam",
+  "owner": "USACE - Omaha District",
+  "owner_type": "Federal",
+  "designer": "CENWO",
+  "year_completed": 1953,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Irrigation;Navigation;Recreation;Flood Risk Reduction",
+  "river": "Missouri River",
+  "height_ft": 210.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ND00145/summary",
+  "distance_km": 0.47,
+  "score": 0.883,
+  "verified": false
+ }
+}

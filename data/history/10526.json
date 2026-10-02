@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NH00014",
+  "dam_name": "Dodge Falls",
+  "owner": "Dodge Falls Associates Limited Partnership",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1905,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Water Supply",
+  "river": "Connecticut River",
+  "height_ft": 18.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NH00014/summary",
+  "distance_km": 0.03,
+  "score": 0.993,
+  "verified": false
+ }
+}

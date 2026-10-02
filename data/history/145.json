@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "AZ10311",
+  "dam_name": "Horse Mesa Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1927,
+  "years_modified": "1999E;1999F",
+  "purposes": "Hydroelectric;Irrigation;Water Supply",
+  "river": "Salt River",
+  "height_ft": 305.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/AZ10311/summary",
+  "distance_km": 0.01,
+  "score": 0.996,
+  "verified": false
+ }
+}

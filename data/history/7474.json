@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "IL50078",
+  "dam_name": "Upper Sterling",
+  "owner": "Illinois Dept of Transportation",
+  "owner_type": "Local Government",
+  "designer": "U.S. ARMY CORPS OF ENGINEERS",
+  "year_completed": 1907,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Flood Risk Reduction",
+  "river": "Rock Creek",
+  "height_ft": 10.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/IL50078/summary",
+  "distance_km": 0.27,
+  "score": 0.934,
+  "verified": false
+ }
+}

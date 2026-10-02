@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NC01210",
+  "dam_name": "High Shoals",
+  "owner": "High Shoals, LLC",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1922,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "South Fork Catawba",
+  "height_ft": 35.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NC01210/summary",
+  "distance_km": 0.27,
+  "score": 0.931,
+  "verified": false
+ }
+}

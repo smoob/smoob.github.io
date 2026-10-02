@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA01107",
+  "dam_name": "Indian Valley",
+  "owner": "Yolo County Flood Control and Water Conservation District",
+  "owner_type": "Local Government",
+  "designer": "CH2M Hill",
+  "year_completed": 1975,
+  "years_modified": null,
+  "purposes": "Irrigation;Fish and Wildlife Pond;Recreation;Hydroelectric;Water Supply;Flood Risk Reduction",
+  "river": "North Fork Cache Creek",
+  "height_ft": 225.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA01107/summary",
+  "distance_km": 0.09,
+  "score": 0.978,
+  "verified": false
+ }
+}

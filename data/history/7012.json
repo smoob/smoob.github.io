@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ID00340",
+  "dam_name": "Lower Diversion",
+  "owner": "City of Idaho Falls",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1982,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Snake River",
+  "height_ft": 14.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ID00340/summary",
+  "distance_km": 0.07,
+  "score": 0.483,
+  "verified": false
+ }
+}

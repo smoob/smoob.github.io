@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q60742693",
+  "url": "http://www.wikidata.org/entity/Q60742693",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oregon%20Clean%20Energy%20Center%20Plant%2C%20June%202022.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Oregon Clean Energy Center",
+  "url": "https://en.wikipedia.org/wiki/Oregon_Clean_Energy_Center",
+  "extract": "The Oregon Clean Energy Center (OCEC) is a combined-cycle natural gas-fired generation facility located in Oregon, Ohio. The facility has the capability to generate 960 net megawatts of capacity and can produce electricity for more than 700,000 homes. It was developed and financed in direct response to the robust wholesale price signal provided by PJM Interconnections's capacity and energy markets.\nThe OCEC uses two Siemens SGT6-8000H gas turbines and one steam turbine, currently the most advanced on the market. Designed to be the most efficient generating facility in the mid-Atlantic power markets, OCEC emits 90% less sulfur dioxide, nitrogen oxide, mercury and fine particulate matter than ",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Oregon_Clean_Energy_Center_Plant%2C_June_2022.jpg/500px-Oregon_Clean_Energy_Center_Plant%2C_June_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

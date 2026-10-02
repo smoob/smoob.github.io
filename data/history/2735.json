@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NC00208",
+  "dam_name": "Turner Shoals Dam",
+  "owner": "Polk County",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1925,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Green River",
+  "height_ft": 87.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NC00208/summary",
+  "distance_km": 0.14,
+  "score": 0.964,
+  "verified": false
+ }
+}

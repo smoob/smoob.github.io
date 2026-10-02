@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MO30200",
+  "dam_name": "Stockton Dam",
+  "owner": "USACE - Kansas City District",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1969,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Other;Irrigation;Navigation;Fish and Wildlife Pond;Recreation;Hydroelectric;Water Supply",
+  "river": "Sac River",
+  "height_ft": 153.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MO30200/summary",
+  "distance_km": 0.87,
+  "score": 0.784,
+  "verified": false
+ }
+}

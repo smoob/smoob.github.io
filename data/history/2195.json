@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MT00224",
+  "dam_name": "Thompson Falls - Intake Dam B",
+  "owner": "NorthWestern Energy",
+  "owner_type": "Private",
+  "designer": "Stone & Webster-Kiewit JV (design/build)",
+  "year_completed": 1996,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Clark Fork River, Pend Oreille",
+  "height_ft": 142.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MT00224/summary",
+  "distance_km": 0.09,
+  "score": 0.978,
+  "verified": false
+ }
+}

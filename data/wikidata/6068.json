@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q6175968",
+  "url": "http://www.wikidata.org/entity/Q6175968",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeffrey%20Energy%20Center.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Jeffrey Energy Center",
+  "url": "https://en.wikipedia.org/wiki/Jeffrey_Energy_Center",
+  "extract": "Jeffrey Energy Center (Jeffrey EC) is a sub-bituminous coal-fired power plant located in Emmett Township, Pottawatomie County, seven miles (11 km) northwest of St. Marys, Kansas. Jeffrey EC is jointly owned by Evergy, Inc. and Aquila Corp., both wholly owned subsidiaries of Evergy, Inc., Kansas City, Missouri. Jeffrey EC is composed of three separate 800-MW units providing a name-plate energy center capacity of 2.4 gigawatts. Unit 1 began operation in 1978, unit 2 in 1980 and unit 3 in 1983.\nJeffrey EC is a typical coal-fired energy center. Its primary mission is to convert the chemical energy available from its Wyoming Powder River Basin sub-bituminous coal supply into electric energy.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/28/Jeffrey_Energy_Center.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "OK10307",
+  "dam_name": "Broken Bow Dam",
+  "owner": "USACE - Tulsa District",
+  "owner_type": "Federal",
+  "designer": "CESWT",
+  "year_completed": 1968,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Other;Recreation;Hydroelectric;Water Supply",
+  "river": "Mountain Fork River",
+  "height_ft": 225.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/OK10307/summary",
+  "distance_km": 0.82,
+  "score": 0.794,
+  "verified": false
+ }
+}

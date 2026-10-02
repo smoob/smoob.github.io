@@ -1,0 +1,67 @@
+[
+ {
+  "source": "Global Energy Monitor",
+  "source_key": "gem",
+  "title": "Big Cajun II Power Plant",
+  "url": "https://www.gem.wiki/Big_Cajun_II_Power_Plant",
+  "thumb": null,
+  "extract": "Big Cajun II Power Plant is an operating power station of at least 1902-megawatts (MW) in New Roads, Pointe Coupee, Louisiana, United States with multiple units, some of which are not currently operating.",
+  "date": null,
+  "rights": "GEM wiki text, CC BY 4.0",
+  "rights_status": "licensed",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons",
+  "source_key": "commons",
+  "title": "Cajun Diner in Sulphur Louisiana.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Cajun_Diner_in_Sulphur_Louisiana.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Cajun_Diner_in_Sulphur_Louisiana.jpg/500px-Cajun_Diner_in_Sulphur_Louisiana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "2012-01-05 14:13:38",
+  "author": "Kimble Young",
+  "rights": "CC BY-SA 2.0",
+  "rights_status": "licensed",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons",
+  "source_key": "commons",
+  "title": "Little Big Cup, Arnaudville, Louisiana - The Little Big Mary.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Little_Big_Cup,_Arnaudville,_Louisiana_-_The_Little_Big_Mary.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Little_Big_Cup%2C_Arnaudville%2C_Louisiana_-_The_Little_Big_Mary.jpg/500px-Little_Big_Cup%2C_Arnaudville%2C_Louisiana_-_The_Little_Big_Mary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "2025-06-01 09:37:56",
+  "author": "Paul Lowry",
+  "rights": "CC BY 2.0",
+  "rights_status": "licensed",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons",
+  "source_key": "commons",
+  "title": "Mississippi River, River Bend Nuclear Power Plant, and Big Cajun 2 Power Plant, New Roads, Louisiana (51142218074).jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Mississippi_River,_River_Bend_Nuclear_Power_Plant,_and_Big_Cajun_2_Power_Plant,_New_Roads,_Louisiana_(51142218074).jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Mississippi_River%2C_River_Bend_Nuclear_Power_Plant%2C_and_Big_Cajun_2_Power_Plant%2C_New_Roads%2C_Louisiana_%2851142218074%29.jpg/500px-Mississippi_River%2C_River_Bend_Nuclear_Power_Plant%2C_and_Big_Cajun_2_Power_Plant%2C_New_Roads%2C_Louisiana_%2851142218074%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "2021-04-26 06:07",
+  "author": "Ken Lund from Reno, Nevada, USA",
+  "rights": "CC BY-SA 2.0",
+  "rights_status": "licensed",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons",
+  "source_key": "commons",
+  "title": "Brunch at Marilynn's Place, Shreveport - smoked pork loin biscuit sandwich served with pear jalapeno and pecan gravy.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Brunch_at_Marilynn%27s_Place,_Shreveport_-_smoked_pork_loin_biscuit_sandwich_served_with_pear_jalapeno_and_pecan_gravy.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Brunch_at_Marilynn%27s_Place%2C_Shreveport_-_smoked_pork_loin_biscuit_sandwich_served_with_pear_jalapeno_and_pecan_gravy.jpg/500px-Brunch_at_Marilynn%27s_Place%2C_Shreveport_-_smoked_pork_loin_biscuit_sandwich_served_with_pear_jalapeno_and_pecan_gravy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "2015-06-14 11:04:50",
+  "author": "Shreveport-Bossier Convention and Tourist Bureau",
+  "rights": "CC BY 2.0",
+  "rights_status": "licensed",
+  "score": 0.75,
+  "verified": false
+ }
+]

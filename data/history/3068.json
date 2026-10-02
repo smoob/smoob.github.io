@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "OR00553",
+  "dam_name": "Leaburg Canal and Forebay",
+  "owner": "Eugene Water and Electric Board",
+  "owner_type": "Public Utility",
+  "designer": "Stevens and Koon",
+  "year_completed": 1930,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "McKenzie River",
+  "height_ft": 15.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/OR00553/summary",
+  "distance_km": 0.08,
+  "score": 0.98,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "OR00596",
+  "dam_name": "Willamette Falls",
+  "owner": "Portland General Electric Company",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1923,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Navigation",
+  "river": "Willamette River",
+  "height_ft": 20.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/OR00596/summary",
+  "distance_km": 0.31,
+  "score": 0.422,
+  "verified": false
+ }
+}

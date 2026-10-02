@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WI00743",
+  "dam_name": "Grandfather Falls",
+  "owner": "Wisconsin Public Service Corporation",
+  "owner_type": "Public Utility",
+  "designer": "Public Utility Engineering & Service Corp",
+  "year_completed": 1906,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Wisconsin River",
+  "height_ft": 32.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WI00743/summary",
+  "distance_km": 1.37,
+  "score": 0.657,
+  "verified": false
+ }
+}

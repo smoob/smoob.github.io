@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WY01293",
+  "dam_name": "Guernsey Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": "BUREAU OF RECLAMATION",
+  "year_completed": 1927,
+  "years_modified": "1984S;2016S",
+  "purposes": "Hydroelectric;Irrigation",
+  "river": "North Platte River",
+  "height_ft": 137.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WY01293/summary",
+  "distance_km": 0.3,
+  "score": 0.926,
+  "verified": false
+ }
+}

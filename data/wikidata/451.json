@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q7842719",
+  "url": "http://www.wikidata.org/entity/Q7842719",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TrinityDam1.jpg?width=800",
+  "inception": 1957,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Trinity Dam"
+ },
+ "wikipedia": {
+  "title": "Trinity Dam",
+  "url": "https://en.wikipedia.org/wiki/Trinity_Dam",
+  "extract": "Trinity Dam is an earthfill dam on the Trinity River located about 7 miles (11 km) northeast of Weaverville, California in the United States. The dam was completed in the early 1960s as part of the federal Central Valley Project to provide irrigation water to the arid San Joaquin Valley.\nStanding 538 ft (164 m) high, Trinity Dam forms Trinity Lake \u2013 California's third largest reservoir, with a capacity of more than 2,400,000 acre-feet (3,000,000 dam3). The dam includes a hydroelectric plant, and also provides flood control to the Trinity and Klamath river basins.\nBelow the dam is Lewiston Lake, formed by a second dam, which diverts water through a 10.7 mile tunnel to the Sacramento Valley.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TrinityDam1.jpg/500px-TrinityDam1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q7236845",
+  "url": "http://www.wikidata.org/entity/Q7236845",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Powersite%20Dam%20Ow3i407.JPG?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Powersite Dam",
+  "url": "https://en.wikipedia.org/wiki/Powersite_Dam",
+  "extract": "Powersite Dam is a hydroelectric dam in Forsyth, Missouri that went into service in 1913. It is along the White River, and its reservoir is Lake Taneycomo. It was the first hydroelectric dam built in Missouri. Designed in 1911 by Nils F. Ambursen as the largest concrete buttress dam of its kind, the dam is still privately owned by the Empire District Electric Company.\nOriginally constructed to provide 4 megawatts at 25-hertz, it has since been upgraded to provide 16 megawatts of power at 60-hertz. Sixty hertz is now the standard frequency of electric power in North America, though the old 25-hertz power distribution was more efficient, having less loss.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Powersite_Dam_Ow3i407.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ }
+}

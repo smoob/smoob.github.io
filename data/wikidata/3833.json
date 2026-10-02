@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q6236916",
+  "url": "http://www.wikidata.org/entity/Q6236916",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/USACE%20John%20H%20Kerr%20Dam%20and%20Lake.jpg?width=800",
+  "inception": 1953,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "John H. Kerr Dam"
+ },
+ "wikipedia": {
+  "title": "John H. Kerr Dam",
+  "url": "https://en.wikipedia.org/wiki/John_H._Kerr_Dam",
+  "extract": "John H. Kerr Dam is concrete gravity-dam located on the Roanoke River in Virginia, creating Kerr Lake. The dam was built by the U.S. Army Corps of Engineers between 1947 and 1953 for the purposes of flood control, and hydropower. The dam also serves wildlife resources, forest conservation, and public recreational uses.  The John H. Kerr Dam currently produces over 426 GWh of electricity annually and has prevented over $385 million in flood damage since completion. The dam is named after John H. Kerr, a Congressman from North Carolina who was instrumental in  authorizing the construction.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/USACE_John_H_Kerr_Dam_and_Lake.jpg/500px-USACE_John_H_Kerr_Dam_and_Lake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

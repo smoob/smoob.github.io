@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q4848475",
+  "url": "http://www.wikidata.org/entity/Q4848475",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Burns%20Harbor%20power%20station%20-%20panoramio.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Bailly Power Plant"
+ },
+ "wikipedia": {
+  "title": "Bailly Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Bailly_Generating_Station",
+  "extract": "The Bailly Generating Station was a 604-megawatt (MW) coal power plant located in Burns Harbor, Indiana, on the shore of Lake Michigan adjacent to the Port of Indiana.  The plant, which began operation in 1962 and tripled its capacity in 1968, is owned and operated by the Northern Indiana Public Service Company (NIPSCO), an electric-utility operating division of the energy holding company NiSource. The plant ceased coal-fired electrical generation on May 31, 2018.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burns_Harbor_power_station_-_panoramio.jpg/500px-Burns_Harbor_power_station_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

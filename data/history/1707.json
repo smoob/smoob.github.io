@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MI00171",
+  "dam_name": "Hardy",
+  "owner": "Consumers Energy Company",
+  "owner_type": "Public Utility",
+  "designer": "FARGO ENGINEERING",
+  "year_completed": 1931,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation;Flood Risk Reduction",
+  "river": "Muskegon River",
+  "height_ft": 106.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MI00171/summary",
+  "distance_km": 0.04,
+  "score": 0.989,
+  "verified": false
+ }
+}

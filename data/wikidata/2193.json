@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q7284612",
+  "url": "http://www.wikidata.org/entity/Q7284612",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rainbow%20Falls%20Great%20Falls%20MT2.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Rainbow Dam"
+ },
+ "wikipedia": {
+  "title": "Rainbow Dam",
+  "url": "https://en.wikipedia.org/wiki/Rainbow_Dam",
+  "extract": "Rainbow Dam is a hydroelectric dam on the Missouri River, 29 feet (8.8 m) high and 1,055 feet (322 m) long, located six miles northeast of Great Falls in the U.S. state of Montana.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Rainbow_Falls_Great_Falls_MT2.jpg/500px-Rainbow_Falls_Great_Falls_MT2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

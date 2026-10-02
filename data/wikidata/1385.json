@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q8006282",
+  "url": "http://www.wikidata.org/entity/Q8006282",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Picture%20007DalePowerPlant.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "William C. Dale Power Station",
+  "url": "https://en.wikipedia.org/wiki/William_C._Dale_Power_Station",
+  "extract": "The William C. Dale Power Station is a coal-fired power station owned and operated by East Kentucky Cooperative near Winchester, Kentucky. It is located about 20 miles southeast of Lexington, Kentucky.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Picture_007DalePowerPlant.jpg/500px-Picture_007DalePowerPlant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MA01065",
+  "dam_name": "Deerfield No. 4 - Forebay",
+  "owner": "Great River Hydro, LLC",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1912,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Deerfield River",
+  "height_ft": 20.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MA01065/summary",
+  "distance_km": 0.06,
+  "score": 0.984,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WA00150",
+  "dam_name": "Packwood Lake",
+  "owner": "Energy Northwest",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1964,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Lake Creek, Cowlitz River",
+  "height_ft": 14.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WA00150/summary",
+  "distance_km": 0.13,
+  "score": 0.966,
+  "verified": false
+ }
+}

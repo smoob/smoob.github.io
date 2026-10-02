@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY01071",
+  "dam_name": "Center Falls",
+  "owner": "Hollingsworth & Vose Company",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1909,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Water Supply;Flood Risk Reduction",
+  "river": "Battenkill River",
+  "height_ft": 28.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY01071/summary",
+  "distance_km": 0.03,
+  "score": 0.992,
+  "verified": false
+ }
+}

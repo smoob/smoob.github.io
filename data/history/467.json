@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CO01239",
+  "dam_name": "Cabin Creek Upper",
+  "owner": "Public Service Company of Colorado",
+  "owner_type": "Public Utility",
+  "designer": "Stone and Webster",
+  "year_completed": 1967,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "South Clear Creek",
+  "height_ft": 210.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CO01239/summary",
+  "distance_km": 0.01,
+  "score": 0.998,
+  "verified": false
+ }
+}

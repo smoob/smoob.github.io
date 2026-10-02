@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "AK84002",
+  "dam_name": "Hiilangaay Dam",
+  "owner": "Haida Corporation",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 2021,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Reynolds Creek",
+  "height_ft": 15.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/AK84002/summary",
+  "distance_km": 1.56,
+  "score": 0.609,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ID00283",
+  "dam_name": "Cascade Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": "BUREAU OF RECLAMATION",
+  "year_completed": 1948,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Irrigation",
+  "river": "North Fork Payette River  Payette River",
+  "height_ft": 110.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ID00283/summary",
+  "distance_km": 0.2,
+  "score": 0.95,
+  "verified": false
+ }
+}

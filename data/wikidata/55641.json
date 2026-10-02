@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q7338486",
+  "url": "http://www.wikidata.org/entity/Q7338486",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Riverside%20Energy%20Center%202.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Riverside Energy Center",
+  "url": "https://en.wikipedia.org/wiki/Riverside_Energy_Center",
+  "extract": "Riverside Energy Center is an electrical power station located north of Beloit, Wisconsin in the Town of Beloit, just west of the Rock River. It consists of two 2-on-1 units (2 Combustion turbines per 1 Steam turbine). The facility is owned and operated by Alliant Energy.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Riverside_Energy_Center_2.jpg/500px-Riverside_Energy_Center_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

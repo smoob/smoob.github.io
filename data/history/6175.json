@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WA00349",
+  "dam_name": "Lower Granite Lock and Dam",
+  "owner": "USACE - Walla Walla District",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1975,
+  "years_modified": null,
+  "purposes": "Navigation;Fish and Wildlife Pond;Recreation;Hydroelectric",
+  "river": "Snake River",
+  "height_ft": 228.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WA00349/summary",
+  "distance_km": 0.14,
+  "score": 0.965,
+  "verified": false
+ }
+}

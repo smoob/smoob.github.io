@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "TN04102",
+  "dam_name": "Center Hill Dam",
+  "owner": "USACE - Nashville District",
+  "owner_type": "Federal",
+  "designer": "CELRN",
+  "year_completed": 1951,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Other;Recreation;Hydroelectric;Water Supply",
+  "river": "Caney Fork River",
+  "height_ft": 125.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/TN04102/summary",
+  "distance_km": 0.12,
+  "score": 0.97,
+  "verified": false
+ }
+}

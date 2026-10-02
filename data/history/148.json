@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "AZ10313",
+  "dam_name": "Mormon Flat Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1926,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Irrigation",
+  "river": "Salt River",
+  "height_ft": 224.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/AZ10313/summary",
+  "distance_km": 0.03,
+  "score": 0.993,
+  "verified": false
+ }
+}

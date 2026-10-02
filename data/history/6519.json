@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "VT00036",
+  "dam_name": "Vergennes Center Spillway",
+  "owner": "Green Mountain Power Corporation",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1912,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Otter Creek",
+  "height_ft": 12.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/VT00036/summary",
+  "distance_km": 0.1,
+  "score": 0.975,
+  "verified": false
+ }
+}

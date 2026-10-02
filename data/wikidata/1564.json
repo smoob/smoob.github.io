@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q19398052",
+  "url": "http://www.wikidata.org/entity/Q19398052",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vienna%20Generating%20Station%20MD1.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Vienna Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Vienna_Generating_Station",
+  "extract": "The Vienna Generating Station is a 167 MW oil-fired electric generating plant owned by NRG Energy, located in Vienna, Maryland.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Vienna_Generating_Station_MD1.jpg/500px-Vienna_Generating_Station_MD1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

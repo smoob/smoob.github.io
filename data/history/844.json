@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ID00434",
+  "dam_name": "Idaho Falls Upper Diversion Dam No 1",
+  "owner": null,
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1982,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Snake River  Columbia River",
+  "height_ft": 28.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ID00434/summary",
+  "distance_km": 0.0,
+  "score": 0.499,
+  "verified": false
+ }
+}

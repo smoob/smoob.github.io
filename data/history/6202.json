@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WA00169",
+  "dam_name": "Ross",
+  "owner": "City of Seattle",
+  "owner_type": "Local Government",
+  "designer": "U.S. Bureau of Reclamation/Dr. J.L. Savage",
+  "year_completed": 1949,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fish and Wildlife Pond;Recreation;Flood Risk Reduction",
+  "river": "Skagit River",
+  "height_ft": 540.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WA00169/summary",
+  "distance_km": 0.04,
+  "score": 0.989,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MI00534",
+  "dam_name": "Sturgis",
+  "owner": "Sturgis, City of",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1913,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "St Joseph River",
+  "height_ft": 25.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MI00534/summary",
+  "distance_km": 0.05,
+  "score": 0.488,
+  "verified": false
+ }
+}

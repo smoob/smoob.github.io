@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ME83033",
+  "dam_name": "Weston - South Channel",
+  "owner": null,
+  "owner_type": "Not Listed",
+  "designer": null,
+  "year_completed": 1921,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Kennebec River",
+  "height_ft": 51.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ME83033/summary",
+  "distance_km": 0.06,
+  "score": 0.984,
+  "verified": false
+ }
+}

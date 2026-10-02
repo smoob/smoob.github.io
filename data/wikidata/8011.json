@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q862589",
+  "url": "http://www.wikidata.org/entity/Q862589",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Three%20Mile%20Island%20Nuclear%20Generating%20Station%20%2851142893665%29.jpg?width=800",
+  "inception": 1970,
+  "start_year": null,
+  "operator": "Exelon",
+  "commons_category": "Three Mile Island Nuclear Generating Station"
+ },
+ "wikipedia": {
+  "title": "Three Mile Island Nuclear Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Three_Mile_Island_Nuclear_Generating_Station",
+  "extract": "Three Mile Island Nuclear Generating Station (abbreviated as TMI), is a shut-down nuclear power plant on Three Mile Island in Pennsylvania, US, on the Susquehanna River just south of Harrisburg. It has two separate units, Unit 1 (TMI-1) (owned by Constellation Energy) and Unit 2 (TMI-2) (owned by EnergySolutions).\nThe plant was the site of the most significant accident in United States commercial nuclear energy when, on March 28, 1979, TMI-2 suffered a partial meltdown. According to the U.S. Nuclear Regulatory Commission (NRC) report, the accident resulted in no deaths or injuries to plant workers or in nearby communities. Follow-up epidemiology studies did not find causality between the acc",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Three_Mile_Island_Nuclear_Generating_Station_%2851142893665%29.jpg/500px-Three_Mile_Island_Nuclear_Generating_Station_%2851142893665%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q7201499",
+  "url": "http://www.wikidata.org/entity/Q7201499",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Earth%20Texas%20Plant%20X%202008.jpg?width=800",
+  "inception": 1953,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Plant X",
+  "url": "https://en.wikipedia.org/wiki/Plant_X",
+  "extract": "Plant X is a steam\u2013electric power plant located in the partially vegetated sandhills south of the West Texas town of Earth in Lamb County, Texas.  It is owned and operated by Southwestern Public Service Company, a subsidiary of Xcel Energy.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Earth_Texas_Plant_X_2008.jpg/500px-Earth_Texas_Plant_X_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

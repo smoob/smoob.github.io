@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q4733545",
+  "url": "http://www.wikidata.org/entity/Q4733545",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AlmaCoal.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Alma Station (power station)",
+  "url": "https://en.wikipedia.org/wiki/Alma_Station_(power_station)",
+  "extract": "Alma Station was a baseload coal power station in Alma, Wisconsin. The plant was built and operated by Dairyland Power Cooperative. Upon the completion of the plant's construction in 1947, it was the largest cooperatively owned power station in the world. Alma Station was decommissioned in 2014.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/AlmaCoal.jpg/500px-AlmaCoal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

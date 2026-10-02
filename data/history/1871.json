@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MI00546",
+  "dam_name": "Kleber",
+  "owner": "Wolverine Power Corporation",
+  "owner_type": "Public Utility",
+  "designer": "Stanley Engineering",
+  "year_completed": 1948,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Black River",
+  "height_ft": 46.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MI00546/summary",
+  "distance_km": 0.05,
+  "score": 0.987,
+  "verified": false
+ }
+}

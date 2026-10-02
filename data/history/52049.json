@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "SC01063",
+  "dam_name": "Clifton No. 3",
+  "owner": "Converse Energy Corporation",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1899,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Pacolet River",
+  "height_ft": 33.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/SC01063/summary",
+  "distance_km": 0.05,
+  "score": 0.988,
+  "verified": false
+ }
+}

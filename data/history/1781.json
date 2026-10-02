@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MI00191",
+  "dam_name": "Peavy Falls",
+  "owner": "Wisconsin Electric Power Company",
+  "owner_type": "Public Utility",
+  "designer": "Holland Ackerman Holland",
+  "year_completed": 1943,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Michigamme River",
+  "height_ft": 96.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MI00191/summary",
+  "distance_km": 0.16,
+  "score": 0.961,
+  "verified": false
+ }
+}

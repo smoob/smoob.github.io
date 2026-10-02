@@ -1,0 +1,67 @@
+[
+ {
+  "source": "Global Energy Monitor",
+  "source_key": "gem",
+  "title": "Homer City Generating Station",
+  "url": "https://www.gem.wiki/Homer_City_Generating_Station",
+  "thumb": null,
+  "extract": "Homer City Generating Station is a power station in Homer City, Indiana, Pennsylvania, United States with multiple units of varying statuses, none of which are currently operating. It is also known as Homer City Energy Campus.",
+  "date": null,
+  "rights": "GEM wiki text, CC BY 4.0",
+  "rights_status": "licensed",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons",
+  "source_key": "commons",
+  "title": "HCGeneratingTowers.JPG",
+  "url": "https://commons.wikimedia.org/wiki/File:HCGeneratingTowers.JPG",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/HCGeneratingTowers.JPG/500px-HCGeneratingTowers.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "2008-03-14",
+  "author": "u\u017cytkownik angielskiej wiki Hepcat748",
+  "rights": "CC BY-SA 3.0",
+  "rights_status": "licensed",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons",
+  "source_key": "commons",
+  "title": "Homer City Generating Station.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Homer_City_Generating_Station.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Homer_City_Generating_Station.jpg/500px-Homer_City_Generating_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "2013-03-17",
+  "author": "Jaro Nem\u010dok",
+  "rights": "CC BY-SA 3.0",
+  "rights_status": "licensed",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons",
+  "source_key": "commons",
+  "title": "Route 119 South Homer City.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Route_119_South_Homer_City.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Route_119_South_Homer_City.jpg/500px-Route_119_South_Homer_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "2012-07-21",
+  "author": "S Lukens",
+  "rights": "CC BY-SA 3.0",
+  "rights_status": "licensed",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons",
+  "source_key": "commons",
+  "title": "Route 119 South Homer City 2.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Route_119_South_Homer_City_2.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Route_119_South_Homer_City_2.jpg/500px-Route_119_South_Homer_City_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "2012-07-21",
+  "author": "S Lukens",
+  "rights": "CC BY-SA 3.0",
+  "rights_status": "licensed",
+  "score": 1.0,
+  "verified": false
+ }
+]

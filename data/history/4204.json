@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ID06068",
+  "dam_name": "Buffalo River",
+  "owner": "Buffalo Hydro, Inc.",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1936,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Buffalo River, Henrys Fork, Sn",
+  "height_ft": 12.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ID06068/summary",
+  "distance_km": 0.5,
+  "score": 0.374,
+  "verified": false
+ }
+}

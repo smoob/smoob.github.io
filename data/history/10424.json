@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CO00247",
+  "dam_name": "Gross",
+  "owner": "Denver Water",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1955,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Water Supply",
+  "river": "South Boulder Creek",
+  "height_ft": 350.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CO00247/summary",
+  "distance_km": 0.29,
+  "score": 0.927,
+  "verified": false
+ }
+}

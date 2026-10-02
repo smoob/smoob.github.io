@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q11964763",
+  "url": "http://www.wikidata.org/entity/Q11964763",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Darby%20Generating%20Station%20East.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Darby Generating Station"
+ },
+ "wikipedia": {
+  "title": "Darby Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Darby_Generating_Station",
+  "extract": "Darby Generating Station is a 480 megawatt (MW), natural gas peaker plant located in Darby Township, Pickaway County near Mount Sterling, Ohio. The plant is currently owned by Lightstone Generation LLC, a 50-50 joint venture of The Blackstone Group and ArcLight Capital Partners. The plant has six units and began operations in 2001.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Darby_Generating_Station_East.jpg/500px-Darby_Generating_Station_East.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

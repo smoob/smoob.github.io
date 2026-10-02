@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00358",
+  "dam_name": "Lake Spaulding No. 3 Auxiliary",
+  "owner": "Pacific Gas and Electric Company",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1919,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "South Yuba River",
+  "height_ft": 95.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00358/summary",
+  "distance_km": 0.63,
+  "score": 0.843,
+  "verified": false
+ }
+}

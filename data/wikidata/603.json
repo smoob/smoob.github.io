@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q11960571",
+  "url": "http://www.wikidata.org/entity/Q11960571",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PRR%20Benning-Power-station.jpg?width=800",
+  "inception": 1906,
+  "start_year": null,
+  "operator": "Potomac Electric Power Company",
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Benning Road Power Plant",
+  "url": "https://en.wikipedia.org/wiki/Benning_Road_Power_Plant",
+  "extract": "The Benning Road Power Plant was a power plant owned by PEPCO and located in Washington, D.C. The 19-acre facility was built in 1906, and underwent several changes before being demolished in 2012. The facility was powered by coal until 1976, when it was converted to petroleum. By the early 2000s, the facility was capable of producing 550 megawatts of electricity and operated for an average of 10\u201315 days per year.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PRR_Benning-Power-station.jpg/500px-PRR_Benning-Power-station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

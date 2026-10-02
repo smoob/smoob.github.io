@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "SC82201",
+  "dam_name": "St. Stephen Powerhouse Dam",
+  "owner": "USACE - Charleston District",
+  "owner_type": "Federal",
+  "designer": "CENWO",
+  "year_completed": 1985,
+  "years_modified": null,
+  "purposes": "Navigation;Fish and Wildlife Pond;Recreation;Hydroelectric;Flood Risk Reduction",
+  "river": "Cooper/Santee",
+  "height_ft": 128.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/SC82201/summary",
+  "distance_km": 0.13,
+  "score": 0.968,
+  "verified": false
+ }
+}

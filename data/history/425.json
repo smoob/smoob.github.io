@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00858",
+  "dam_name": "Middle Fork Interbay",
+  "owner": "Placer County Water Agency",
+  "owner_type": "Local Government",
+  "designer": "McCreary-Koretsky",
+  "year_completed": 1966,
+  "years_modified": null,
+  "purposes": "Irrigation;Hydroelectric;Water Supply",
+  "river": "Middle Fork American River",
+  "height_ft": 71.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00858/summary",
+  "distance_km": 0.62,
+  "score": 0.846,
+  "verified": false
+ }
+}

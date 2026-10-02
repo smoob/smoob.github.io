@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ID00279",
+  "dam_name": "Anderson Ranch Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1950,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Irrigation;Hydroelectric",
+  "river": "South Fork Boise River",
+  "height_ft": 456.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ID00279/summary",
+  "distance_km": 0.27,
+  "score": 0.931,
+  "verified": false
+ }
+}

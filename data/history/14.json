@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "AL01417",
+  "dam_name": "Logan Martin",
+  "owner": "Alabama Power Company",
+  "owner_type": "Public Utility",
+  "designer": "SOUTHERN COMPANY SERVICES, INC.",
+  "year_completed": 1964,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation;Water Supply;Flood Risk Reduction",
+  "river": "Coosa",
+  "height_ft": 142.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/AL01417/summary",
+  "distance_km": 0.08,
+  "score": 0.981,
+  "verified": false
+ }
+}

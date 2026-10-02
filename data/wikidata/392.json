@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q5049579",
+  "url": "http://www.wikidata.org/entity/Q5049579",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CastaicLakeCalifornia01.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": "Los Angeles Department of Water and Power",
+  "commons_category": "Castaic Dam"
+ },
+ "wikipedia": {
+  "title": "Castaic Power Plant",
+  "url": "https://en.wikipedia.org/wiki/Castaic_Power_Plant",
+  "extract": "Castaic Power Plant, also known as the Castaic Pumped-Storage Plant, is a seven-unit pumped-storage hydroelectric plant, operated by the Los Angeles Department of Water and Power, which provides peak load power from the falling water on the West Branch of the California State Aqueduct. It is a cooperative venture between the  LADWP and the Department of Water Resources of the State of California. An agreement between the two organizations was signed on September 2, 1966, for construction of the project.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Castaic_Power_Plant_Front.jpg/500px-Castaic_Power_Plant_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

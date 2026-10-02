@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q1739379",
+  "url": "http://www.wikidata.org/entity/Q1739379",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Clinton%20power%20station%20pano.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": "Constellation Energy",
+  "commons_category": "Clinton Nuclear Generating Station"
+ },
+ "wikipedia": {
+  "title": "Clinton Power Station",
+  "url": "https://en.wikipedia.org/wiki/Clinton_Power_Station",
+  "extract": "The Clinton Power Station is a nuclear power plant located near Clinton, Illinois, USA. The power station began commercial operation on November 24, 1987 and has a nominal net electric output of 1062 MWe. Due to inflation and cost overruns, Clinton's final construction cost was $4.25 billion ($12 billion today), nearly 1,000% over the original budget of $430 million and seven years behind schedule.\nThe station has a single generation II General Electric Boiling Water Reactor. The present reactor operating license was issued April 17, 1987, and will expire September 29, 2026. Plans for a second reactor were shelved.  Exelon, the former owner and operator of the present reactor, announced plan",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Clinton_Illinois_nuclear_power_station_-_aerial_2.jpg/500px-Clinton_Illinois_nuclear_power_station_-_aerial_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

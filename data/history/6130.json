@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "GA00821",
+  "dam_name": "Carters Main Dam",
+  "owner": "USACE - Mobile District",
+  "owner_type": "Federal",
+  "designer": "CESAM",
+  "year_completed": 1974,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation;Flood Risk Reduction",
+  "river": "Coosawattee River",
+  "height_ft": 464.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/GA00821/summary",
+  "distance_km": 0.31,
+  "score": 0.923,
+  "verified": false
+ }
+}

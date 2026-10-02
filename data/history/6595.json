@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "LA00030",
+  "dam_name": "Toledo Bend Saddle Dike 3",
+  "owner": "Sabine River Authority of Texas and Sabine River Authority, State of Louisiana (Authorities)",
+  "owner_type": "State",
+  "designer": "FORREST AND COTTON, INC., DALLAS, TX",
+  "year_completed": 1966,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Navigation;Recreation;Water Supply",
+  "river": "Sabine",
+  "height_ft": 11.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/LA00030/summary",
+  "distance_km": 0.45,
+  "score": 0.888,
+  "verified": false
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q6753971",
+  "url": "http://www.wikidata.org/entity/Q6753971",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maple%20Ridge%20Wind%20Farm.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Maple Ridge Wind Farm",
+  "url": "https://en.wikipedia.org/wiki/Maple_Ridge_Wind_Farm",
+  "extract": "Maple Ridge Wind Farm is the largest wind farm in the state of New York in the United States. Located on Tug Hill in Lewis County, the facility has 195 wind turbines. At full operation, the turbines can produce a maximum of 321.75 megawatts (MW) of electricity.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Maple_Ridge_Wind_Farm.jpg/500px-Maple_Ridge_Wind_Farm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

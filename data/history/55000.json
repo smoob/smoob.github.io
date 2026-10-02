@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "TX03991",
+  "dam_name": "Cuero Lake Dam",
+  "owner": "SMALL HYDRO OF TEXAS INC",
+  "owner_type": "Private",
+  "designer": "NO DATA FOR ORIGINAL DESIGNER",
+  "year_completed": 1898,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Guadalupe River",
+  "height_ft": 37.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/TX03991/summary",
+  "distance_km": 0.04,
+  "score": 0.49,
+  "verified": false
+ }
+}

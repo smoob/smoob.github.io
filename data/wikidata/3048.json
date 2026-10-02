@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q1801081",
+  "url": "http://www.wikidata.org/entity/Q1801081",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pelton%20Dam.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": "Portland General Electric",
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Pelton Dam",
+  "url": "https://en.wikipedia.org/wiki/Pelton_Dam",
+  "extract": "Pelton Dam is a major dam on the Deschutes River in Jefferson County, Oregon, owned and operated as a hydroelectric facility by Portland General Electric, one element of its Pelton Round Butte Project on the Deschutes.\nThe concrete arch dam at Pelton dates from 1958, has a height of 204 feet (62 m) from bedrock, a width of 965 feet (294 m) at its crest, and generates 110 megawatts of electricity.\nUpstream, to the south, Pelton Dam impounds the waters of the Deschutes to create the deep Lake Simtustus in a relatively narrow canyon about 7 miles (11 km) back to the 1964 Round Butte Dam.  The lake has a surface area of about 540 acres (220 ha) and holds 33,190 acre-feet (40,940,000 m3) of water",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pelton_Dam.jpg/500px-Pelton_Dam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

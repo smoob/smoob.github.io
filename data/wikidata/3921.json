@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q1072291",
+  "url": "http://www.wikidata.org/entity/Q1072291",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chief%20Joseph%20Dam.jpg?width=800",
+  "inception": 1949,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Chief Joseph Dam"
+ },
+ "wikipedia": {
+  "title": "Chief Joseph Dam",
+  "url": "https://en.wikipedia.org/wiki/Chief_Joseph_Dam",
+  "extract": "The Chief Joseph Dam is a concrete gravity dam on the Columbia River, 2.4 km (1.5 mi) upriver from Bridgeport, Washington. The dam is 877 km (545 mi) upriver from the mouth of the Columbia at Astoria, Oregon. It is operated by the USACE Chief Joseph Dam Project Office and the electricity is marketed by the Bonneville Power Administration.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Chief_Joseph_Dam.jpg/500px-Chief_Joseph_Dam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

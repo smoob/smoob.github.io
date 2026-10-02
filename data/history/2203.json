@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MT00565",
+  "dam_name": "Hungry Horse Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": "BUREAU OF RECLAMATION",
+  "year_completed": 1953,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Irrigation;Hydroelectric",
+  "river": "South Fork Flathead River",
+  "height_ft": 564.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MT00565/summary",
+  "distance_km": 0.14,
+  "score": 0.966,
+  "verified": false
+ }
+}

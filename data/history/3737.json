@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "VT00045",
+  "dam_name": "Essex No. 19",
+  "owner": "Green Mountain Power Corporation",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1917,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Winooski River",
+  "height_ft": 53.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/VT00045/summary",
+  "distance_km": 0.13,
+  "score": 0.968,
+  "verified": false
+ }
+}

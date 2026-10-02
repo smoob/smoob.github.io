@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q6773788",
+  "url": "http://www.wikidata.org/entity/Q6773788",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marshall%20Steam%20Station.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Marshall Steam Station",
+  "url": "https://en.wikipedia.org/wiki/Marshall_Steam_Station",
+  "extract": "Marshall Steam Station is a coal and natural gas burning power plant located at 35\u00b035\u203251\u2033N 80\u00b057\u203253\u2033W in Sherrills Ford, Catawba County, North Carolina, United States and owned by Duke Energy.  Named for former company president E.C. Marshall, the station is located on Lake Norman and began commercial operation in 1965. The plant originally only burned coal.\nThe plant generates enough electricity (2.09 GW) to power approximately two million homes.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Marshall_Steam_Station.jpg/500px-Marshall_Steam_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WA00270",
+  "dam_name": "Lower Monumental Lock and Dam",
+  "owner": "USACE - Walla Walla District",
+  "owner_type": "Federal",
+  "designer": "CENWS",
+  "year_completed": 1969,
+  "years_modified": null,
+  "purposes": "Navigation;Fish and Wildlife Pond;Recreation;Hydroelectric",
+  "river": "Snake River",
+  "height_ft": 226.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WA00270/summary",
+  "distance_km": 0.21,
+  "score": 0.947,
+  "verified": false
+ }
+}

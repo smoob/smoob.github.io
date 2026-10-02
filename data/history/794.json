@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "TX00008",
+  "dam_name": "Lewisville Dam",
+  "owner": "USACE - Fort Worth District",
+  "owner_type": "Federal",
+  "designer": "CESWF",
+  "year_completed": 1955,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Fish and Wildlife Pond;Recreation;Hydroelectric;Water Supply",
+  "river": "Elm Fork of The Trinity River",
+  "height_ft": 135.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/TX00008/summary",
+  "distance_km": 0.12,
+  "score": 0.971,
+  "verified": false
+ }
+}

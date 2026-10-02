@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "RI83001",
+  "dam_name": "Blackstone",
+  "owner": "DART INDUSTRIES (TUPPERWARE)",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": null,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Blackstone River",
+  "height_ft": 12.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/RI83001/summary",
+  "distance_km": 0.74,
+  "score": 0.814,
+  "verified": false
+ }
+}

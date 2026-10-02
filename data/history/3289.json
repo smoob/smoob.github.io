@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "SC01058",
+  "dam_name": "Neal Shoals",
+  "owner": "South Carolina Electric and Gas Company",
+  "owner_type": "Public Utility",
+  "designer": "W. B. SMITH WHALER",
+  "year_completed": 1905,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Broad River",
+  "height_ft": 32.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/SC01058/summary",
+  "distance_km": 0.15,
+  "score": 0.963,
+  "verified": false
+ }
+}

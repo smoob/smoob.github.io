@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CT00232",
+  "dam_name": "Shepaug",
+  "owner": "FirstLight Power Services LLC",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1955,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Housatonic River",
+  "height_ft": 138.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CT00232/summary",
+  "distance_km": 0.11,
+  "score": 0.973,
+  "verified": false
+ }
+}

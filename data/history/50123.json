@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00088",
+  "dam_name": "Normanskill",
+  "owner": "City of Watervliet, NY",
+  "owner_type": "Local Government",
+  "designer": "Solomon, Norcross & Keis Engineers (Atlanta, GA)",
+  "year_completed": 1916,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fire Protection, Stock, Or Small Fish Pond;Fish and Wildlife Pond;Recreation;Water Supply",
+  "river": "Normans Kill",
+  "height_ft": 39.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00088/summary",
+  "distance_km": 0.3,
+  "score": 0.925,
+  "verified": false
+ }
+}

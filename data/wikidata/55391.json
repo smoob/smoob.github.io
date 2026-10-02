@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q7354182",
+  "url": "http://www.wikidata.org/entity/Q7354182",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RockGen%20Energy%20Center%20-%20panoramio%20%281%29.jpg?width=800",
+  "inception": 2001,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "RockGen Energy Center"
+ },
+ "wikipedia": {
+  "title": "RockGen Energy Center",
+  "url": "https://en.wikipedia.org/wiki/RockGen_Energy_Center",
+  "extract": "RockGen Energy Center is a 503-megawatt (MW) natural gas fired peaking power plant located near Cambridge, Wisconsin. According to Calpine, it was the largest peaking plant in Wisconsin at the time it was constructed.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/RockGen_Energy_Center_-_panoramio_%281%29.jpg/500px-RockGen_Energy_Center_-_panoramio_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

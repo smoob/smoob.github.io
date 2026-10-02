@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY01529",
+  "dam_name": "Alice Falls",
+  "owner": "Eagle Creek Renewable Energies, LLC Parent Org (CRO)",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1895,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Ausable River",
+  "height_ft": 80.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY01529/summary",
+  "distance_km": 0.01,
+  "score": 0.998,
+  "verified": false
+ }
+}

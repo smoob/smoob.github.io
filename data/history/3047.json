@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "OR00550",
+  "dam_name": "North Fork",
+  "owner": "Portland General Electric Company",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1958,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Clackamas River",
+  "height_ft": 207.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/OR00550/summary",
+  "distance_km": 0.03,
+  "score": 0.993,
+  "verified": false
+ }
+}

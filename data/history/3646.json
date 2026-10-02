@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "UT00079",
+  "dam_name": "Cutler",
+  "owner": "PacifiCorp",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1927,
+  "years_modified": null,
+  "purposes": "Irrigation;Recreation;Hydroelectric",
+  "river": "Bear River",
+  "height_ft": 126.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/UT00079/summary",
+  "distance_km": 0.36,
+  "score": 0.909,
+  "verified": false
+ }
+}

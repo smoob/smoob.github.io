@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "OR00564",
+  "dam_name": "Lemolo No 2 Forebay",
+  "owner": "PacifiCorp",
+  "owner_type": "Private",
+  "designer": "Pioneer Service & Engineering",
+  "year_completed": 1956,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "North Umpqua - Off Stream",
+  "height_ft": 30.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/OR00564/summary",
+  "distance_km": 1.04,
+  "score": 0.74,
+  "verified": false
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q4906989",
+  "url": "http://www.wikidata.org/entity/Q4906989",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Biglow%20Canyon%20Wind%20Farm%20under%20construction.jpg?width=800",
+  "inception": 2007,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Biglow Canyon wind farm"
+ },
+ "wikipedia": {
+  "title": "Biglow Canyon Wind Farm",
+  "url": "https://en.wikipedia.org/wiki/Biglow_Canyon_Wind_Farm",
+  "extract": "Biglow Canyon Wind Farm is an electricity generating wind farm facility in Sherman County, Oregon, United States. It is owned by Portland, Oregon-based Portland General Electric and began operations in 2007. With the completion of phase 3 of the project it has a generating capacity of 450 megawatts. It is located roughly five miles (8.0 km) northeast of Wasco, Oregon, and about ten miles (16 km) southeast of Rufus, Oregon. Biglow Canyon Wind Farm covers 25,000 acres (10,000 ha) in the Columbia River Gorge.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Biglow_Canyon_Wind_Farm_under_construction.jpg/500px-Biglow_Canyon_Wind_Farm_under_construction.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

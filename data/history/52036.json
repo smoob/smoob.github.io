@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "PA00109",
+  "dam_name": "Youghiogheny Dam",
+  "owner": "USACE - Pittsburgh District",
+  "owner_type": "Federal",
+  "designer": "CELRP",
+  "year_completed": 1944,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Other;Fish and Wildlife Pond;Recreation;Hydroelectric;Water Supply",
+  "river": "Youghiogheny River",
+  "height_ft": 184.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/PA00109/summary",
+  "distance_km": 0.35,
+  "score": 0.411,
+  "verified": false
+ }
+}

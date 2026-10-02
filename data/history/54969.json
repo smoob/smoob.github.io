@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "IL01127",
+  "dam_name": "Dixon",
+  "owner": "STS HydroPower LLC",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1924,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Rock Creek",
+  "height_ft": 17.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/IL01127/summary",
+  "distance_km": 0.11,
+  "score": 0.972,
+  "verified": false
+ }
+}

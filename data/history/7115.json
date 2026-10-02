@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MI00175",
+  "dam_name": "Hoist",
+  "owner": null,
+  "owner_type": "Not Listed",
+  "designer": null,
+  "year_completed": 1941,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Dead River",
+  "height_ft": 65.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MI00175/summary",
+  "distance_km": 0.25,
+  "score": 0.938,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "SC00224",
+  "dam_name": "Saluda Backup Berm",
+  "owner": "South Carolina Electric and Gas Company",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 2005,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Saluda",
+  "height_ft": 213.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/SC00224/summary",
+  "distance_km": 0.01,
+  "score": 0.997,
+  "verified": false
+ }
+}

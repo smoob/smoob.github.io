@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00430",
+  "dam_name": "Big Creek Dam No. 4",
+  "owner": "Southern California Edison Company",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1913,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Big Creek",
+  "height_ft": 75.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00430/summary",
+  "distance_km": 0.19,
+  "score": 0.953,
+  "verified": false
+ }
+}

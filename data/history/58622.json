@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CO01650",
+  "dam_name": "Carter Lake Dam 1",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1952,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Irrigation;Water Supply",
+  "river": "Big Thompson River Os",
+  "height_ft": 214.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CO01650/summary",
+  "distance_km": 0.26,
+  "score": 0.936,
+  "verified": false
+ }
+}

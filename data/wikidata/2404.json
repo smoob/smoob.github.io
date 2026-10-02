@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q11980461",
+  "url": "http://www.wikidata.org/entity/Q11980461",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kearny%20Generating%20Station%20September%202020.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": "Public Service Enterprise Group",
+  "commons_category": "Kearny Generating Station"
+ },
+ "wikipedia": {
+  "title": "Kearny Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Kearny_Generating_Station",
+  "extract": "Kearny Generating Station is a peaking power plant  on the banks of the Riverbend of the Hackensack River in South Kearny, New Jersey. Owned and operated by Public Service Electric and Gas Company (PSEG) the power station consists of 10 simple cycle combustion turbines totaling 456 MW.  It is part of the PJM Interconnection of the Eastern Interconnection grid electric transmission system.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kearny_Generating_Station_September_2020.jpg/500px-Kearny_Generating_Station_September_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

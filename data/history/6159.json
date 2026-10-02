@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CO00387",
+  "dam_name": "Crystal Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": "BUREAU OF RECLAMATION",
+  "year_completed": 1977,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Gunnison River",
+  "height_ft": 323.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CO00387/summary",
+  "distance_km": 0.12,
+  "score": 0.97,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA10186",
+  "dam_name": "Shasta Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": "BUREAU OF RECLAMATION",
+  "year_completed": 1945,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Irrigation;Navigation;Recreation;Water Supply",
+  "river": "Sacramento River",
+  "height_ft": 602.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA10186/summary",
+  "distance_km": 0.29,
+  "score": 0.928,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NH00160",
+  "dam_name": "Ayers Island",
+  "owner": null,
+  "owner_type": "Not Listed",
+  "designer": "Ambursen Dam Company",
+  "year_completed": 1924,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Pemigewasset River",
+  "height_ft": 80.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NH00160/summary",
+  "distance_km": 0.01,
+  "score": 0.996,
+  "verified": false
+ }
+}

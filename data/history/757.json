@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "GA11101",
+  "dam_name": "Blue Ridge Dam",
+  "owner": "TVA",
+  "owner_type": "Federal",
+  "designer": "TN ELECTRIC POWER",
+  "year_completed": 1930,
+  "years_modified": "1995;2012",
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Toccoa River",
+  "height_ft": 183.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/GA11101/summary",
+  "distance_km": 0.2,
+  "score": 0.95,
+  "verified": false
+ }
+}

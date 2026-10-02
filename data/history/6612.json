@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00816",
+  "dam_name": "Union Valley",
+  "owner": "Sacramento Municipal Utility District",
+  "owner_type": "Public Utility",
+  "designer": "Bechtel",
+  "year_completed": 1962,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Big Silver Creek",
+  "height_ft": 455.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00816/summary",
+  "distance_km": 0.41,
+  "score": 0.897,
+  "verified": false
+ }
+}

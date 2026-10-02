@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "VT00004",
+  "dam_name": "Townshend Dam",
+  "owner": "USACE - New England District",
+  "owner_type": "Federal",
+  "designer": "CENAE",
+  "year_completed": 1961,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Recreation;Hydroelectric",
+  "river": "West River",
+  "height_ft": 126.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/VT00004/summary",
+  "distance_km": 0.19,
+  "score": 0.952,
+  "verified": false
+ }
+}

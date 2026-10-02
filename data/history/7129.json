@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00036",
+  "dam_name": "Thermalito Diversion",
+  "owner": "California Department of Water Resources",
+  "owner_type": "State",
+  "designer": "DWR",
+  "year_completed": 1967,
+  "years_modified": null,
+  "purposes": "Water Supply;Hydroelectric",
+  "river": "Feather River",
+  "height_ft": 143.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00036/summary",
+  "distance_km": 0.13,
+  "score": 0.969,
+  "verified": false
+ }
+}

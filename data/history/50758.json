@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ME00003",
+  "dam_name": "Pejepscot",
+  "owner": null,
+  "owner_type": "Not Listed",
+  "designer": null,
+  "year_completed": 1896,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Androscoggin River",
+  "height_ft": 48.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ME00003/summary",
+  "distance_km": 0.09,
+  "score": 0.977,
+  "verified": false
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q6923900",
+  "url": "http://www.wikidata.org/entity/Q6923900",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Storm%20Power%20Plant%2C%20Aerial.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Mount Storm Power Station"
+ },
+ "wikipedia": {
+  "title": "Mount Storm Power Station",
+  "url": "https://en.wikipedia.org/wiki/Mount_Storm_Power_Station",
+  "extract": "The Mount Storm Generating Station, located on the west bank of Mount Storm Lake 2 miles (3 km) from Bismarck, West Virginia, United States, is a coal-fired power station owned by Dominion Resources. The facility's three units use around 15,000  tons of coal per day to generate more than 1,600 megawatts of electricity from the coal synfuel for around 2 million people in Northern Virginia.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Mount_Storm_Power_Plant%2C_Aerial.jpg/500px-Mount_Storm_Power_Plant%2C_Aerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

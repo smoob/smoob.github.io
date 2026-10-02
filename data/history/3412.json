@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "TN13905",
+  "dam_name": "Ocoee No. 1 Dam",
+  "owner": "TVA",
+  "owner_type": "Federal",
+  "designer": "TN Electric Power",
+  "year_completed": 1911,
+  "years_modified": "1914M;1930M;1937M;1975S",
+  "purposes": "Flood Risk Reduction;Recreation;Hydroelectric",
+  "river": "Ocoee River",
+  "height_ft": 135.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/TN13905/summary",
+  "distance_km": 0.06,
+  "score": 0.985,
+  "verified": false
+ }
+}

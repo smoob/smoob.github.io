@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MA00840",
+  "dam_name": "Deerfield No. 5 - Canal #3",
+  "owner": "Great River Hydro, LLC",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1910,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Deerfield River",
+  "height_ft": 16.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MA00840/summary",
+  "distance_km": 0.53,
+  "score": 0.868,
+  "verified": false
+ }
+}

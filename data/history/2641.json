@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00484",
+  "dam_name": "Station 5",
+  "owner": "Rochester Gas & Electric Corporation",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1918,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Genesee River",
+  "height_ft": 22.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00484/summary",
+  "distance_km": 0.45,
+  "score": 0.389,
+  "verified": false
+ }
+}

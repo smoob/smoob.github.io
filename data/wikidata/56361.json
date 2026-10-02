@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q3639811",
+  "url": "http://www.wikidata.org/entity/Q3639811",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Big%20Horn%20wind%20farm%202013.JPG?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Big Horn Wind Farm",
+  "url": "https://en.wikipedia.org/wiki/Big_Horn_Wind_Farm",
+  "extract": "The Big Horn Wind Farm is a 200 megawatt wind farm in Klickitat County, Washington. It uses 133 GE Energy 1.5 MW wind turbines.  The wind farm is owned by Big Horn LLC, a subsidiary of Iberdrola Renewables. 98 percent of the land it is on remains available for traditional uses, such as hunting and farming.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Big_Horn_wind_farm_2013.JPG/500px-Big_Horn_wind_farm_2013.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q14682193",
+  "url": "http://www.wikidata.org/entity/Q14682193",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Courtright%20Reservoir%202.jpg?width=800",
+  "inception": 1977,
+  "start_year": null,
+  "operator": "Pacific Gas and Electric Company",
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Helms Pumped Storage Plant",
+  "url": "https://en.wikipedia.org/wiki/Helms_Pumped_Storage_Plant",
+  "extract": "The Helms Pumped Storage Plant is located 50 miles (80 km) east of Fresno, California, in the Sierra Nevada Mountain Range's Sierra National Forest. It is a power station that uses Helms Creek canyon on the North Fork of the Kings River for off-river water storage and the pumped-storage hydroelectric method to generate electricity. After being planned in the early 1970s, construction on the plant began in June 1977 and commercial operations began on 30 June 1984. It has an installed capacity of 1,212 MW and is owned by Pacific Gas and Electric Company.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Courtright_Reservoir_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ }
+}

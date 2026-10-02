@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY12194",
+  "dam_name": "Hailesboro #4 Plant Dam",
+  "owner": "HYDRO DEVELOPMENT GROUP INCORPORATED",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1912,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Oswegatchie River",
+  "height_ft": 12.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY12194/summary",
+  "distance_km": 0.1,
+  "score": 0.976,
+  "verified": false
+ }
+}

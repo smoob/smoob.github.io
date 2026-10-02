@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00431",
+  "dam_name": "Big Creek Dam No. 5",
+  "owner": "Southern California Edison Company",
+  "owner_type": "Private",
+  "designer": "Southern California Edison Co.",
+  "year_completed": 1921,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Big Creek",
+  "height_ft": 60.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00431/summary",
+  "distance_km": 0.09,
+  "score": 0.977,
+  "verified": false
+ }
+}

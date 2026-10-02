@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ME00551",
+  "dam_name": "Barker Mill Lower",
+  "owner": "KEI (Maine) Power Management (III) LLC",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1874,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Little Androscoggin River",
+  "height_ft": 30.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ME00551/summary",
+  "distance_km": 0.0,
+  "score": 0.999,
+  "verified": false
+ }
+}

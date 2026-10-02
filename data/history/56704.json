@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY01539",
+  "dam_name": "Gouldtown - Mill 5 West Channel",
+  "owner": "Northbrook Lyons Falls, LLC",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1915,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Moose River",
+  "height_ft": 15.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY01539/summary",
+  "distance_km": 0.04,
+  "score": 0.99,
+  "verified": false
+ }
+}

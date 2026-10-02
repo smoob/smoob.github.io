@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q14682034",
+  "url": "http://www.wikidata.org/entity/Q14682034",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Glenarm%20Power%20Plant%2C%20Pasadena%2C%20California.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Glenarm Power Plant",
+  "url": "https://en.wikipedia.org/wiki/Glenarm_Power_Plant",
+  "extract": "The Glenarm Power Plant is a power plant in Pasadena, California that began operating on July 4, 1907.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Glenarm_Power_Plant%2C_Pasadena%2C_California.jpg/500px-Glenarm_Power_Plant%2C_Pasadena%2C_California.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

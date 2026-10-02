@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "SC00529",
+  "dam_name": "Jocassee",
+  "owner": "Duke Energy",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1973,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Keowee",
+  "height_ft": 385.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/SC00529/summary",
+  "distance_km": 0.35,
+  "score": 0.911,
+  "verified": false
+ }
+}

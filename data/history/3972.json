@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WI00784",
+  "dam_name": "Dubay",
+  "owner": "Consolidated Water Power Company",
+  "owner_type": "Private",
+  "designer": "C.W.P. & P",
+  "year_completed": 1942,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Flood Risk Reduction",
+  "river": "Wisconsin River",
+  "height_ft": 40.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WI00784/summary",
+  "distance_km": 0.06,
+  "score": 0.484,
+  "verified": false
+ }
+}

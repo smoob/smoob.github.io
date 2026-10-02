@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q7912172",
+  "url": "http://www.wikidata.org/entity/Q7912172",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/HankAaronStateTrail%2C%20ValleyPowerPlant.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Valley Power Plant",
+  "url": "https://en.wikipedia.org/wiki/Valley_Power_Plant",
+  "extract": "Valley Power Plant is an intermediate load, natural gas fired, electrical power station located in Milwaukee, Wisconsin. It is owned by We Energies. The plant is a cogeneration facility supplying steam to 480 customers and 280 MW of electricity.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/HankAaronStateTrail%2C_ValleyPowerPlant.jpg/500px-HankAaronStateTrail%2C_ValleyPowerPlant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

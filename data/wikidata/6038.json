@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q24068",
+  "url": "http://www.wikidata.org/entity/Q24068",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/McGuire%20Nuclear%20Station%20from%20lake%20Norman.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": "Duke Energy",
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "McGuire Nuclear Station",
+  "url": "https://en.wikipedia.org/wiki/McGuire_Nuclear_Station",
+  "extract": "The McGuire Nuclear Station is a nuclear power plant located about 17 miles (27 km) northwest of Charlotte, North Carolina. The plant began construction in 1971, with the two reactors beginning operation in 1981 and 1984. Water from nearby Lake Norman is used to cool the condensers.\nThe plant has two Westinghouse pressurized water reactors and can produce 2,250 megawatts of net power. The plant achieved a net generation of 17,514 GW\u00b7h in 2005, representing 44% of the total nuclear power generation for the state of North Carolina.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/McGuire_Nuclear_Station_from_lake_Norman.jpg/500px-McGuire_Nuclear_Station_from_lake_Norman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

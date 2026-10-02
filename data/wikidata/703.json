@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q2247303",
+  "url": "http://www.wikidata.org/entity/Q2247303",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Plant%20Bowen.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Plant Bowen"
+ },
+ "wikipedia": {
+  "title": "Plant Bowen",
+  "url": "https://en.wikipedia.org/wiki/Plant_Bowen",
+  "extract": "Plant Bowen, commonly known as Bowen Steam Plant, is a coal-fired power station located just outside Euharlee, Georgia, United States, approximately 8.7 mi (14 km) west-south-west from Cartersville. At over 3,450 megawatts, Plant Bowen is the largest coal-fired power plant in North America. The station is connected to the southeastern power grid by numerous 500 kV transmission lines, and is owned and operated by Georgia Power, a subsidiary of Southern Company.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Plant_Bowen.jpg/500px-Plant_Bowen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

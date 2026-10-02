@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "TN16306",
+  "dam_name": "Boone Dam",
+  "owner": "TVA",
+  "owner_type": "Federal",
+  "designer": "TVA",
+  "year_completed": 1952,
+  "years_modified": "1984H;2021F;2021S",
+  "purposes": "Flood Risk Reduction;Recreation;Hydroelectric;Water Supply",
+  "river": "South Fork Holston River",
+  "height_ft": 160.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/TN16306/summary",
+  "distance_km": 0.01,
+  "score": 0.998,
+  "verified": false
+ }
+}

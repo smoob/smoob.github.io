@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "OR00002",
+  "dam_name": "The Dalles Lock and Dam",
+  "owner": "USACE - Portland District",
+  "owner_type": "Federal",
+  "designer": "CENWP",
+  "year_completed": 1957,
+  "years_modified": null,
+  "purposes": "Navigation;Other;Irrigation;Recreation;Hydroelectric",
+  "river": "Columbia River",
+  "height_ft": 200.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/OR00002/summary",
+  "distance_km": 0.13,
+  "score": 0.968,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WV03907",
+  "dam_name": "London Locks and Dam",
+  "owner": "USACE - Huntington District",
+  "owner_type": "Federal",
+  "designer": "CELRH",
+  "year_completed": 1934,
+  "years_modified": null,
+  "purposes": "Navigation;Hydroelectric",
+  "river": "Kanawha River",
+  "height_ft": 103.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WV03907/summary",
+  "distance_km": 0.23,
+  "score": 0.942,
+  "verified": false
+ }
+}

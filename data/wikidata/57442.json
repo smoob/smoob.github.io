@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q7516402",
+  "url": "http://www.wikidata.org/entity/Q7516402",
+  "image": null,
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Silver State North Solar Project",
+  "url": "https://en.wikipedia.org/wiki/Silver_State_North_Solar_Project",
+  "extract": "Silver State North Solar Project is a 60 MWp (50 MWAC) photovoltaic power station near Primm, Nevada.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Primm_Solar_Farms.jpg/500px-Primm_Solar_Farms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

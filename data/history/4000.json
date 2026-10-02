@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WI00731",
+  "dam_name": "Chippewa Falls",
+  "owner": "Northern States Power Co",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1928,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Chippewa River",
+  "height_ft": 30.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WI00731/summary",
+  "distance_km": 0.14,
+  "score": 0.966,
+  "verified": false
+ }
+}

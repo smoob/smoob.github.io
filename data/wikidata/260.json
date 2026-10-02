@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q11990070",
+  "url": "http://www.wikidata.org/entity/Q11990070",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Moss%20Landing%20Power%20Plant%20p1270026.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Moss Landing Power Plant"
+ },
+ "wikipedia": {
+  "title": "Moss Landing Power Plant",
+  "url": "https://en.wikipedia.org/wiki/Moss_Landing_Power_Plant",
+  "extract": "The Moss Landing Power Plant is a natural gas powered electricity generation plant as well as a battery energy storage facility, located in Moss Landing, California, United States, at the midpoint of Monterey Bay. As of 2025, the site's battery storage facility is one of the largest in the world, at 630 MW (power) and 2,500 MWh (energy). The energy storage facility stores excess electricity (usually lower-price solar electricity during the daytime) for later use during periods of higher electricity demand (usually evening hours).\nThe battery energy storage facility at Moss Landing consists of two separate energy storage facilities. The first battery storage facility, known as the Vistra Ener",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Moss_Landing_Power_Plant_p1270026.jpg/500px-Moss_Landing_Power_Plant_p1270026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WA00168",
+  "dam_name": "Gorge",
+  "owner": "City of Seattle",
+  "owner_type": "Local Government",
+  "designer": "Dr. J. L. Savage",
+  "year_completed": 1961,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation;Flood Risk Reduction",
+  "river": "Skagit River",
+  "height_ft": 300.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WA00168/summary",
+  "distance_km": 0.07,
+  "score": 0.982,
+  "verified": false
+ }
+}

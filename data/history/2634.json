@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00696",
+  "dam_name": "Swinging Bridge",
+  "owner": "Eagle Creek Hydro Power, LLC",
+  "owner_type": "Private",
+  "designer": "Chas. T. Main, Inc.",
+  "year_completed": 1930,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Mongaup River",
+  "height_ft": 135.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00696/summary",
+  "distance_km": 0.05,
+  "score": 0.989,
+  "verified": false
+ }
+}

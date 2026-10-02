@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q1247509",
+  "url": "http://www.wikidata.org/entity/Q1247509",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Byron%20Nuclear%20Generating%20Station.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": "Exelon",
+  "commons_category": "Byron Nuclear Generating Station"
+ },
+ "wikipedia": {
+  "title": "Byron Nuclear Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Byron_Nuclear_Generating_Station",
+  "extract": "The Byron Clean Energy Center is a nuclear power plant located in Ogle County, Illinois, 2 miles (3.2 km) east of the Rock River. The reactor buildings were constructed by Commonwealth Edison and house two Westinghouse Four-Loop pressurized water reactors, Unit 1 and Unit 2, which began operation in September 1985 and August 1987 respectively. The plant is owned and operated by Constellation Energy.\nThe plant provides electricity to northern Illinois and the city of Chicago. In 2005 it generated on average about 2,450 MWe, enough power to supply about 2 million average American homes. The station employs over 600 people, mostly from Ogle and Winnebago counties, and features two prominent 495",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Byron_Clean_Energy_Center_2025-1.jpg/500px-Byron_Clean_Energy_Center_2025-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

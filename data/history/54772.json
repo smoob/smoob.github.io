@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00140",
+  "dam_name": "Glens Falls",
+  "owner": "Niagara Mohawk Power Corp. & FH OPCO, LLC",
+  "owner_type": "Private",
+  "designer": "Acres International, Ltd.",
+  "year_completed": 1916,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Hudson River",
+  "height_ft": 16.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00140/summary",
+  "distance_km": 0.25,
+  "score": 0.936,
+  "verified": false
+ }
+}

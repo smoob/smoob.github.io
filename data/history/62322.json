@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00988",
+  "dam_name": "Mechanicville",
+  "owner": "New York State Canal Corporation",
+  "owner_type": "State",
+  "designer": null,
+  "year_completed": 1900,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Navigation;Recreation",
+  "river": "Hudson River",
+  "height_ft": 26.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00988/summary",
+  "distance_km": 0.51,
+  "score": 0.872,
+  "verified": false
+ }
+}

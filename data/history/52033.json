@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "VT00167",
+  "dam_name": "Moretown No. 8",
+  "owner": "Ampersand Moretown Hydro, LLC",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1910,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Mad River",
+  "height_ft": 31.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/VT00167/summary",
+  "distance_km": 0.03,
+  "score": 0.992,
+  "verified": false
+ }
+}

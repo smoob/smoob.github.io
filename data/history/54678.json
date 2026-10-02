@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "LA00598",
+  "dam_name": "Old River",
+  "owner": "City of Vidalia",
+  "owner_type": "Private",
+  "designer": "EBASCO CONSTRUCTORS",
+  "year_completed": 1990,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Other;Fish and Wildlife Pond",
+  "river": "Mississippi River",
+  "height_ft": 134.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/LA00598/summary",
+  "distance_km": 0.02,
+  "score": 0.494,
+  "verified": false
+ }
+}

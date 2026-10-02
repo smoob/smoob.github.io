@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q3435522",
+  "url": "http://www.wikidata.org/entity/Q3435522",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cholla%20power%20plant.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Cholla Power Plant"
+ },
+ "wikipedia": {
+  "title": "Cholla Power Plant",
+  "url": "https://en.wikipedia.org/wiki/Cholla_Power_Plant",
+  "extract": "The Cholla Power Plant was a 1.02-gigawatt (1,021 MW), coal power plant near Joseph City, Arizona, United States. The plant is jointly owned by Arizona Public Service (APS) and PacifiCorp. The plant began operations in 1962. Generating units 2 and 4 were retired 2015 and 2020, respectively, while Units 1 and 3 were retired in 2025.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Cholla_power_plant.jpg/500px-Cholla_power_plant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

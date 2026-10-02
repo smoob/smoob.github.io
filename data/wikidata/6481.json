@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q14711594",
+  "url": "http://www.wikidata.org/entity/Q14711594",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/IntermountainPowerProjectByPhilKonstantin.jpg?width=800",
+  "inception": 1986,
+  "start_year": null,
+  "operator": "Los Angeles Department of Water and Power",
+  "commons_category": "Intermountain Power Plant"
+ },
+ "wikipedia": {
+  "title": "Intermountain Power Plant",
+  "url": "https://en.wikipedia.org/wiki/Intermountain_Power_Plant",
+  "extract": "Intermountain Power Plant is a large coal-fired power plant at Delta, Utah, US. It has an installed capacity of 1,900 MW, is owned by the Intermountain Power Agency, and is operated by the Los Angeles Department of Water and Power (LADWP). The plant includes a HVDC converter. It is scheduled for replacement in 2025 with an 840 MW natural gas plant, designed to also burn green hydrogen.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Intermountain_Power_Plant%2C_Utah.jpg/500px-Intermountain_Power_Plant%2C_Utah.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "VA041001",
+  "dam_name": "Brasfield (Appomattox)",
+  "owner": "Appomattox River Associates, LP",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1968,
+  "years_modified": null,
+  "purposes": "Water Supply;Hydroelectric",
+  "river": "Appomattox",
+  "height_ft": 73.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/VA041001/summary",
+  "distance_km": 0.1,
+  "score": 0.975,
+  "verified": false
+ }
+}

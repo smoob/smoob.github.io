@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NC00550",
+  "dam_name": "Tuckertown",
+  "owner": "Cube Yadkin Generation LLC",
+  "owner_type": "Private",
+  "designer": "ALUMINUM COMPANY OF AMERICA",
+  "year_completed": 1962,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation;Water Supply",
+  "river": "Yadkin",
+  "height_ft": 80.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NC00550/summary",
+  "distance_km": 0.08,
+  "score": 0.981,
+  "verified": false
+ }
+}

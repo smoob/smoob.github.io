@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q7057102",
+  "url": "http://www.wikidata.org/entity/Q7057102",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valmy%2C%20Nevada%20power%20plant.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "North Valmy Generating Station",
+  "url": "https://en.wikipedia.org/wiki/North_Valmy_Generating_Station",
+  "extract": "North Valmy Generating Station is a 522-megawatt (700,000 hp) coal-fired power station located near Valmy, Nevada.  The plant is jointly owned by NV Energy and Idaho Power.\nCoal is delivered to the location by the Union Pacific Railroad and originates in Utah and Wyoming.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Valmy%2C_Nevada_power_plant.jpg/500px-Valmy%2C_Nevada_power_plant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

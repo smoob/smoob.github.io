@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q689531",
+  "url": "http://www.wikidata.org/entity/Q689531",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JhnDyDam1.jpg?width=800",
+  "inception": 1959,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "John Day Dam"
+ },
+ "wikipedia": {
+  "title": "John Day Dam",
+  "url": "https://en.wikipedia.org/wiki/John_Day_Dam",
+  "extract": "The John Day Dam is a concrete gravity dam spanning the Columbia River in the northwestern United States. The dam features a navigation lock plus fish ladders on both sides. The John Day Lock has the highest lift (at 110 feet or 34 meters) of any U.S. lock. The reservoir impounded by the dam is Lake Umatilla, and it runs 76.4 miles (123.0 km) up the river channel to the foot of the McNary Dam. The John Day Dam is part of the Columbia River Basin system of dams and was established for the purpose of generating hydroelectricity via the run-of-the-river power station.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/John_Day_Dam_2_%2811955932233%29.jpg/500px-John_Day_Dam_2_%2811955932233%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

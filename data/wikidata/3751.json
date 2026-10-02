@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q1739490",
+  "url": "http://www.wikidata.org/entity/Q1739490",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vermont%20Yankee%20Nuclear%20Power%20Plant.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": "Entergy",
+  "commons_category": "Vermont Yankee Nuclear Power Plant"
+ },
+ "wikipedia": {
+  "title": "Vermont Yankee Nuclear Power Plant",
+  "url": "https://en.wikipedia.org/wiki/Vermont_Yankee_Nuclear_Power_Plant",
+  "extract": "Vermont Yankee was an electricity generating nuclear power plant, located in the town of Vernon, Vermont, in the northeastern United States. It generated 620 megawatts (MWe) of electricity at full power. The plant was a boiling water reactor (BWR), designed by General Electric. It operated from 1972 until December 29, 2014, when its owner Entergy shut down the plant. In 2008, the plant provided 71.8% of all electricity generated within Vermont, amounting to 35% of Vermont's electricity consumption. The plant is on the Connecticut River, upstream of the Vernon, Vermont Hydroelectric Dam and used the reservoir pool for its cooling water.\nIn March 2012, the plant's initial 40-year operating lic",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Vermont_Yankee_Unit_1.jpg/500px-Vermont_Yankee_Unit_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

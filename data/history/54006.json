@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MT00016",
+  "dam_name": "Broadwater Dam",
+  "owner": "Montana Dept of Natural Resources & Conservation",
+  "owner_type": "State",
+  "designer": "State of Montana/Tudor Engineering",
+  "year_completed": 1940,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Irrigation",
+  "river": "Missouri River",
+  "height_ft": 50.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MT00016/summary",
+  "distance_km": 0.08,
+  "score": 0.979,
+  "verified": false
+ }
+}

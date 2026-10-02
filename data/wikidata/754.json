@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q5675411",
+  "url": "http://www.wikidata.org/entity/Q5675411",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hartwell%20Dam%20Savannah%20River.jpg?width=800",
+  "inception": 1955,
+  "start_year": null,
+  "operator": "United States Army Corps of Engineers",
+  "commons_category": "Hartwell Dam"
+ },
+ "wikipedia": {
+  "title": "Hartwell Dam",
+  "url": "https://en.wikipedia.org/wiki/Hartwell_Dam",
+  "extract": "Hartwell Dam is a concrete and embankment dam located on the Savannah River at the border of South Carolina and Georgia, creating Lake Hartwell. The dam was built by the U.S. Army Corps of Engineers between 1955 and 1962 for the purposes of flood control, hydropower and navigation. The concrete and earthen structure spans 15,840 feet (4,828 m). The concrete section is 1,900 feet (579 m) long and rises 204 feet (62 m) above the riverbed at its apex. The Hartwell Dam currently produces 468 million KWh of electricity annually, has prevented over $40 million in flood damage since completion and also provides recreation, water quality, water supply, along with fish and wildlife management.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hartwell_Dam_Savannah_River.jpg/500px-Hartwell_Dam_Savannah_River.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA10303",
+  "dam_name": "Warm Springs Dam",
+  "owner": "USACE - San Francisco District",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1983,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Recreation;Hydroelectric;Water Supply",
+  "river": "Dry Creek",
+  "height_ft": 356.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA10303/summary",
+  "distance_km": 0.44,
+  "score": 0.891,
+  "verified": false
+ }
+}

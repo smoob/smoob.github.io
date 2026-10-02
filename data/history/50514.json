@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY01073",
+  "dam_name": "Fort Miller",
+  "owner": "Fort Miller Associates",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1984,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Other",
+  "river": "Hudson River",
+  "height_ft": 7.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY01073/summary",
+  "distance_km": 0.09,
+  "score": 0.976,
+  "verified": false
+ }
+}

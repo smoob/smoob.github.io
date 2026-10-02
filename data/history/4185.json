@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WY01389",
+  "dam_name": "Fontenelle Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": "BUREAU OF RECLAMATION",
+  "year_completed": 1964,
+  "years_modified": "1989S",
+  "purposes": "Fish and Wildlife Pond;Recreation;Hydroelectric;Water Supply",
+  "river": "Green River",
+  "height_ft": 139.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WY01389/summary",
+  "distance_km": 0.39,
+  "score": 0.901,
+  "verified": false
+ }
+}

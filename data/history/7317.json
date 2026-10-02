@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WY01300",
+  "dam_name": "Buffalo Bill Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1910,
+  "years_modified": "1994S",
+  "purposes": "Fish and Wildlife Pond;Irrigation;Recreation;Hydroelectric;Water Supply",
+  "river": "Shoshone River",
+  "height_ft": 350.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WY01300/summary",
+  "distance_km": 1.24,
+  "score": 0.69,
+  "verified": false
+ }
+}

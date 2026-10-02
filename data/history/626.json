@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00413",
+  "dam_name": "Belden Forebay",
+  "owner": "Pacific Gas and Electric Company",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1958,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "North Fork Feather River",
+  "height_ft": 152.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00413/summary",
+  "distance_km": 0.1,
+  "score": 0.474,
+  "verified": false
+ }
+}

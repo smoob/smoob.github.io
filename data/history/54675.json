@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "SCD03324",
+  "dam_name": "South Pacolet River Reservoir 1",
+  "owner": "CITY OF SPARTANBURG",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1926,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Water Supply",
+  "river": "South Pacolet River",
+  "height_ft": 74.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/SCD03324/summary",
+  "distance_km": 0.26,
+  "score": 0.435,
+  "verified": false
+ }
+}

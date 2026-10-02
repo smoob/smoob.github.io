@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CO01654",
+  "dam_name": "Flatiron Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1953,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Irrigation",
+  "river": "Dry Creek-Tr, Chimney Hollow Creek",
+  "height_ft": 86.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CO01654/summary",
+  "distance_km": 1.08,
+  "score": 0.73,
+  "verified": false
+ }
+}

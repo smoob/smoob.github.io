@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q11966063",
+  "url": "http://www.wikidata.org/entity/Q11966063",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dresden%20Ohio%20Natural%20Gas%20Plant.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Dresden Plant",
+  "url": "https://en.wikipedia.org/wiki/Dresden_Plant",
+  "extract": "The Dresden Plant is a 580 megawatt (MW), natural gas power plant located south of Dresden, Ohio in Muskingum County, Ohio. The plant began operations in 2012 and is currently owned by American Electric Power (AEP).",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dresden_Ohio_Natural_Gas_Plant.jpg/500px-Dresden_Ohio_Natural_Gas_Plant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

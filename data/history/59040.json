@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "VT00001",
+  "dam_name": "Ball Mountain Dam",
+  "owner": "USACE - New England District",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1961,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Hydroelectric",
+  "river": "West",
+  "height_ft": 247.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/VT00001/summary",
+  "distance_km": 0.2,
+  "score": 0.95,
+  "verified": false
+ }
+}

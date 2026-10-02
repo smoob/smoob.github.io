@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ME00033",
+  "dam_name": "Skelton",
+  "owner": "Brookfield Renewable Power LLC NYRO",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1948,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Saco River",
+  "height_ft": 75.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ME00033/summary",
+  "distance_km": 0.04,
+  "score": 0.99,
+  "verified": false
+ }
+}

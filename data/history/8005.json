@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MA00976",
+  "dam_name": "Bear Swamp - North Dike",
+  "owner": null,
+  "owner_type": "Not Listed",
+  "designer": null,
+  "year_completed": 1974,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Deerfield River",
+  "height_ft": 155.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MA00976/summary",
+  "distance_km": 0.03,
+  "score": 0.991,
+  "verified": false
+ }
+}

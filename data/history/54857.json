@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WI00755",
+  "dam_name": "Little Quinnesec Falls",
+  "owner": null,
+  "owner_type": "Not Listed",
+  "designer": null,
+  "year_completed": 1900,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Menominee River",
+  "height_ft": 67.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WI00755/summary",
+  "distance_km": 0.36,
+  "score": 0.41,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CO82913",
+  "dam_name": "Little Hell Creek Diversion Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1952,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Irrigation",
+  "river": "Little Hell Creek",
+  "height_ft": 43.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CO82913/summary",
+  "distance_km": 0.17,
+  "score": 0.456,
+  "verified": false
+ }
+}

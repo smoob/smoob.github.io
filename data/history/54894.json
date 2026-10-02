@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NC00549",
+  "dam_name": "Yadkin Narrows",
+  "owner": "Cube Yadkin Generation LLC",
+  "owner_type": "Private",
+  "designer": "ALUMINUM COMPANY OF AMERICA",
+  "year_completed": 1917,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation;Water Supply",
+  "river": "Yadkin River",
+  "height_ft": 214.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NC00549/summary",
+  "distance_km": 0.15,
+  "score": 0.961,
+  "verified": false
+ }
+}

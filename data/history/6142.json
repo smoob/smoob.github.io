@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "AR00164",
+  "dam_name": "Ozark-Jetta Taylor Lock and Dam",
+  "owner": "USACE - Little Rock District",
+  "owner_type": "Federal",
+  "designer": "CESWL",
+  "year_completed": 1969,
+  "years_modified": null,
+  "purposes": "Navigation;Recreation;Hydroelectric",
+  "river": "Arkansas",
+  "height_ft": 100.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/AR00164/summary",
+  "distance_km": 0.43,
+  "score": 0.894,
+  "verified": false
+ }
+}

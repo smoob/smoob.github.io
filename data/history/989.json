@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "IN03011",
+  "dam_name": "Twin Branch",
+  "owner": "Indiana & Michigan  Power Company",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1903,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "St Joseph River",
+  "height_ft": 41.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/IN03011/summary",
+  "distance_km": 0.11,
+  "score": 0.973,
+  "verified": false
+ }
+}

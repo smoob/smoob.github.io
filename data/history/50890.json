@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NC03365",
+  "dam_name": "Ivy River",
+  "owner": "Madison Hydro Partners",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1918,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Ivy River,  French Broad River",
+  "height_ft": 63.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NC03365/summary",
+  "distance_km": 0.02,
+  "score": 0.994,
+  "verified": false
+ }
+}

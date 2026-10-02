@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q1516266",
+  "url": "http://www.wikidata.org/entity/Q1516266",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/LimerickPowerPlant.JPG?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": "Exelon",
+  "commons_category": "Limerick Generating Station"
+ },
+ "wikipedia": {
+  "title": "Limerick Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Limerick_Generating_Station",
+  "extract": "The Limerick Generating Station, branded as the Limerick Clean Energy Center (LCEC), is a nuclear power plant located next to the Schuylkill River in Limerick Township, Montgomery County, Pennsylvania, approximately 29 miles (47 km) northwest of Center City, Philadelphia. The facility has two General Electric boiling water reactor (BWR) units, cooled by natural draft cooling towers. According to its owner, Constellation Energy, the two units are capable of producing 2,317 megawatts of power, which combined would provide electricity to around 2 million households. Constellation owns and operates this facility following their separation from Exelon Corporation in 2022. With the exception of re",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/LimerickPowerPlant.JPG/500px-LimerickPowerPlant.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

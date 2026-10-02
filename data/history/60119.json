@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CO01656",
+  "dam_name": "Granby Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1950,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Irrigation",
+  "river": "Colorado River",
+  "height_ft": 298.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CO01656/summary",
+  "distance_km": 0.27,
+  "score": 0.933,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00290",
+  "dam_name": "Watertown Municipal Power Dam",
+  "owner": "CITY OF WATERTOWN",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1913,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Black River",
+  "height_ft": 12.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00290/summary",
+  "distance_km": 0.17,
+  "score": 0.957,
+  "verified": false
+ }
+}

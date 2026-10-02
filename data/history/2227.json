@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NE01036",
+  "dam_name": "Jeffrey Dam",
+  "owner": "Central Nebraska Public Power & Irrigation District",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1941,
+  "years_modified": null,
+  "purposes": "Irrigation;Hydroelectric;Water Supply",
+  "river": null,
+  "height_ft": 90.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NE01036/summary",
+  "distance_km": 0.49,
+  "score": 0.877,
+  "verified": false
+ }
+}

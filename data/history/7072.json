@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00049",
+  "dam_name": "Cedar Springs",
+  "owner": "California Department of Water Resources",
+  "owner_type": "State",
+  "designer": "DWR",
+  "year_completed": 1971,
+  "years_modified": null,
+  "purposes": "Water Supply;Recreation;Hydroelectric",
+  "river": "Mojave River",
+  "height_ft": 249.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00049/summary",
+  "distance_km": 0.51,
+  "score": 0.372,
+  "verified": false
+ }
+}

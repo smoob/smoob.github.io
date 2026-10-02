@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "OR00015",
+  "dam_name": "Cougar Dam",
+  "owner": "USACE - Portland District",
+  "owner_type": "Federal",
+  "designer": "CENWP",
+  "year_completed": 1963,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Other;Irrigation;Navigation;Recreation;Hydroelectric",
+  "river": "South Fork Mckenzie River",
+  "height_ft": 519.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/OR00015/summary",
+  "distance_km": 0.39,
+  "score": 0.904,
+  "verified": false
+ }
+}

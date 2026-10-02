@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "SC00485",
+  "dam_name": "Wateree",
+  "owner": "Duke Energy",
+  "owner_type": "Public Utility",
+  "designer": "WATEREE POWER COMPANY",
+  "year_completed": 1919,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Water Supply",
+  "river": "Catawba River",
+  "height_ft": 92.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/SC00485/summary",
+  "distance_km": 0.28,
+  "score": 0.93,
+  "verified": false
+ }
+}

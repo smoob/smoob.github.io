@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ME00001",
+  "dam_name": "Brunswick",
+  "owner": null,
+  "owner_type": "Not Listed",
+  "designer": null,
+  "year_completed": 1982,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Androscoggin River",
+  "height_ft": 42.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ME00001/summary",
+  "distance_km": 0.02,
+  "score": 0.995,
+  "verified": false
+ }
+}

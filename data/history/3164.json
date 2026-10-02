@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "PA00266",
+  "dam_name": "Muddy Run Intake Channel Dam",
+  "owner": "Constellation Energy Generation, LLC (NYRO)",
+  "owner_type": "Public Utility",
+  "designer": "Philadelphia Electric Company",
+  "year_completed": 1967,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Susquehanna River",
+  "height_ft": 35.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/PA00266/summary",
+  "distance_km": 0.23,
+  "score": 0.943,
+  "verified": false
+ }
+}

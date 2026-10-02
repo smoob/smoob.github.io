@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "SD01092",
+  "dam_name": "Big Bend Dam",
+  "owner": "USACE - Omaha District",
+  "owner_type": "Federal",
+  "designer": "CENWO",
+  "year_completed": 1963,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Irrigation;Navigation;Recreation;Hydroelectric",
+  "river": "Missouri River",
+  "height_ft": 205.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/SD01092/summary",
+  "distance_km": 0.39,
+  "score": 0.902,
+  "verified": false
+ }
+}

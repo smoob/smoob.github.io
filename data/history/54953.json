@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00144",
+  "dam_name": "Hudson Falls",
+  "owner": "Northern Electric Power Co.",
+  "owner_type": "Private",
+  "designer": "Acres International",
+  "year_completed": 1996,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Hudson River",
+  "height_ft": 17.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00144/summary",
+  "distance_km": 0.27,
+  "score": 0.932,
+  "verified": false
+ }
+}

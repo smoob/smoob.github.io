@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ID00533",
+  "dam_name": "Oneida Embankment",
+  "owner": "PacifiCorp",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1921,
+  "years_modified": null,
+  "purposes": "Irrigation;Recreation;Hydroelectric",
+  "river": "Bear River",
+  "height_ft": 60.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ID00533/summary",
+  "distance_km": 0.61,
+  "score": 0.848,
+  "verified": false
+ }
+}

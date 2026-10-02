@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00945",
+  "dam_name": "Piercefield",
+  "owner": "Erie Boulevard Hydropower, L.P.",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1914,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Raquette River",
+  "height_ft": 22.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00945/summary",
+  "distance_km": 0.07,
+  "score": 0.981,
+  "verified": false
+ }
+}

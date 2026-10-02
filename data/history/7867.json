@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WA00295",
+  "dam_name": "Snoqualmie Falls",
+  "owner": "Puget Sound Energy",
+  "owner_type": "Private",
+  "designer": "Charles H. Baker",
+  "year_completed": 1898,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Snoqualmie River",
+  "height_ft": 19.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WA00295/summary",
+  "distance_km": 0.46,
+  "score": 0.886,
+  "verified": false
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q5337844",
+  "url": "http://www.wikidata.org/entity/Q5337844",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgewater%20Power%20Plant%20Sheboygan%20Wisconsin.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Edgewater Generating Station"
+ },
+ "wikipedia": {
+  "title": "Edgewater Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Edgewater_Generating_Station",
+  "extract": "Edgewater Generating Station is a 380 megawatt (MW) coal power plant located on the south side of Sheboygan, Wisconsin, on the shore of Lake Michigan, whose waters are used to provide cooling. It provides electricity for customers in the northeastern part of Alliant Energy's Wisconsin Power & Light service area and service to several local municipal utilities. In 2009, it was the seventh largest generating station in Wisconsin, with a net summer capacity of 767 MW.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Edgewater_Power_Plant_Sheboygan_Wisconsin.jpg/500px-Edgewater_Power_Plant_Sheboygan_Wisconsin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

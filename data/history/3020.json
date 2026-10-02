@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "OR00542",
+  "dam_name": "Clearwater No 1 Forebay",
+  "owner": "PacifiCorp",
+  "owner_type": "Private",
+  "designer": "Pioneer Service & Engineering",
+  "year_completed": 1953,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Clearwater No. 1 Canal",
+  "height_ft": 17.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/OR00542/summary",
+  "distance_km": 1.57,
+  "score": 0.607,
+  "verified": false
+ }
+}

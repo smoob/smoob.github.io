@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ID83073",
+  "dam_name": "Upper Salmon Falls B-Plant Forebay",
+  "owner": "Idaho Power Company",
+  "owner_type": "Private",
+  "designer": "EBASCO",
+  "year_completed": 1947,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Snake River",
+  "height_ft": 73.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ID83073/summary",
+  "distance_km": 0.08,
+  "score": 0.98,
+  "verified": false
+ }
+}

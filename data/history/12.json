@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "AL01426",
+  "dam_name": "Holt Lock and Dam",
+  "owner": "USACE - Mobile District",
+  "owner_type": "Federal",
+  "designer": "Alabama Power Co.;CESAM",
+  "year_completed": 1968,
+  "years_modified": null,
+  "purposes": "Navigation;Recreation;Hydroelectric",
+  "river": "Black Warrior River",
+  "height_ft": 120.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/AL01426/summary",
+  "distance_km": 0.14,
+  "score": 0.965,
+  "verified": false
+ }
+}

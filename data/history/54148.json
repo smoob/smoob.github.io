@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ME00083",
+  "dam_name": "Hydro-Kennebec",
+  "owner": null,
+  "owner_type": "Not Listed",
+  "designer": "Stone & Webster Engineering Corp.",
+  "year_completed": 1989,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fire Protection, Stock, Or Small Fish Pond;Recreation",
+  "river": "Kennebec River",
+  "height_ft": 35.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ME00083/summary",
+  "distance_km": 0.13,
+  "score": 0.967,
+  "verified": false
+ }
+}

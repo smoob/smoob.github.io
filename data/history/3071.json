@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "OR00600",
+  "dam_name": "Walterville Forebay",
+  "owner": "Eugene Water and Electric Board",
+  "owner_type": "Public Utility",
+  "designer": "CH2M",
+  "year_completed": 1911,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "McKenzie River",
+  "height_ft": 24.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/OR00600/summary",
+  "distance_km": 0.05,
+  "score": 0.988,
+  "verified": false
+ }
+}

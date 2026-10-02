@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "GA00830",
+  "dam_name": "Bartletts Ferry, Labyrinth Spillway",
+  "owner": "Georgia Power Company",
+  "owner_type": "Public Utility",
+  "designer": "STONE AND WEBSTER COMPANY",
+  "year_completed": 1985,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Chattahoochee River",
+  "height_ft": 11.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/GA00830/summary",
+  "distance_km": 0.94,
+  "score": 0.766,
+  "verified": false
+ }
+}

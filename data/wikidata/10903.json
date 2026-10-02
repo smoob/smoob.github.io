@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q6665748",
+  "url": "http://www.wikidata.org/entity/Q6665748",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lockport1.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Lockport Lock and Dam"
+ },
+ "wikipedia": {
+  "title": "Lockport Powerhouse",
+  "url": "https://en.wikipedia.org/wiki/Lockport_Powerhouse",
+  "extract": "The Lockport Powerhouse is an American run-of-the-river dam used by the Metropolitan Water Reclamation District of Greater Chicago to control the outflow of the Sanitary and Ship Canal and limit the diversion of water from Lake Michigan into the Des Plaines River.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Lockport1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ }
+}

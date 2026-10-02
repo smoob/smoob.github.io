@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00306",
+  "dam_name": "Eagle",
+  "owner": "Erie Boulevard Hydropower, L.P.",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1915,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Beaver River",
+  "height_ft": 22.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00306/summary",
+  "distance_km": 1.0,
+  "score": 0.749,
+  "verified": false
+ }
+}

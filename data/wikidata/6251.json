@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q371357",
+  "url": "http://www.wikidata.org/entity/Q371357",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/South%20Texas%20Nuclear%20Generating%20Station.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "South Texas Nuclear Generating Station"
+ },
+ "wikipedia": {
+  "title": "South Texas Nuclear Generating Station",
+  "url": "https://en.wikipedia.org/wiki/South_Texas_Nuclear_Generating_Station",
+  "extract": "The South Texas Project Electric Generating Station (also known as STP, STPEGS, South Texas Project), is a nuclear power station southwest of Bay City, Texas, United States. STP occupies a 12,200-acre (4,900 ha) site west of the Colorado River about 90 miles (140 km) southwest of Houston. It consists of two Westinghouse Pressurized Water Reactors and is cooled by a 7,000-acre (2,800 ha) reservoir, which eliminates the need for cooling towers.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/South_Texas_Nuclear_Generating_Station.jpg/500px-South_Texas_Nuclear_Generating_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

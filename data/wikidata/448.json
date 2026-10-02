@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q12010701",
+  "url": "http://www.wikidata.org/entity/Q12010701",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gianelli%20power%20plant.jpg?width=800",
+  "inception": 1963,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Gianelli Power Plant",
+  "url": "https://en.wikipedia.org/wiki/Gianelli_Power_Plant",
+  "extract": "The Gianelli Power Plant, also known as the San Luis Power Plant, is a pumped-storage hydroelectric plant that is at the base of the San Luis Dam in California. During the wet season, turbines pump water from the O'Neill Forebay into the reservoir, then when needed during the irrigation season, water flows from the reservoir back through the turbines and generates electricity. This is an unusual use of pumped storage where the intention is to capture irrigation water not to store power. Storage capacity delivers up to 298 hours of generation at full power.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gianelli_power_plant.jpg/500px-Gianelli_power_plant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

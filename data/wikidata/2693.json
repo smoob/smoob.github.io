@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q2944554",
+  "url": "http://www.wikidata.org/entity/Q2944554",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20moses%20niagara%20power%20plant%2001.jpg?width=800",
+  "inception": 1956,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Robert Moses Niagara Hydroelectric Power Station"
+ },
+ "wikipedia": {
+  "title": "Robert Moses Niagara Power Plant",
+  "url": "https://en.wikipedia.org/wiki/Robert_Moses_Niagara_Power_Plant",
+  "extract": "The Robert Moses Niagara Hydroelectric Power Station is a hydroelectric power station in Lewiston, New York, near Niagara Falls. Owned and operated by the New York Power Authority (NYPA), the plant diverts water from the Niagara River above Niagara Falls and returns the water into the lower portion of the river near Lake Ontario. It uses 13 generators at an installed capacity of 2,525 MW (3,386,000 hp) with an average annual net generation of 15,897,000 MWh between 2014 and 2023, and a capacity factor of 71.9%. \nNamed for New York City planner Robert Moses, the plant was built to replace power production after the Schoellkopf Power Station, a nearby hydroelectric plant, collapsed in 1956. It",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Robert_moses_niagara_power_plant_01.jpg/500px-Robert_moses_niagara_power_plant_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

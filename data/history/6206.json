@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CO00895",
+  "dam_name": "Terminal",
+  "owner": "Public Service Company of Colorado",
+  "owner_type": "Public Utility",
+  "designer": "W.W. Wheeler",
+  "year_completed": 1982,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Elbert Creek",
+  "height_ft": 78.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CO00895/summary",
+  "distance_km": 0.02,
+  "score": 0.495,
+  "verified": false
+ }
+}

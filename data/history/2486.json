@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00075",
+  "dam_name": "Sturgeon Pool Dam",
+  "owner": "Central Hudson Gas & Electric Corp.",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1922,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Wallkill River",
+  "height_ft": 109.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00075/summary",
+  "distance_km": 0.09,
+  "score": 0.976,
+  "verified": false
+ }
+}

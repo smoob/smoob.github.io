@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NC06521",
+  "dam_name": "High Rock",
+  "owner": "Cube Yadkin Generation LLC",
+  "owner_type": "Private",
+  "designer": "ALUMINUM COMPANY OF AMERICA",
+  "year_completed": 1927,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation;Water Supply",
+  "river": "Yadkin River",
+  "height_ft": 96.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NC06521/summary",
+  "distance_km": 0.09,
+  "score": 0.977,
+  "verified": false
+ }
+}

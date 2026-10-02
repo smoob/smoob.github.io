@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MI00536",
+  "dam_name": "French Paper Company Dam",
+  "owner": "French Paper Company",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1887,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Saint Joseph River",
+  "height_ft": 22.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MI00536/summary",
+  "distance_km": 0.23,
+  "score": 0.943,
+  "verified": false
+ }
+}

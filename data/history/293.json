@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00338",
+  "dam_name": "Wishon Forebay",
+  "owner": "Pacific Gas and Electric Company",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1896,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "North Fork Willow Creek",
+  "height_ft": 15.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00338/summary",
+  "distance_km": 1.16,
+  "score": 0.711,
+  "verified": false
+ }
+}

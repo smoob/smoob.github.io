@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q14522779",
+  "url": "http://www.wikidata.org/entity/Q14522779",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Columbia%20Energy%20Center.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Columbia Energy Center"
+ },
+ "wikipedia": {
+  "title": "Columbia Energy Center",
+  "url": "https://en.wikipedia.org/wiki/Columbia_Energy_Center",
+  "extract": "Columbia Energy Center is a base load, sub-bituminous coal-fired, electrical power station located south of Portage in the Town of Pacific, Columbia County, Wisconsin. Ownership is 46.2% Wisconsin Power and Light Company (Alliant Energy), 31.8% Wisconsin Public Service (Integrys Energy Group), and 22% Madison Gas and Electric (MGE).",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Coal_power_plant_by_Portage%2C_Wisconsin.jpg/500px-Coal_power_plant_by_Portage%2C_Wisconsin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

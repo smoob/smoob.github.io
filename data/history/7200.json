@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "TX00015",
+  "dam_name": "Town Bluff Dam",
+  "owner": "USACE - Fort Worth District",
+  "owner_type": "Federal",
+  "designer": "CESWF",
+  "year_completed": 1951,
+  "years_modified": null,
+  "purposes": "Other;Fish and Wildlife Pond;Recreation;Hydroelectric;Water Supply",
+  "river": "Neches River",
+  "height_ft": 45.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/TX00015/summary",
+  "distance_km": 0.36,
+  "score": 0.41,
+  "verified": false
+ }
+}

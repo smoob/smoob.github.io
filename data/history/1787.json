@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MI00022",
+  "dam_name": "Grand Rapids Detached Dike No 2",
+  "owner": "Wisconsin Public Service Corporation",
+  "owner_type": "Public Utility",
+  "designer": "L.A. De Guere",
+  "year_completed": 1909,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Menominie River",
+  "height_ft": 10.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MI00022/summary",
+  "distance_km": 1.52,
+  "score": 0.619,
+  "verified": false
+ }
+}

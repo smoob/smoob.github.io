@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "OR03707",
+  "dam_name": "Fish Creek Forebay",
+  "owner": "PacifiCorp",
+  "owner_type": "Private",
+  "designer": "Pioneer Service & Engineering",
+  "year_completed": 1951,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Fish Creek Canal",
+  "height_ft": 14.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/OR03707/summary",
+  "distance_km": 0.68,
+  "score": 0.83,
+  "verified": false
+ }
+}

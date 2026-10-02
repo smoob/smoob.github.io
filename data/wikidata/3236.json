@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q19380966",
+  "url": "http://www.wikidata.org/entity/Q19380966",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Power%20Station%20at%20night%20%28cropped%29.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Manchester Street Power Station"
+ },
+ "wikipedia": {
+  "title": "Manchester Street Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Manchester_Street_Generating_Station",
+  "extract": "The Manchester Street Generating Station is a 510 MW combined cycle gas-fired power station in the Jewelry District of Providence, Rhode Island. The station's main building is located along the Providence River and defined by three 321 foot (98 m) tall smoke stacks. The plant has three Siemens gas turbines and three ABB steam turbines.\nThe power station is owned by Starwood Energy Group, which purchased the facility from Dominion Energy in 2018.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Power_Station_at_night_%28cropped%29.jpg/500px-Power_Station_at_night_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

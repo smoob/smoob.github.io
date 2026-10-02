@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q65074038",
+  "url": "http://www.wikidata.org/entity/Q65074038",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Greater%20Sandhill%20Solar%20Plant.JPG?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Greater Sandhill Solar Plant",
+  "url": "https://en.wikipedia.org/wiki/Greater_Sandhill_Solar_Plant",
+  "extract": "The Greater Sandhill Solar Plant is a 19 megawatt (MWAC) photovoltaic power station in the San Luis Valley, located near the town of Mosca, Colorado.   It was the largest solar facility in the state when it came online at the end of 2010.   The electricity is being sold to Public Service of Colorado, a subsidiary of Xcel Energy, under a long-term power purchase agreement.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Greater_Sandhill_Solar_Plant.JPG/500px-Greater_Sandhill_Solar_Plant.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

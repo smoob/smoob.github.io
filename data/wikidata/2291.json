@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q19384023",
+  "url": "http://www.wikidata.org/entity/Q19384023",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/North%20Omaha%20Power%20Station.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "North Omaha Power Plant",
+  "url": "https://en.wikipedia.org/wiki/North_Omaha_Power_Plant",
+  "extract": "North Omaha Power Plant is a coal-fired power station located in the U.S. state of Nebraska. The facility is operated by the Omaha Public Power District (OPPD) and has been the subject of ongoing public debate regarding coal use, environmental compliance, and the timing of a potential transition away from coal-fired electricity generation.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/North_Omaha_Power_Station.jpg/500px-North_Omaha_Power_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

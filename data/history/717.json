@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "GA00842",
+  "dam_name": "Morgan Falls",
+  "owner": "Georgia Power Company",
+  "owner_type": "Public Utility",
+  "designer": "S. MORGAN SMITH CO., PENNSYLVANIA",
+  "year_completed": 1903,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation;Water Supply",
+  "river": "Chattahoochee",
+  "height_ft": 65.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/GA00842/summary",
+  "distance_km": 0.0,
+  "score": 1.0,
+  "verified": false
+ }
+}

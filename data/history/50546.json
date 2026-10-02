@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00245",
+  "dam_name": "Bowman Main",
+  "owner": "Nevada Irrigation District",
+  "owner_type": "Public Utility",
+  "designer": "Fred Tibbits, State Engineer",
+  "year_completed": 1926,
+  "years_modified": null,
+  "purposes": "Irrigation;Recreation;Hydroelectric;Water Supply",
+  "river": "Canyon Creek",
+  "height_ft": 175.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00245/summary",
+  "distance_km": 0.09,
+  "score": 0.978,
+  "verified": false
+ }
+}

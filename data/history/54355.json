@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "VT00329",
+  "dam_name": "Chace Mill",
+  "owner": "City of Burlington, Vermont & Burlington Electric Dept.",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1993,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Winooski River",
+  "height_ft": 29.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/VT00329/summary",
+  "distance_km": 0.15,
+  "score": 0.963,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "SC00706",
+  "dam_name": "Spillway Dam - Keowee",
+  "owner": "Duke Energy",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1971,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation;Water Supply",
+  "river": "Keowee",
+  "height_ft": 60.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/SC00706/summary",
+  "distance_km": 0.24,
+  "score": 0.941,
+  "verified": false
+ }
+}

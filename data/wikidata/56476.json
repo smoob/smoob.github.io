@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q104853854",
+  "url": "http://www.wikidata.org/entity/Q104853854",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gateway%20Generating%20Station%2C%20Antioch%20CA.png?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Gateway Generating Station"
+ },
+ "wikipedia": {
+  "title": "Gateway Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Gateway_Generating_Station",
+  "extract": "Gateway Generating Station (GGS), formerly Contra Costa Unit 8 Power Project, is a combined-cycle, natural-gas-fired power station in Contra Costa County, California, which provides power to half a million customers in northern and central California. Gateway Generating Station is on the southern shore of the San Joaquin River, in Antioch, and is one of more than ten fossil-fuel power plants in Contra Costa County.\nConstruction, which cost $386 million, began in 2001; the station began delivering power to customers in 2009. Its nominal capacity is 530 MW, with a peak capacity of 580 MW. It generates electricity using two combustion turbines, paired with heat recovery steam generators (HRSGs)",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gateway_Generating_Station_rectified.jpg/500px-Gateway_Generating_Station_rectified.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

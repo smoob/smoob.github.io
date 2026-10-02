@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00263",
+  "dam_name": "Beardsley",
+  "owner": "South San Joaquin Irrigation District",
+  "owner_type": "Public Utility",
+  "designer": "Tudor-Goodenough",
+  "year_completed": 1957,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation;Flood Risk Reduction",
+  "river": "Middle Fork Stanislaus River",
+  "height_ft": 284.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00263/summary",
+  "distance_km": 0.18,
+  "score": 0.955,
+  "verified": false
+ }
+}

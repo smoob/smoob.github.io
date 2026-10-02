@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "VT00196",
+  "dam_name": "Silver Lake",
+  "owner": "Green Mountain Power Corporation",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1917,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Sucker Brook",
+  "height_ft": 30.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/VT00196/summary",
+  "distance_km": 0.02,
+  "score": 0.994,
+  "verified": false
+ }
+}

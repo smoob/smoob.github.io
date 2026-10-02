@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00817",
+  "dam_name": "Camino",
+  "owner": "Sacramento Municipal Utility District",
+  "owner_type": "Public Utility",
+  "designer": "Bechtel",
+  "year_completed": 1961,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Silver Creek",
+  "height_ft": 133.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00817/summary",
+  "distance_km": 0.07,
+  "score": 0.984,
+  "verified": false
+ }
+}

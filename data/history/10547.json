@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00015",
+  "dam_name": "Pyrites Intake",
+  "owner": "Pyrites Hydro, LLC",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1908,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Grass River",
+  "height_ft": 27.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00015/summary",
+  "distance_km": 0.62,
+  "score": 0.846,
+  "verified": false
+ }
+}

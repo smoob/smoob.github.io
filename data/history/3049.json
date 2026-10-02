@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "OR00552",
+  "dam_name": "River Mill",
+  "owner": "Portland General Electric Company",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1911,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Clackamas River",
+  "height_ft": 85.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/OR00552/summary",
+  "distance_km": 0.1,
+  "score": 0.975,
+  "verified": false
+ }
+}

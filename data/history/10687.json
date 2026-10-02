@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY01428",
+  "dam_name": "Port Leyden",
+  "owner": null,
+  "owner_type": "Not Listed",
+  "designer": "International Engineering Co. (a/k/a MK Engineers)",
+  "year_completed": 1983,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Black River",
+  "height_ft": 32.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY01428/summary",
+  "distance_km": 0.02,
+  "score": 0.494,
+  "verified": false
+ }
+}

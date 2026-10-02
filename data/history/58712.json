@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NH83010",
+  "dam_name": "Stevens Mill",
+  "owner": "Franklin Power, LLC",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1930,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Winnipesaukee River",
+  "height_ft": 22.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NH83010/summary",
+  "distance_km": 0.0,
+  "score": 0.999,
+  "verified": false
+ }
+}

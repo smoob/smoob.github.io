@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q5475105",
+  "url": "http://www.wikidata.org/entity/Q5475105",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/FOUR%20CORNERS%20POWER%20PLANT%20-%20NARA%20-%20544328.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Four Corners Generating Station"
+ },
+ "wikipedia": {
+  "title": "Four Corners Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Four_Corners_Generating_Station",
+  "extract": "The Four Corners Generating Station is a 1,540 megawatt coal-fired power plant located near Fruitland, New Mexico, on property located on the Navajo Nation that is leased from the Navajo Nation government.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FOUR_CORNERS_POWER_PLANT_-_NARA_-_544328.jpg/500px-FOUR_CORNERS_POWER_PLANT_-_NARA_-_544328.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

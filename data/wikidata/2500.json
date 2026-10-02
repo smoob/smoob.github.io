@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q12066941",
+  "url": "http://www.wikidata.org/entity/Q12066941",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ravenswood%20power%20plant.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Ravenswood Generating Station"
+ },
+ "wikipedia": {
+  "title": "Ravenswood Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Ravenswood_Generating_Station",
+  "extract": "Ravenswood Generating Station is a 2,480 megawatt power plant in Long Island City in Queens, New York City, owned and operated by LS Power/Helix Energy Solutions Group. Originally fuelled by coal, the plant has been fueled primarily by fuel oil (no. 6) and natural gas since 1971. An early proposal included a nuclear power reactor on the site.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ravenswood_Generating_Station_%2841875%29.jpg/500px-Ravenswood_Generating_Station_%2841875%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

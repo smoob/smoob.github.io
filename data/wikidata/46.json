@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q1650555",
+  "url": "http://www.wikidata.org/entity/Q1650555",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Browns%20ferry%20NPP.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": "Tennessee Valley Authority",
+  "commons_category": "Browns Ferry Nuclear Power Plant"
+ },
+ "wikipedia": {
+  "title": "Browns Ferry Nuclear Plant",
+  "url": "https://en.wikipedia.org/wiki/Browns_Ferry_Nuclear_Plant",
+  "extract": "The Browns Ferry Nuclear Power Plant is located on the Tennessee River near Decatur and Athens, Alabama, on the north side (right bank) of Wheeler Lake. The site has three General Electric boiling water reactor (BWR) nuclear generating units and is owned entirely by the Tennessee Valley Authority (TVA). With a generating capacity of nearly 3.8 gigawatts, it is the third-most-powerful nuclear power plant in the United States, behind the Palo Verde Nuclear Power Plant in Arizona and the Vogtle Nuclear Power Plant in Georgia, and the most powerful generating station operated by TVA.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Browns_ferry_NPP.jpg/500px-Browns_ferry_NPP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

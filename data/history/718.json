@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "GA00861",
+  "dam_name": "Nacoochee",
+  "owner": "Georgia Power Company",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1926,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fish and Wildlife Pond;Recreation",
+  "river": "Tallulah River",
+  "height_ft": 75.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/GA00861/summary",
+  "distance_km": 0.02,
+  "score": 0.996,
+  "verified": false
+ }
+}

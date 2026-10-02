@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "TN11502",
+  "dam_name": "Nickajack Dam",
+  "owner": "TVA",
+  "owner_type": "Federal",
+  "designer": "TVA",
+  "year_completed": 1967,
+  "years_modified": "1992H;1992O",
+  "purposes": "Hydroelectric;Navigation;Recreation;Water Supply",
+  "river": "Tennessee River",
+  "height_ft": 81.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/TN11502/summary",
+  "distance_km": 0.29,
+  "score": 0.928,
+  "verified": false
+ }
+}

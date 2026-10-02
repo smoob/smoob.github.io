@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "GA01702",
+  "dam_name": "Hartwell Dam",
+  "owner": "USACE - Savannah District",
+  "owner_type": "Federal",
+  "designer": "CESAS",
+  "year_completed": 1962,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Other;Fish and Wildlife Pond;Recreation;Water Supply;Flood Risk Reduction",
+  "river": "Savannah River",
+  "height_ft": 204.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/GA01702/summary",
+  "distance_km": 0.16,
+  "score": 0.961,
+  "verified": false
+ }
+}

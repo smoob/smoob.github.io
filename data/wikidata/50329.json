@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q116712645",
+  "url": "http://www.wikidata.org/entity/Q116712645",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20view%20of%20West%20Point%20Treatment%20Plant%2C%20Seattle.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "West Point Treatment Plant",
+  "url": "https://en.wikipedia.org/wiki/West_Point_Treatment_Plant",
+  "extract": "The West Point Treatment Plant is a major wastewater treatment plant in Seattle, WA. It is located in Seattle's Magnolia neighborhood, within Discovery Park. It is located at the tip of West Point, near the West Point Lighthouse.  Operated by King County Wastewater Treatment Division (WTD), the plant handles significant wastewater and stormwater flows from the City of Seattle and other nearby communities. In 2017, the plant suffered a catastrophic flood that disabled it for months.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/West_Point_Treatment_Plant.jpeg/500px-West_Point_Treatment_Plant.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

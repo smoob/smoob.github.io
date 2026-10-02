@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "TN07101",
+  "dam_name": "Pickwick Landing Dam",
+  "owner": "TVA",
+  "owner_type": "Federal",
+  "designer": "TVA",
+  "year_completed": 1938,
+  "years_modified": "1984;2020E",
+  "purposes": "Flood Risk Reduction;Navigation;Recreation;Hydroelectric;Water Supply",
+  "river": "Tennessee River",
+  "height_ft": 113.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/TN07101/summary",
+  "distance_km": 0.05,
+  "score": 0.987,
+  "verified": false
+ }
+}

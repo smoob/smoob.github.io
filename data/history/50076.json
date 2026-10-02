@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00805",
+  "dam_name": "Santa Felicia",
+  "owner": "United Water Conservation District",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1955,
+  "years_modified": null,
+  "purposes": "Water Supply;Irrigation;Recreation;Hydroelectric",
+  "river": "Piru Creek",
+  "height_ft": 213.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00805/summary",
+  "distance_km": 0.02,
+  "score": 0.995,
+  "verified": false
+ }
+}

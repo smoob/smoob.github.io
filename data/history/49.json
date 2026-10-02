@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "AL07701",
+  "dam_name": "Wheeler Dam",
+  "owner": "TVA",
+  "owner_type": "Federal",
+  "designer": "TVA;USBR",
+  "year_completed": 1936,
+  "years_modified": "1995;2012",
+  "purposes": "Hydroelectric;Navigation;Recreation",
+  "river": "Tennessee River",
+  "height_ft": 175.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/AL07701/summary",
+  "distance_km": 0.05,
+  "score": 0.987,
+  "verified": false
+ }
+}

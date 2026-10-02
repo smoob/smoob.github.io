@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00400",
+  "dam_name": "Ogdensburg",
+  "owner": "City of Ogdensburg",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1910,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Oswegatchie River",
+  "height_ft": 12.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00400/summary",
+  "distance_km": 1.41,
+  "score": 0.646,
+  "verified": false
+ }
+}

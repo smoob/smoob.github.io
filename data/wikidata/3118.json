@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q2339858",
+  "url": "http://www.wikidata.org/entity/Q2339858",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Conemaughgeneration.jpg?width=800",
+  "inception": 1970,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Conemaugh Generating Station"
+ },
+ "wikipedia": {
+  "title": "Conemaugh Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Conemaugh_Generating_Station",
+  "extract": "The Conemaugh Generating Station is a 1,872 MW baseload coal-powered plant located on 1,750 acres (710 ha), across the Conemaugh River from New Florence in Western Pennsylvania. Track 3 of the Norfolk Southern Pittsburgh Line runs next to the power plant.\nThe power plant will close by or before December 31, 2028, as a result of a new federal wastewater rule that prohibits coal power plants from dumping toxic elements such as mercury, arsenic, and selenium into streams and rivers, along with the Keystone Generating Station and at least 24 other power plants in 14 states.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Conemaughgeneration.jpg/500px-Conemaughgeneration.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MI00168",
+  "dam_name": "Five Channels",
+  "owner": "Consumers Energy Company",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1912,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Au Sable River",
+  "height_ft": 42.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MI00168/summary",
+  "distance_km": 0.04,
+  "score": 0.99,
+  "verified": false
+ }
+}

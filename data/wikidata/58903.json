@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q6773266",
+  "url": "http://www.wikidata.org/entity/Q6773266",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marseilles%20IL%20Marseilles%20Hydro%20Plant%20HAER%201986-1.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Marseilles Hydro Plant"
+ },
+ "wikipedia": {
+  "title": "Marseilles Hydro Plant",
+  "url": "https://en.wikipedia.org/wiki/Marseilles_Hydro_Plant",
+  "extract": "The Marseilles Hydro Plant, also known as the Marseilles Hydro Development or the Marseilles Hydro Power Station, is a historic hydroelectric power station along the Illinois River in Marseilles, Illinois, USA.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Marseilles_IL_Marseilles_Hydro_Plant_HAER_1986-1.jpg/500px-Marseilles_IL_Marseilles_Hydro_Plant_HAER_1986-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

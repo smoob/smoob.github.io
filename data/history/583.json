@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CT00206",
+  "dam_name": "Greenville",
+  "owner": "City of Norwich Department of Public Utilities",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1888,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Shetucket River",
+  "height_ft": 15.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CT00206/summary",
+  "distance_km": 0.01,
+  "score": 0.497,
+  "verified": false
+ }
+}

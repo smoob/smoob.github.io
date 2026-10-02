@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "PA01790",
+  "dam_name": "Patterson",
+  "owner": "Beaver Valley Power Company, LLC",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1825,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Beaver River",
+  "height_ft": 14.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/PA01790/summary",
+  "distance_km": 0.23,
+  "score": 0.942,
+  "verified": false
+ }
+}

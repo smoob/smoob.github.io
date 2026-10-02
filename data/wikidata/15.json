@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q6505339",
+  "url": "http://www.wikidata.org/entity/Q6505339",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lay%20Dam%20Coosa%20River%20Alabama.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Lay Dam",
+  "url": "https://en.wikipedia.org/wiki/Lay_Dam",
+  "extract": "Lay Dam is a hydroelectric power dam on the Coosa River in Chilton County and Coosa County, near Clanton, Alabama.\nThe concrete run-of-the-river gravity dam was built in 1914 as the first major project of Alabama Power Company, and named for Captain William Patrick Lay, its first president. The dam's hydroelectric facility has a generating capacity of 177 megawatts (237,000 hp).\nThe construction of the dam flooded the original site of Fort Williams, which was used during the Creek War.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Lay_Dam_Coosa_River_Alabama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ }
+}

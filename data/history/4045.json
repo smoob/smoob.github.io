@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WI00738",
+  "dam_name": "Pine",
+  "owner": "Wisconsin Electric Power Company",
+  "owner_type": "Public Utility",
+  "designer": "Mead & Seastone",
+  "year_completed": 1922,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Pine Creek",
+  "height_ft": 42.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WI00738/summary",
+  "distance_km": 0.4,
+  "score": 0.901,
+  "verified": false
+ }
+}

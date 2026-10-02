@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q6672823",
+  "url": "http://www.wikidata.org/entity/Q6672823",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Long%20Lake%20Dam.jpg?width=800",
+  "inception": 1915,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Long Lake Hydroelectric Power Plant"
+ },
+ "wikipedia": {
+  "title": "Long Lake Dam",
+  "url": "https://en.wikipedia.org/wiki/Long_Lake_Dam",
+  "extract": "Long Lake Dam is a concrete gravity dam on the Spokane River, between Lincoln County and Stevens County about 30 miles (48 km) northwest of Spokane in eastern Washington. It forms Long Lake (Washington), a 23.5 mi (37.8 km) long reservoir, and has a hydroelectric generating capacity of 71 megawatts. The dam was built by Washington Water Power (now Avista Utilities), which operates five other dams along the Spokane.\nUpon its completion in 1915, Long Lake Dam completely blocked salmon migrations to the upper portions of the Spokane River watershed, although much larger Grand Coulee Dam on the Columbia River extirpated salmon from the entire Spokane basin by 1942.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Long_Lake_Dam_from_upper_viewpoint.jpg/500px-Long_Lake_Dam_from_upper_viewpoint.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

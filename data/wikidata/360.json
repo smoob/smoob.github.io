@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q762368",
+  "url": "http://www.wikidata.org/entity/Q762368",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/San%20Onofre%20Nuclear%20Generating%20Station%2C%202012.jpg?width=800",
+  "inception": 1968,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "San Onofre Nuclear Generating Station"
+ },
+ "wikipedia": {
+  "title": "San Onofre Nuclear Generating Station",
+  "url": "https://en.wikipedia.org/wiki/San_Onofre_Nuclear_Generating_Station",
+  "extract": "The San Onofre Nuclear Generating Station (SONGS) is a permanently closed nuclear power plant located south of San Clemente, California, on the Pacific coast, in Nuclear Regulatory Commission Region IV. The plant was shut down in 2013 after defects were found in replacement steam generators; it is currently in the process of being decommissioned. The 2.2 GW of electricity supply lost when the plant shut down was replaced with 1.8 GW from new natural-gas-fired power plants and 250 MW from energy-storage projects.\nThe plant is owned by Southern California Edison (SCE). Edison International, parent of SCE, holds 78.2% ownership in the plant; San Diego Gas & Electric, 20%; and the City of Rivers",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/San_Onofre_Nuclear_Generating_Station_2013_photo_Don_Ramey_Logan.jpg/500px-San_Onofre_Nuclear_Generating_Station_2013_photo_Don_Ramey_Logan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WA00347",
+  "dam_name": "Ice Harbor Lock and Dam",
+  "owner": "USACE - Walla Walla District",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1962,
+  "years_modified": null,
+  "purposes": "Navigation;Fish and Wildlife Pond;Recreation;Hydroelectric",
+  "river": "Snake River",
+  "height_ft": 208.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WA00347/summary",
+  "distance_km": 0.12,
+  "score": 0.97,
+  "verified": false
+ }
+}

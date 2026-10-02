@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MO20725",
+  "dam_name": "Harry S. Truman Dam",
+  "owner": "USACE - Kansas City District",
+  "owner_type": "Federal",
+  "designer": "CENWK",
+  "year_completed": 1979,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Fish and Wildlife Pond;Recreation;Hydroelectric",
+  "river": "Osage River",
+  "height_ft": 98.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MO20725/summary",
+  "distance_km": 0.28,
+  "score": 0.93,
+  "verified": false
+ }
+}

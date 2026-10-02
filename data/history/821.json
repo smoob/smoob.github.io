@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ID00051",
+  "dam_name": "Twin Falls Intake Dam",
+  "owner": "Idaho Power Company",
+  "owner_type": "Private",
+  "designer": "EBASCO",
+  "year_completed": 1935,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Snake River",
+  "height_ft": 30.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ID00051/summary",
+  "distance_km": 0.03,
+  "score": 0.993,
+  "verified": false
+ }
+}

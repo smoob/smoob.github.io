@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WA00086",
+  "dam_name": "Rocky Reach",
+  "owner": "PUD #1 of Chelan County, WA",
+  "owner_type": "Public Utility",
+  "designer": "Stone & Webster Engineering Corporation",
+  "year_completed": 1962,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Flood Risk Reduction",
+  "river": "Columbia River",
+  "height_ft": 130.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WA00086/summary",
+  "distance_km": 0.02,
+  "score": 0.994,
+  "verified": false
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q4713370",
+  "url": "http://www.wikidata.org/entity/Q4713370",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alcova%20Dam%20WY1.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": "United States Bureau of Reclamation",
+  "commons_category": "Alcova Dam"
+ },
+ "wikipedia": {
+  "title": "Alcova Dam",
+  "url": "https://en.wikipedia.org/wiki/Alcova_Dam",
+  "extract": "Alcova Dam (National ID # WY01290) is a 265-foot (81 m) tall zoned earthfill dam in central Wyoming, built in 1935-38 on the North Platte River and operated by the U.S. Bureau of Reclamation for water storage and hydroelectric power generation. The dam was built as part of the Kendrick Project, formerly the Casper-Alcova Project, whose central features are Alcova and Seminoe dams.\nAlcova Powerplant comprises two generating units, each  18 MW. The reservoir's capacity is 184,405 acre-feet (0.227460 km3), but only 30,606 acre-feet (0.037752 km3) may be used for irrigation.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/03/Alcova_Dam_WY1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ }
+}

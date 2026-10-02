@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q7231029",
+  "url": "http://www.wikidata.org/entity/Q7231029",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Port-Washington%20Franklin-south%20Jul09.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Port Washington Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Port_Washington_Generating_Station",
+  "extract": "Port Washington Generating Station is an intermediate-load, natural gas fired, electrical power station located on Lake Michigan in Port Washington, Wisconsin. The natural gas facility replaced an older coal-fired station in the early 2000s. This station has two units with the first being completed in July 2005 and produces 545 MW. The second unit was completed in May 2008 and also produces 545 MW.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Port-Washington_Franklin-south_Jul09.jpg/500px-Port-Washington_Franklin-south_Jul09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

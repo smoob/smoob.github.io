@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q19385578",
+  "url": "http://www.wikidata.org/entity/Q19385578",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Port%20Jefferson%20ferry.JPG?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Port Jefferson Power Station",
+  "url": "https://en.wikipedia.org/wiki/Port_Jefferson_Power_Station",
+  "extract": "Port Jefferson Power Station is a fossil-burning power plant in Port Jefferson, New York on Long Island.  It is operated by National Grid USA.  Its four main steam turbine units were constructed between 1948 and 1960 by the Long Island Lighting Company (LILCO), with the older two decommissioned in 1994.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Port_Jefferson_ferry.JPG/500px-Port_Jefferson_ferry.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

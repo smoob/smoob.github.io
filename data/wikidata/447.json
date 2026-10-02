@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q2016335",
+  "url": "http://www.wikidata.org/entity/Q2016335",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Parker%20Dam.jpg?width=800",
+  "inception": 1934,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Parker Dam"
+ },
+ "wikipedia": {
+  "title": "Parker Dam",
+  "url": "https://en.wikipedia.org/wiki/Parker_Dam",
+  "extract": "Parker Dam is a concrete arch-gravity dam that crosses the Colorado River 155 miles (249 km) downstream of Hoover Dam. Built between 1934 and 1938 by the Bureau of Reclamation, it is 320 feet (98 m) high, 235 feet (72 m) of which are below the riverbed (the deep excavation was necessary in order to reach the bedrock on which the foundation of the dam was built), making it the deepest dam in the world. The portion of the dam above the foundation stands 85 feet (25.9 m) tall, making it the only dam in the world that stands more underground than above ground. The dam's primary functions are to create a reservoir, and to generate hydroelectric power. The reservoir behind the dam is called Lake H",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/18/Parker_Dam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ }
+}

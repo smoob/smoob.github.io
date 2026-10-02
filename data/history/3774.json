@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "VA155002",
+  "dam_name": "Claytor",
+  "owner": "Appalachian Power Company",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1939,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Navigation;Recreation;Water Supply",
+  "river": "New",
+  "height_ft": 139.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/VA155002/summary",
+  "distance_km": 0.06,
+  "score": 0.984,
+  "verified": false
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q5241887",
+  "url": "http://www.wikidata.org/entity/Q5241887",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Davis%20Dam%202.jpg?width=800",
+  "inception": 1942,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Davis Dam"
+ },
+ "wikipedia": {
+  "title": "Davis Dam",
+  "url": "https://en.wikipedia.org/wiki/Davis_Dam",
+  "extract": "Davis Dam is a dam on the Colorado River about 70 miles (110 km) downstream from Hoover Dam. It stretches across the border between Arizona and Nevada. Originally called Bullhead Dam, Davis Dam was renamed after Arthur Powell Davis, who was the director of the U.S. Bureau of Reclamation from 1914 to 1923. The United States Bureau of Reclamation owns and operates the dam, which was completed in 1951.\nDavis Dam impounds the Colorado River and forms Lake Mohave.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Davis_Dam_2.jpg/500px-Davis_Dam_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

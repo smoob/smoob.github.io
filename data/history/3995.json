@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WI00796",
+  "dam_name": "Arpin",
+  "owner": "Flambeau Hydro, Llc",
+  "owner_type": "Public Utility",
+  "designer": "CAROL GRUB",
+  "year_completed": 1913,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fish and Wildlife Pond;Recreation",
+  "river": "Chippewa River",
+  "height_ft": 34.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WI00796/summary",
+  "distance_km": 0.03,
+  "score": 0.994,
+  "verified": false
+ }
+}

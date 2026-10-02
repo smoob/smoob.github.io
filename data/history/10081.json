@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CO02219",
+  "dam_name": "Strontia Springs",
+  "owner": "Denver Water",
+  "owner_type": "Local Government",
+  "designer": "Harza Engineering",
+  "year_completed": 1982,
+  "years_modified": null,
+  "purposes": "Water Supply;Recreation;Hydroelectric",
+  "river": "South Platte River",
+  "height_ft": 299.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CO02219/summary",
+  "distance_km": 0.01,
+  "score": 0.996,
+  "verified": false
+ }
+}

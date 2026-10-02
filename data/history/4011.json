@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WI00023",
+  "dam_name": "Saint Croix Falls",
+  "owner": "Xcel Energy",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1905,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "St. Croix River",
+  "height_ft": 64.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WI00023/summary",
+  "distance_km": 0.04,
+  "score": 0.99,
+  "verified": false
+ }
+}

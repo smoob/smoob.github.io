@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q4878734",
+  "url": "http://www.wikidata.org/entity/Q4878734",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BeckjordPowerStation.JPG?width=800",
+  "inception": 1954,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Beckjord Power Station",
+  "url": "https://en.wikipedia.org/wiki/Beckjord_Power_Station",
+  "extract": "The Walter C. Beckjord Generating Station was a 1.43-gigawatt (1,433 MW), dual-fuel power generating station located near New Richmond, Ohio, 22 miles east of Cincinnati, Ohio. The plant began operation in 1952 and was decommissioned in 2014. It was jointly owned by Duke Energy, American Electric Power (AEP), and Dayton Power & Light (DP&L).",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/BeckjordPowerStation.JPG/500px-BeckjordPowerStation.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

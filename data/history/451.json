@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA10196",
+  "dam_name": "Trinity Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": "BUREAU OF RECLAMATION",
+  "year_completed": 1962,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Irrigation;Recreation",
+  "river": "Trinity River",
+  "height_ft": 538.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA10196/summary",
+  "distance_km": 0.42,
+  "score": 0.894,
+  "verified": false
+ }
+}

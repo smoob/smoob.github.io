@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q4840247",
+  "url": "http://www.wikidata.org/entity/Q4840247",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/LakeJocassee.svg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Bad Creek Hydroelectric Station",
+  "url": "https://en.wikipedia.org/wiki/Bad_Creek_Hydroelectric_Station",
+  "extract": "The Bad Creek Hydroelectric Station is a pumped-storage hydroelectric power station located 8 miles (13 km) north of Salem in Oconee County, South Carolina. The 1,065-megawatt (1,428,000 hp) power plant is owned by Duke Energy, and its last generator was commissioned in 1991.\nThe power station generates electricity by shifting water between an upper and lower reservoir. The upper Bad Creek Reservoir was created by damming Bad Creek and West Bad Creek, while Lake Jocassee serves as the lower reservoir. During periods of low energy demand, the four 266-megawatt (357,000 hp) Francis pump turbines pump water from Lake Jocassee, at an elevation of 1,110 feet (340 m), to the Bad Creek Reservoir at",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/LakeJocassee.svg/500px-LakeJocassee.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

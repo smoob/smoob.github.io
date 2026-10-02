@@ -1,0 +1,28 @@
+[
+ {
+  "source": "Global Energy Monitor",
+  "source_key": "gem",
+  "title": "Bowline Point power station",
+  "url": "https://www.gem.wiki/Bowline_Point_power_station",
+  "thumb": null,
+  "extract": "Bowline Point power station is an operating power station of at least 1242-megawatts (MW) in West Haverstraw, Rockland, New York, United States with multiple units, some of which are not currently operating.",
+  "date": null,
+  "rights": "GEM wiki text, CC BY 4.0",
+  "rights_status": "licensed",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons",
+  "source_key": "commons",
+  "title": "Goodbye.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Goodbye.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Goodbye.jpg/500px-Goodbye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "2019-02-02",
+  "author": "JiaJia",
+  "rights": "CC BY 4.0",
+  "rights_status": "licensed",
+  "score": 1.0,
+  "verified": false
+ }
+]

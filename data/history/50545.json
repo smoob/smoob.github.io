@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MA00234",
+  "dam_name": "Great Stone",
+  "owner": "Lawrence Hydroelectric Associates",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1848,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Merrimack River",
+  "height_ft": 38.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MA00234/summary",
+  "distance_km": 0.17,
+  "score": 0.459,
+  "verified": false
+ }
+}

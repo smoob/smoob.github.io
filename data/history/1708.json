@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MI00174",
+  "dam_name": "Hodenpyl",
+  "owner": "Consumers Energy Company",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1925,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Manistee River",
+  "height_ft": 90.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MI00174/summary",
+  "distance_km": 0.02,
+  "score": 0.996,
+  "verified": false
+ }
+}

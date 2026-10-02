@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NV10123",
+  "dam_name": "Lahontan Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": "BUREAU OF RECLAMATION",
+  "year_completed": 1915,
+  "years_modified": "1985S",
+  "purposes": "Flood Risk Reduction;Irrigation;Recreation;Hydroelectric",
+  "river": "Carson River",
+  "height_ft": 162.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NV10123/summary",
+  "distance_km": 0.03,
+  "score": 0.992,
+  "verified": false
+ }
+}

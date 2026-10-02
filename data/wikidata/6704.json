@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q116696873",
+  "url": "http://www.wikidata.org/entity/Q116696873",
+  "image": null,
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "List of power stations in California",
+  "url": "https://en.wikipedia.org/wiki/List_of_power_stations_in_California",
+  "extract": "This is a list of power stations in the U.S. state of California that are used for utility-scale electricity generation. This includes baseload, peaking, and energy storage power stations, but does not include large backup generators. As of 2018, California had 80 GW of installed generation capacity encompassing more than 1,500 power plants; with 41 GW of natural gas, 26.5 GW of renewable (12 GW solar, 6 GW wind), 12 GW large hydroelectric, and 2.4 GW nuclear.\nIn 2020, California had a total summer capacity of 78,055 MW through all of its power plants, and a net energy generation of 193,075 GWh. Its electricity production was the third largest in the nation behind Texas and Florida. Californ",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/California_electricity_production_by_type.webp/500px-California_electricity_production_by_type.webp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

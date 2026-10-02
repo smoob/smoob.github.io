@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00419",
+  "dam_name": "Tiger Creek Forebay",
+  "owner": "Pacific Gas and Electric Company",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": null,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Tiger Creek",
+  "height_ft": 33.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00419/summary",
+  "distance_km": 1.36,
+  "score": 0.66,
+  "verified": false
+ }
+}

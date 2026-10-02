@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ME00141",
+  "dam_name": "Milford",
+  "owner": "Black Bear Hydro Partners, LLC",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1906,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Penobscot River",
+  "height_ft": 34.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ME00141/summary",
+  "distance_km": 0.11,
+  "score": 0.974,
+  "verified": false
+ }
+}

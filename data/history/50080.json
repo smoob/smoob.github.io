@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ME00009",
+  "dam_name": "Otis",
+  "owner": "Eagle Creek Renewable Energies, LLC Parent Org (CRO)",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1898,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Androscoggin River",
+  "height_ft": 19.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ME00009/summary",
+  "distance_km": 0.09,
+  "score": 0.978,
+  "verified": false
+ }
+}

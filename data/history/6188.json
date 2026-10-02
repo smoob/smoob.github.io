@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "AL83001",
+  "dam_name": "R. L. Harris",
+  "owner": "Alabama Power Company",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1983,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fish and Wildlife Pond;Recreation",
+  "river": "Tallapoosa River",
+  "height_ft": 163.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/AL83001/summary",
+  "distance_km": 0.0,
+  "score": 1.0,
+  "verified": false
+ }
+}

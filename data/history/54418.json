@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NH00396",
+  "dam_name": "Rollinsford",
+  "owner": "Town of Rollinsford, NH",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1910,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fire Protection, Stock, Or Small Fish Pond;Fish and Wildlife Pond;Recreation",
+  "river": "Salmon Falls River",
+  "height_ft": 20.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NH00396/summary",
+  "distance_km": 0.21,
+  "score": 0.948,
+  "verified": false
+ }
+}

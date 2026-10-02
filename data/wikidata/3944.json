@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q3436126",
+  "url": "http://www.wikidata.org/entity/Q3436126",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/HarrisonPowerStationViewFromEast.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Harrison Power Station",
+  "url": "https://en.wikipedia.org/wiki/Harrison_Power_Station",
+  "extract": "Harrison Power Station is a 1.9-gigawatt (1,984 MW) coal-fired electricity-generating power station located in Haywood, West Virginia, owned and operated by FirstEnergy. It has one of the tallest chimneys in the world 1,001 feet (305 m), built in 1994.\nIts three identical units, rated at 650 MW each at the time of completion, were launched into service in 1972, 1973, and 1974 by Allegheny Energy at a cost of $400 million to build.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Harrison_Power_Station_%28West_Virginia%29.jpg/500px-Harrison_Power_Station_%28West_Virginia%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

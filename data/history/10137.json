@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "VT00155",
+  "dam_name": "Deweys Mills",
+  "owner": "US ARMY CORPS OF ENGINEERS - NAE",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1900,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Ottauquechee River",
+  "height_ft": 25.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/VT00155/summary",
+  "distance_km": 0.09,
+  "score": 0.978,
+  "verified": false
+ }
+}

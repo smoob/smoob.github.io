@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q1739383",
+  "url": "http://www.wikidata.org/entity/Q1739383",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Corp%20of%20Eng.%206-15-11%20108.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": "Nebraska Public Power District",
+  "commons_category": "Cooper Nuclear Station"
+ },
+ "wikipedia": {
+  "title": "Cooper Nuclear Station",
+  "url": "https://en.wikipedia.org/wiki/Cooper_Nuclear_Station",
+  "extract": "Cooper Nuclear Station (CNS) is a boiling water reactor (BWR) type nuclear power plant located  on a 1,251-acre (506 ha) site near Brownville, Nebraska between Missouri River mile markers 532.9 and 532.5, on Nebraska's border with Missouri. It is the largest single-unit electrical generator in Nebraska.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Cooper_Nuclear_Station_-_June_2011_aerial.jpg/500px-Cooper_Nuclear_Station_-_June_2011_aerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

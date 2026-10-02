@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NC00394",
+  "dam_name": "Lookout Shoals",
+  "owner": "Duke Energy",
+  "owner_type": "Public Utility",
+  "designer": "SOUTHERN POWER COMPANY",
+  "year_completed": 1915,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Catawba",
+  "height_ft": 88.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NC00394/summary",
+  "distance_km": 0.2,
+  "score": 0.95,
+  "verified": false
+ }
+}

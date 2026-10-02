@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WA00753",
+  "dam_name": "Yelm Canal Dike",
+  "owner": "City of Centralia",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1930,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Nisqually River",
+  "height_ft": 35.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WA00753/summary",
+  "distance_km": 0.29,
+  "score": 0.926,
+  "verified": false
+ }
+}

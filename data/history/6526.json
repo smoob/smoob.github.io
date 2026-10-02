@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00240",
+  "dam_name": "Rainbow Falls",
+  "owner": "New York State Electric & Gas Corporation",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1926,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Ausable River",
+  "height_ft": 19.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00240/summary",
+  "distance_km": 0.2,
+  "score": 0.951,
+  "verified": false
+ }
+}

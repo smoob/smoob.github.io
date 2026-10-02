@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "GA00852",
+  "dam_name": "Stevens Creek",
+  "owner": "South Carolina Electric and Gas Company",
+  "owner_type": "Public Utility",
+  "designer": "J. G. WHITE",
+  "year_completed": 1914,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Savannah",
+  "height_ft": 48.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/GA00852/summary",
+  "distance_km": 0.3,
+  "score": 0.924,
+  "verified": false
+ }
+}

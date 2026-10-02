@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q7338507",
+  "url": "http://www.wikidata.org/entity/Q7338507",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Riverside%20Generating%20Station%202.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Riverside Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Riverside_Generating_Station",
+  "extract": "The Riverside Generating Station is a 261 MW electric generating station operated by Exelon that is located at 4000 Broening Highway in Dundalk, Maryland. The station is on Sollers Point on the Patapsco River.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Riverside_Generating_Station_2.jpg/500px-Riverside_Generating_Station_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00255",
+  "dam_name": "Rollins",
+  "owner": "Nevada Irrigation District",
+  "owner_type": "Public Utility",
+  "designer": "Ebasco Services, Inc.",
+  "year_completed": 1965,
+  "years_modified": null,
+  "purposes": "Water Supply;Irrigation;Recreation;Hydroelectric",
+  "river": "Bear River",
+  "height_ft": 228.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00255/summary",
+  "distance_km": 0.19,
+  "score": 0.953,
+  "verified": false
+ }
+}

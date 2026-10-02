@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "KY03046",
+  "dam_name": "Laurel Dam",
+  "owner": "USACE - Nashville District",
+  "owner_type": "Federal",
+  "designer": "CELRN",
+  "year_completed": 1973,
+  "years_modified": null,
+  "purposes": "Recreation;Other;Hydroelectric;Water Supply;Flood Risk Reduction",
+  "river": "Laurel",
+  "height_ft": 282.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/KY03046/summary",
+  "distance_km": 0.18,
+  "score": 0.954,
+  "verified": false
+ }
+}

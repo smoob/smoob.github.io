@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MI00547",
+  "dam_name": "Secord Dam",
+  "owner": "Gladwin County",
+  "owner_type": "Local Government",
+  "designer": "HOLLAND, ACKERMAN & HOLLAND",
+  "year_completed": 1925,
+  "years_modified": null,
+  "purposes": "Recreation",
+  "river": "Tittabawassee River",
+  "height_ft": 57.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MI00547/summary",
+  "distance_km": 0.25,
+  "score": 0.938,
+  "verified": false
+ }
+}

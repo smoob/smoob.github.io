@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "AL01416",
+  "dam_name": "H. Neely Henry",
+  "owner": "Alabama Power Company",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1966,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Coosa River",
+  "height_ft": 104.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/AL01416/summary",
+  "distance_km": 0.12,
+  "score": 0.969,
+  "verified": false
+ }
+}

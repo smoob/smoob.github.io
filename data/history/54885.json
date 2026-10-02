@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WI00852",
+  "dam_name": "Cedars Lock and Dam",
+  "owner": "USACE - Chicago District;Wisconsin DNR",
+  "owner_type": "Federal",
+  "designer": "CELRC",
+  "year_completed": 1934,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Navigation;Recreation;Hydroelectric;Water Supply",
+  "river": "Fox",
+  "height_ft": 15.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WI00852/summary",
+  "distance_km": 0.26,
+  "score": 0.434,
+  "verified": false
+ }
+}

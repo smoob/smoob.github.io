@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q119214",
+  "url": "http://www.wikidata.org/entity/Q119214",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bath%20County%20Pumped%20Storage%20Station.jpg?width=800",
+  "inception": 1977,
+  "start_year": null,
+  "operator": "Dominion Energy",
+  "commons_category": "Bath County Pumped Storage Station"
+ },
+ "wikipedia": {
+  "title": "Bath County Pumped Storage Station",
+  "url": "https://en.wikipedia.org/wiki/Bath_County_Pumped_Storage_Station",
+  "extract": "The Bath County Pumped Storage Station is a pumped storage hydroelectric power plant with a maximum generation capacity of 3,003 MW, an average of 2,772 MW, and a total storage capacity of 24,000 MWh. The station is located in the northern corner of Bath County, Virginia, on the southeast side of the Eastern Continental Divide, which forms this section of the border between Virginia and West Virginia. The station consists of two reservoirs separated by about 1,260 feet (380 m) in elevation. It was the largest pumped-storage power station in the world until 2021, when it was surpassed by the Fengning Pumped Storage Power Station.\nConstruction on the power station, with an original capacity of",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bath_County_Pumped_Storage_Station.jpg/500px-Bath_County_Pumped_Storage_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

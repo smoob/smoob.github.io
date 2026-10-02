@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "RI03902",
+  "dam_name": "Woonsocket Falls Dam",
+  "owner": "USACE - New England District",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1960,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Hydroelectric",
+  "river": "Blackstone",
+  "height_ft": 24.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/RI03902/summary",
+  "distance_km": 0.07,
+  "score": 0.481,
+  "verified": false
+ }
+}

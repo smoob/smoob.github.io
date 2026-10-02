@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q11990356",
+  "url": "http://www.wikidata.org/entity/Q11990356",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mystic%20Station%20Power%20Plant.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Mystic Generating Station"
+ },
+ "wikipedia": {
+  "title": "Mystic Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Mystic_Generating_Station",
+  "extract": "The Mystic Generating Station was a power station in the state of Massachusetts (on the border between Everett and Boston) which, for a while, had the highest nameplate capacity of any station in the state. It was capable of burning both natural gas and petroleum, but mostly burned natural gas.\nAs of 2024 the plant consisted of eight separate generating units: Mystic 8 and 9 were combined cycle natural gas units with a total of four combustion turbines and two steam turbines which could produce 1414 MW total; Mystic 7 was a natural gas or petroleum unit which produced 576 MW; and Mystic Jet was a small petroleum fueled unit which produced 8.6 MW in periods of high demand. Mystic Generating S",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Mystic_Station_Power_Plant.jpg/500px-Mystic_Station_Power_Plant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q1516276",
+  "url": "http://www.wikidata.org/entity/Q1516276",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hope%20creek%20NPP.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": "Public Service Enterprise Group",
+  "commons_category": "Hope Creek Nuclear Generating Station"
+ },
+ "wikipedia": {
+  "title": "Hope Creek Nuclear Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Hope_Creek_Nuclear_Generating_Station",
+  "extract": "Hope Creek Nuclear Generating Station is a nuclear power plant located in Lower Alloways Creek Township, Salem County, New Jersey, United States. It sits on an artificial island alongside the Salem Nuclear Power Plant. The station is owned and operated by PSEG Nuclear LLC, a subsidiary of Public Service Enterprise Group.\nIt has a single unit, a boiling water reactor (BWR) built by General Electric. Originally planned for two units, the second unit was canceled in 1981. Hope Creek has a generating capacity of 1,268 megawatts electric (MWe). The plant began operation on July 25, 1986, with an initial license to run until 2026. In 2009, PSEG applied for a 20-year license extension, which was gr",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hope_creek_NPP.jpg/500px-Hope_creek_NPP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

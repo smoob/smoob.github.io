@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q16900400",
+  "url": "http://www.wikidata.org/entity/Q16900400",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Spier%20Falls%20Dam.jpg?width=800",
+  "inception": 1900,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Spier Falls Dam"
+ },
+ "wikipedia": {
+  "title": "Spier Falls Dam",
+  "url": "https://en.wikipedia.org/wiki/Spier_Falls_Dam",
+  "extract": "The Spier Falls Dam is a hydroelectric dam on the Hudson River between the towns of Moreau and Lake Luzerne, New York.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Spier_Falls_Dam.jpg/500px-Spier_Falls_Dam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

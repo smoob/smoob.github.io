@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00754",
+  "dam_name": "Blake",
+  "owner": "Erie Boulevard Hydropower, L.P.",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1957,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Raquette River",
+  "height_ft": 80.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00754/summary",
+  "distance_km": 0.78,
+  "score": 0.806,
+  "verified": false
+ }
+}

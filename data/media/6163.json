@@ -1,0 +1,111 @@
+[
+ {
+  "source": "Global Energy Monitor",
+  "source_key": "gem",
+  "title": "Grand Coulee Dam Complex",
+  "url": "https://www.gem.wiki/Grand_Coulee_Dam_Complex",
+  "thumb": null,
+  "extract": "Grand Coulee Dam Complex is a complex of operating hydroelectric power plants in United States. The complex consists of the following projects: Grand Coulee Left hydroelectric plant Grand Coulee Right hydroelectric plant John W Keys III hydroelectric plant Nathaniel Washington hydroelectric plant",
+  "date": null,
+  "rights": "GEM wiki text, CC BY 4.0",
+  "rights_status": "licensed",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Columbia Basin Project, Grand Coulee Switchyards, Grand Coulee, Grant County, WA",
+  "url": "http://www.loc.gov/item/wa0752/",
+  "thumb": null,
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Columbia Basin Project, Grand Coulee North Dam, Grand Coulee, Grant County, WA",
+  "url": "http://www.loc.gov/item/wa0754/",
+  "thumb": null,
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Columbia Basin Project, Grand Coulee Construction Towns, Grand Coulee, Grant County, WA",
+  "url": "http://www.loc.gov/item/wa0753/",
+  "thumb": null,
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Columbia Basin Project, Grand Coulee Industrial Area, Grand Coulee, Grant County, WA",
+  "url": "http://www.loc.gov/item/wa0751/",
+  "thumb": null,
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Columbia Basin Project, Grand Coulee Dam Powerplant Complex, Grand Coulee, Grant County, WA",
+  "url": "http://www.loc.gov/item/wa0639/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/wa/wa0600/wa0639/photos/371226p_150px.jpg#h=108&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Columbia Basin Project, Grand Coulee Siphon Breaker Building, Grand Coulee, Grant County, WA",
+  "url": "http://www.loc.gov/item/wa0641/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/wa/wa0600/wa0641/photos/371256p_150px.jpg#h=106&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Columbia Basin Project, Grand Coulee Pump-Generating Plant, Grand Coulee, Grant County, WA",
+  "url": "http://www.loc.gov/item/wa0640/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/wa/wa0600/wa0640/photos/371253p_150px.jpg#h=108&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Columbia Basin Project, Grand Coulee Dam & Franklin D. Roosevelt Lake, Across Columbia River, Southeast of Town of Grand Coulee, Grand Coulee, Grant County, WA",
+  "url": "http://www.loc.gov/item/wa0638/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/wa/wa0600/wa0638/photos/371189p_150px.jpg#h=108&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ }
+]

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00242",
+  "dam_name": "Mcswain",
+  "owner": "Merced Irrigation District",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1966,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Irrigation;Recreation",
+  "river": "Merced River",
+  "height_ft": 97.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00242/summary",
+  "distance_km": 0.14,
+  "score": 0.965,
+  "verified": false
+ }
+}

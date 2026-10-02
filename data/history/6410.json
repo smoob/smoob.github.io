@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "TX00024",
+  "dam_name": "Falcon Dam",
+  "owner": "International Boundary and Water Commission;Mexico Comision Internacional de Limites y Aguas",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1953,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Irrigation;Recreation;Hydroelectric",
+  "river": "Rio Grande",
+  "height_ft": 175.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/TX00024/summary",
+  "distance_km": 0.32,
+  "score": 0.919,
+  "verified": false
+ }
+}

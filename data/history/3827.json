@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "VA121001",
+  "dam_name": "Radford",
+  "owner": "Radford City of",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1934,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Little River",
+  "height_ft": 52.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/VA121001/summary",
+  "distance_km": 0.03,
+  "score": 0.994,
+  "verified": false
+ }
+}

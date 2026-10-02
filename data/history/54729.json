@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CO02572",
+  "dam_name": "Taylor Draw",
+  "owner": "Rio Blanco Water Conservancy District",
+  "owner_type": "Local Government",
+  "designer": "Western Engineers",
+  "year_completed": 1984,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Irrigation;Fish and Wildlife Pond;Recreation;Water Supply",
+  "river": "White River",
+  "height_ft": 81.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CO02572/summary",
+  "distance_km": 0.18,
+  "score": 0.955,
+  "verified": false
+ }
+}

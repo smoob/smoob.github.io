@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ID00054",
+  "dam_name": "C J Strike",
+  "owner": "Idaho Power Company",
+  "owner_type": "Private",
+  "designer": "EBASCO",
+  "year_completed": 1952,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Irrigation;Recreation",
+  "river": "Snake River",
+  "height_ft": 115.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ID00054/summary",
+  "distance_km": 0.25,
+  "score": 0.938,
+  "verified": false
+ }
+}

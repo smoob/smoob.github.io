@@ -1,0 +1,27 @@
+[
+ {
+  "source": "Global Energy Monitor",
+  "source_key": "gem",
+  "title": "Trimble County power station",
+  "url": "https://www.gem.wiki/Trimble_County_power_station",
+  "thumb": null,
+  "extract": "Trimble County power station is an operating power station of at least 2594-megawatts (MW) in Bedford, Trimble, Kentucky, United States.",
+  "date": null,
+  "rights": "GEM wiki text, CC BY 4.0",
+  "rights_status": "licensed",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "US 421 Milton-Madison Bridge (KY-NBI No.: 112B00001N), US 421 spanning the Ohio River between Milton, KY & Madison, IN, Milton, Trimble County, KY",
+  "url": "http://www.loc.gov/item/ky0442/",
+  "thumb": null,
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ }
+]

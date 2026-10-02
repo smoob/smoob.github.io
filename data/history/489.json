@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00280",
+  "dam_name": "Dawson Lake",
+  "owner": "Turlock Irrigation District",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1896,
+  "years_modified": null,
+  "purposes": "Water Supply;Irrigation;Hydroelectric",
+  "river": "Tr Tuolumne Rv",
+  "height_ft": 22.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00280/summary",
+  "distance_km": 1.34,
+  "score": 0.665,
+  "verified": false
+ }
+}

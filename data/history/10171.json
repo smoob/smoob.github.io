@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "IA01821",
+  "dam_name": "Cedar Rapids Milldam (5 In 1)",
+  "owner": "City of Cedar Rapids",
+  "owner_type": "Local Government",
+  "designer": "HOWARD,NEEDLES,T&B",
+  "year_completed": 1978,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Cedar River",
+  "height_ft": 16.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/IA01821/summary",
+  "distance_km": 0.06,
+  "score": 0.484,
+  "verified": false
+ }
+}

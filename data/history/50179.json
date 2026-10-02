@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00889",
+  "dam_name": "Box Canyon",
+  "owner": "County of Siskiyou",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1970,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Recreation;Hydroelectric",
+  "river": "Sacramento River",
+  "height_ft": 220.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00889/summary",
+  "distance_km": 0.34,
+  "score": 0.915,
+  "verified": false
+ }
+}

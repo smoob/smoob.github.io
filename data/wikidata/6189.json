@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q7355906",
+  "url": "http://www.wikidata.org/entity/Q7355906",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rocky%20Mountain%20Hydroelectric%20Plant%20power%20station.JPG?width=800",
+  "inception": 1978,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Rocky Mountain Hydroelectric Plant",
+  "url": "https://en.wikipedia.org/wiki/Rocky_Mountain_Hydroelectric_Plant",
+  "extract": "The Rocky Mountain Hydroelectric Plant is a pumped-storage power plant located 10 miles (16 km) northwest of Rome in the U.S. state of Georgia. It is named after Rock Mountain on top of which the plant's upper reservoir is located. Construction on the plant began in 1977 and it was commissioned in 1995. After upgrades were completed in 2011, the plant has an installed capacity of 1,095 megawatts (1,468,000 hp). It is owned by both Oglethorpe Power and Georgia Power which have 75 percent and 25 percent stakes, respectively.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rocky_Mountain_Hydroelectric_Plant_power_station.JPG/500px-Rocky_Mountain_Hydroelectric_Plant_power_station.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

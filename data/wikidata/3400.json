@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q1756108",
+  "url": "http://www.wikidata.org/entity/Q1756108",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Douglas%20Dam%20-%20Tennessee%20001.jpg?width=800",
+  "inception": 1942,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Douglas Dam, Tennessee"
+ },
+ "wikipedia": {
+  "title": "Douglas Dam",
+  "url": "https://en.wikipedia.org/wiki/Douglas_Dam",
+  "extract": "Douglas Dam is a hydroelectric dam on the French Broad River in Sevier County, Tennessee, in the southeastern United States.  The dam is operated by the Tennessee Valley Authority (TVA), which built the dam in record time in the early 1940s to meet emergency energy demands at the height of World War II.  Douglas Dam is a straight reinforced concrete gravity-type dam 1705 feet (520 m) long and 202 feet (62 m) high, impounding the 28,420-acre (11,500 ha) Douglas Lake.  The dam was named for Douglas Bluff, a cliff overlooking the dam site prior to construction.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Douglas_Dam_-_Tennessee_001.jpg/500px-Douglas_Dam_-_Tennessee_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

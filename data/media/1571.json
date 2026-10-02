@@ -1,0 +1,54 @@
+[
+ {
+  "source": "Global Energy Monitor",
+  "source_key": "gem",
+  "title": "Chalk Point Generating Station",
+  "url": "https://www.gem.wiki/Chalk_Point_Generating_Station",
+  "thumb": null,
+  "extract": "Chalk Point Generating Station is an operating power station of at least 1868-megawatts (MW) in Aquasco, Prince Georges, Maryland, United States with multiple units, some of which are not currently operating.",
+  "date": null,
+  "rights": "GEM wiki text, CC BY 4.0",
+  "rights_status": "licensed",
+  "score": 0.75,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons (near site)",
+  "source_key": "commons",
+  "title": "Chalk Point Generating Station 5-19-2019.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Chalk_Point_Generating_Station_5-19-2019.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Chalk_Point_Generating_Station_5-19-2019.jpg/500px-Chalk_Point_Generating_Station_5-19-2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "2019-05-19 13:48:31",
+  "author": "J5689",
+  "rights": "CC BY-SA 4.0",
+  "rights_status": "licensed",
+  "score": 0.95,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons (near site)",
+  "source_key": "commons",
+  "title": "2018-10-17 12 45 43 View northeast along Trueman Point Road at Weaver Trail in Eagle Harbor, Prince George's County, Maryland.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:2018-10-17_12_45_43_View_northeast_along_Trueman_Point_Road_at_Weaver_Trail_in_Eagle_Harbor,_Prince_George%27s_County,_Maryland.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/2018-10-17_12_45_43_View_northeast_along_Trueman_Point_Road_at_Weaver_Trail_in_Eagle_Harbor%2C_Prince_George%27s_County%2C_Maryland.jpg/500px-2018-10-17_12_45_43_View_northeast_along_Trueman_Point_Road_at_Weaver_Trail_in_Eagle_Harbor%2C_Prince_George%27s_County%2C_Maryland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "2018-10-17 12:45:43",
+  "author": "Famartin",
+  "rights": "CC BY-SA 4.0",
+  "rights_status": "licensed",
+  "score": 0.53,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons (near site)",
+  "source_key": "commons",
+  "title": "2018-10-17 12 47 33 View southwest along Trueman Point Road at Patuxent Boulevard in Eagle Harbor, Prince George's County, Maryland.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:2018-10-17_12_47_33_View_southwest_along_Trueman_Point_Road_at_Patuxent_Boulevard_in_Eagle_Harbor,_Prince_George%27s_County,_Maryland.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2018-10-17_12_47_33_View_southwest_along_Trueman_Point_Road_at_Patuxent_Boulevard_in_Eagle_Harbor%2C_Prince_George%27s_County%2C_Maryland.jpg/500px-2018-10-17_12_47_33_View_southwest_along_Trueman_Point_Road_at_Patuxent_Boulevard_in_Eagle_Harbor%2C_Prince_George%27s_County%2C_Maryland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "2018-10-17 12:47:33",
+  "author": "Famartin",
+  "rights": "CC BY-SA 4.0",
+  "rights_status": "licensed",
+  "score": 0.526,
+  "verified": false
+ }
+]

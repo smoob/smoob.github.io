@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "TN15501",
+  "dam_name": "Douglas Dam",
+  "owner": "TVA",
+  "owner_type": "Federal",
+  "designer": "TVA",
+  "year_completed": 1943,
+  "years_modified": "1987",
+  "purposes": "Flood Risk Reduction;Navigation;Recreation;Hydroelectric;Water Supply",
+  "river": "French Broad River",
+  "height_ft": 202.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/TN15501/summary",
+  "distance_km": 0.14,
+  "score": 0.964,
+  "verified": false
+ }
+}

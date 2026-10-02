@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MI00193",
+  "dam_name": "Prickett  Intake & Powerhouse",
+  "owner": null,
+  "owner_type": "Not Listed",
+  "designer": null,
+  "year_completed": 1931,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Sturgeon River",
+  "height_ft": 69.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MI00193/summary",
+  "distance_km": 0.2,
+  "score": 0.95,
+  "verified": false
+ }
+}

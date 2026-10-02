@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NC00827",
+  "dam_name": "Roanoke Rapids",
+  "owner": "Virginia Electric and Power Company",
+  "owner_type": "Public Utility",
+  "designer": "STONE & WEBSTER",
+  "year_completed": 1955,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fish and Wildlife Pond;Recreation;Water Supply",
+  "river": "Roanoke",
+  "height_ft": 72.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NC00827/summary",
+  "distance_km": 0.33,
+  "score": 0.918,
+  "verified": false
+ }
+}

@@ -1,0 +1,39 @@
+[
+ {
+  "source": "Global Energy Monitor",
+  "source_key": "gem",
+  "title": "Kingston Fossil Plant",
+  "url": "https://www.gem.wiki/Kingston_Fossil_Plant",
+  "thumb": null,
+  "extract": "Kingston Fossil Plant is an operating power station of at least 1700-megawatts (MW) in Kingston, Roane, Tennessee, United States.",
+  "date": null,
+  "rights": "GEM wiki text, CC BY 4.0",
+  "rights_status": "licensed",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Roane County Courthouse, Public Square (119 Court Street), Kingston, Roane County, TN",
+  "url": "http://www.loc.gov/item/tn0112/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/tn/tn0100/tn0112/photos/153953p_150px.jpg#h=108&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Weaver Road Bridge, Spanning Paint Rock Creek on Weaver Road (County Road A323), Kingston, Roane County, TN",
+  "url": "http://www.loc.gov/item/tn0185/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/tn/tn0100/tn0185/photos/153985p_150px.jpg#h=121&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ }
+]

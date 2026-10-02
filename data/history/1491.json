@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ME00007",
+  "dam_name": "Gulf Island",
+  "owner": null,
+  "owner_type": "Not Listed",
+  "designer": null,
+  "year_completed": 1926,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Androscoggin River",
+  "height_ft": 99.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ME00007/summary",
+  "distance_km": 0.04,
+  "score": 0.991,
+  "verified": false
+ }
+}

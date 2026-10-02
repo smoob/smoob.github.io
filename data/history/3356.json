@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "SD01095",
+  "dam_name": "Oahe Dam",
+  "owner": "USACE - Omaha District",
+  "owner_type": "Federal",
+  "designer": "CENWO",
+  "year_completed": 1966,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Irrigation;Navigation;Recreation;Hydroelectric",
+  "river": "Missouri River",
+  "height_ft": 245.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/SD01095/summary",
+  "distance_km": 1.15,
+  "score": 0.712,
+  "verified": false
+ }
+}

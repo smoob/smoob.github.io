@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "AL01427",
+  "dam_name": "John Hollis Bankhead Lock and Dam",
+  "owner": "USACE - Mobile District",
+  "owner_type": "Federal",
+  "designer": "Alabama Power Co.;CESAM",
+  "year_completed": 1975,
+  "years_modified": "1969S;1975O",
+  "purposes": "Navigation;Recreation;Hydroelectric",
+  "river": "Black Warrior River",
+  "height_ft": 111.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/AL01427/summary",
+  "distance_km": 0.05,
+  "score": 0.987,
+  "verified": false
+ }
+}

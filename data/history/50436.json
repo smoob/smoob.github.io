@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MI00502",
+  "dam_name": "Cascade",
+  "owner": "Cascade Charter Township",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1927,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Thornapple River",
+  "height_ft": 41.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MI00502/summary",
+  "distance_km": 0.01,
+  "score": 0.996,
+  "verified": false
+ }
+}

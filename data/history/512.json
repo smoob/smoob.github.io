@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CO01675",
+  "dam_name": "Blue Mesa Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1966,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Irrigation;Recreation;Hydroelectric",
+  "river": "Gunnison River",
+  "height_ft": 390.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CO01675/summary",
+  "distance_km": 0.29,
+  "score": 0.928,
+  "verified": false
+ }
+}

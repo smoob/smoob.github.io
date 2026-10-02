@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q969222",
+  "url": "http://www.wikidata.org/entity/Q969222",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Perrynuclearpowerplant.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": "FirstEnergy",
+  "commons_category": "Perry Nuclear Generating Station"
+ },
+ "wikipedia": {
+  "title": "Perry Nuclear Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Perry_Nuclear_Generating_Station",
+  "extract": "The Perry Nuclear Power Plant is located on a 1,100 acres (450 ha) site on Lake Erie, 40 miles (64 km) northeast of Cleveland in North Perry, Ohio, US. The nuclear power plant is owned and operated by Vistra Corporation.\nThe reactor is a General Electric BWR-6 boiling water reactor design, with a Mark III containment design. The original core power level of 3,579 megawatts thermal was increased to 3,758 megawatts thermal in 2000, making Perry one of the largest BWRs in the United States.\nPerry was expected to close in 2021 as it is no longer profitable to run when competing against natural gas plants. To avert this, Ohio House Bill 6 was signed into law in July 2019 which added a fee to resi",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Perry_Nuclear_Plant_%282%29%2C_July_2020.jpg/500px-Perry_Nuclear_Plant_%282%29%2C_July_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

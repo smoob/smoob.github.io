@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q5503341",
+  "url": "http://www.wikidata.org/entity/Q5503341",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Friant%20Dam.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Friant Dam"
+ },
+ "wikipedia": {
+  "title": "Friant Dam",
+  "url": "https://en.wikipedia.org/wiki/Friant_Dam",
+  "extract": "Friant Dam is a concrete gravity dam on the San Joaquin River in central California in the United States, on the boundary of Fresno and Madera Counties. It was built between 1937 and 1942 as part of a U.S. Bureau of Reclamation (USBR) water project to provide irrigation water to the southern San Joaquin Valley. The dam impounds Millerton Lake, a 4,900-acre (2,000 ha) reservoir about 15 miles (24 km) north of Fresno.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Friant_Dam.jpg/500px-Friant_Dam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

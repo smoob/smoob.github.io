@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NC00100",
+  "dam_name": "Lake Lure Dam",
+  "owner": "Town of Lake Lure",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1927,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Rocky Broad River",
+  "height_ft": 124.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NC00100/summary",
+  "distance_km": 0.01,
+  "score": 0.997,
+  "verified": false
+ }
+}

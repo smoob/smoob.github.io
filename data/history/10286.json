@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00394",
+  "dam_name": "Beebe Dam",
+  "owner": "Cornell University",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1897,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fire Protection, Stock, Or Small Fish Pond;Recreation;Water Supply",
+  "river": "Fall Creek",
+  "height_ft": 28.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00394/summary",
+  "distance_km": 0.43,
+  "score": 0.393,
+  "verified": false
+ }
+}

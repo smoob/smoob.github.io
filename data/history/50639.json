@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MN00598",
+  "dam_name": "Cloquet",
+  "owner": "Sappi Cloquet LLC",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1899,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Water Supply",
+  "river": "St Louis River",
+  "height_ft": 47.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MN00598/summary",
+  "distance_km": 0.29,
+  "score": 0.927,
+  "verified": false
+ }
+}

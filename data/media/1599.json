@@ -1,0 +1,111 @@
+[
+ {
+  "source": "Global Energy Monitor",
+  "source_key": "gem",
+  "title": "Canal power station",
+  "url": "https://www.gem.wiki/Canal_power_station",
+  "thumb": null,
+  "extract": "Canal power station is an operating power station of at least 1442-megawatts (MW) in Sandwich, Barnstable, Massachusetts, United States.",
+  "date": null,
+  "rights": "GEM wiki text, CC BY 4.0",
+  "rights_status": "licensed",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Western Canal, Pawtucket & Merrimack Canals vicinity, Lowell, Middlesex County, MA",
+  "url": "http://www.loc.gov/item/ma1039/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ma/ma1000/ma1039/photos/080512p_150px.jpg#h=97&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Western Canal, Tremont Gatehouse, Western & Lawrence Canals, Lowell, Middlesex County, MA",
+  "url": "http://www.loc.gov/item/ma1182/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ma/ma1100/ma1182/photos/080520p_150px.jpg#h=150&w=96",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Middlesex Canal, Canal Office, Middlesex Village, Lowell, Middlesex County, MA",
+  "url": "http://www.loc.gov/item/ma1128/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ma/ma1100/ma1128/photos/081405p_150px.jpg#h=108&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Western Canal, Guard Gates, Western & Northern Canals, Lowell, Middlesex County, MA",
+  "url": "http://www.loc.gov/item/ma1183/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ma/ma1100/ma1183/photos/080524p_150px.jpg#h=120&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Lawrence Canal, Lawrence Dam, Lawrence & Merrimack Canals, Lowell, Middlesex County, MA",
+  "url": "http://www.loc.gov/item/ma1038/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ma/ma1000/ma1038/photos/080528p_150px.jpg#h=95&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Middlesex Canal, North Billerica, Middlesex County, MA",
+  "url": "http://www.loc.gov/item/ma0434/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ma/ma0400/ma0434/photos/081383p_150px.jpg#h=110&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Eastern Canal, Boott Penstock, Between Eastern & Merrimack Canals, Lowell, Middlesex County, MA",
+  "url": "http://www.loc.gov/item/ma1185/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ma/ma1100/ma1185/photos/080539p_150px.jpg#h=98&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Pawtucket Canal, Swamp Locks, Pawtucket & Merrimack Canals, Lowell, Middlesex County, MA",
+  "url": "http://www.loc.gov/item/ma0549/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ma/ma0500/ma0549/photos/080815p_150px.jpg#h=150&w=97",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ }
+]

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "VT00047",
+  "dam_name": "Weybridge West",
+  "owner": "Green Mountain Power Corporation",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1951,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Otter Creek",
+  "height_ft": 30.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/VT00047/summary",
+  "distance_km": 0.05,
+  "score": 0.986,
+  "verified": false
+ }
+}

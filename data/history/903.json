@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "IL00106",
+  "dam_name": "Rockton",
+  "owner": "South Beliot W G & E Co",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1929,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Rock River",
+  "height_ft": 7.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/IL00106/summary",
+  "distance_km": 1.06,
+  "score": 0.734,
+  "verified": false
+ }
+}

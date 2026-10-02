@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WA00173",
+  "dam_name": "Upper Baker",
+  "owner": "Puget Sound Energy",
+  "owner_type": "Private",
+  "designer": "STONE & WEBSTER",
+  "year_completed": 1959,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fish and Wildlife Pond;Recreation",
+  "river": "Baker River",
+  "height_ft": 312.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WA00173/summary",
+  "distance_km": 0.05,
+  "score": 0.989,
+  "verified": false
+ }
+}

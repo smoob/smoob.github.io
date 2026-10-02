@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CT00204",
+  "dam_name": "Taftville Hydro Dam #4",
+  "owner": "FirstLight Power Resources",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1867,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Shetucket River",
+  "height_ft": 41.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CT00204/summary",
+  "distance_km": 0.01,
+  "score": 0.997,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00284",
+  "dam_name": "Stuyvesant Falls",
+  "owner": "Town of Stuyvesant, NY",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1900,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Kinderhook Creek",
+  "height_ft": 13.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00284/summary",
+  "distance_km": 0.89,
+  "score": 0.777,
+  "verified": false
+ }
+}

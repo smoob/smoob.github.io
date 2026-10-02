@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NC03908",
+  "dam_name": "Avalon - Canal Embankment",
+  "owner": null,
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1900,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Mayo River",
+  "height_ft": 26.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NC03908/summary",
+  "distance_km": 0.39,
+  "score": 0.902,
+  "verified": false
+ }
+}

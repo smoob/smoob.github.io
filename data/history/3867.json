@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WA00021",
+  "dam_name": "Long Lake Crescent",
+  "owner": "Avista Corporation",
+  "owner_type": "Private",
+  "designer": "Washington Water Power",
+  "year_completed": 1915,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fish and Wildlife Pond;Recreation",
+  "river": "Spokane River",
+  "height_ft": 108.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WA00021/summary",
+  "distance_km": 0.2,
+  "score": 0.949,
+  "verified": false
+ }
+}

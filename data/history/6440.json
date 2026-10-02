@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "AL07702",
+  "dam_name": "Wilson Dam",
+  "owner": "TVA",
+  "owner_type": "Federal",
+  "designer": "TVA;USACE",
+  "year_completed": 1924,
+  "years_modified": "1942S;1956S;1962M;1964M;1968M;2017S",
+  "purposes": "Flood Risk Reduction;Navigation;Recreation;Hydroelectric;Water Supply",
+  "river": "Tennessee River",
+  "height_ft": 137.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/AL07702/summary",
+  "distance_km": 0.24,
+  "score": 0.94,
+  "verified": false
+ }
+}

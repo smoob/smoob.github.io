@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q5167026",
+  "url": "http://www.wikidata.org/entity/Q5167026",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cooke%20Dam%20Oscoda%20Mi.jpg?width=800",
+  "inception": 1912,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Cooke Dam"
+ },
+ "wikipedia": {
+  "title": "Cooke Dam",
+  "url": "https://en.wikipedia.org/wiki/Cooke_Dam",
+  "extract": "Cooke Dam is a hydro-electric dam on the Au Sable River in Michigan. It was listed on the National Register of Historic Places in 1996 as the Cooke Hydroelectric Plant.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Cooke_Dam_Oscoda_Mi.jpg/500px-Cooke_Dam_Oscoda_Mi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WA00170",
+  "dam_name": "Diablo",
+  "owner": "City of Seattle",
+  "owner_type": "Local Government",
+  "designer": "Lars Jorgensen",
+  "year_completed": 1929,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fish and Wildlife Pond;Recreation;Flood Risk Reduction",
+  "river": "Skagit River",
+  "height_ft": 389.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WA00170/summary",
+  "distance_km": 0.05,
+  "score": 0.987,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00296",
+  "dam_name": "Herrings",
+  "owner": "Erie Boulevard Hydropower, L.P.",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1924,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Black River",
+  "height_ft": 25.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00296/summary",
+  "distance_km": 0.09,
+  "score": 0.978,
+  "verified": false
+ }
+}

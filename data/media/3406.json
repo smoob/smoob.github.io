@@ -1,0 +1,41 @@
+[
+ {
+  "source": "Global Energy Monitor",
+  "source_key": "gem",
+  "title": "Johnsonville Fossil Plant",
+  "url": "https://www.gem.wiki/Johnsonville_Fossil_Plant",
+  "thumb": null,
+  "extract": "Johnsonville Fossil Plant is an operating power station of at least 1020-megawatts (MW) in New Johnsonville, Humphreys, Tennessee, United States with multiple units, some of which are not currently operating. It is also known as Johnsonville Combustion Turbine Plant.",
+  "date": null,
+  "rights": "GEM wiki text, CC BY 4.0",
+  "rights_status": "licensed",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons (near site)",
+  "source_key": "commons",
+  "title": "Johnsonville, TN 1939.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Johnsonville,_TN_1939.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Johnsonville%2C_TN_1939.jpg/500px-Johnsonville%2C_TN_1939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "1939-12-03 14:30:00",
+  "author": "105th Observation Squadron",
+  "rights": "Public domain",
+  "rights_status": "public-domain",
+  "score": 0.895,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons (near site)",
+  "source_key": "commons",
+  "title": "M 3608757 sw 16 060 20211127.tif",
+  "url": "https://commons.wikimedia.org/wiki/File:M_3608757_sw_16_060_20211127.tif",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/M_3608757_sw_16_060_20211127.tif/lossless-page1-500px-M_3608757_sw_16_060_20211127.tif.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "Published on\u00a025 October 2022",
+  "author": "NOAA Office for Coastal Management / The USDA-FSA Aerial Photography Field office (crediting while reuse is desired as Courtesy Attribution)",
+  "rights": "Public domain",
+  "rights_status": "public-domain",
+  "score": 0.527,
+  "verified": false
+ }
+]

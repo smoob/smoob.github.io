@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CO01658",
+  "dam_name": "Green Mountain Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": "BUREAU OF RECLAMATION",
+  "year_completed": 1943,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Irrigation;Recreation",
+  "river": "Blue River",
+  "height_ft": 309.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CO01658/summary",
+  "distance_km": 0.26,
+  "score": 0.936,
+  "verified": false
+ }
+}

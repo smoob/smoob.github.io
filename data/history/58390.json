@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NC00173",
+  "dam_name": "B. Everett Jordan Dam",
+  "owner": "USACE - Wilmington District",
+  "owner_type": "Federal",
+  "designer": "CE",
+  "year_completed": 1974,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Other;Fish and Wildlife Pond;Recreation;Hydroelectric;Water Supply",
+  "river": "Haw River",
+  "height_ft": 114.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NC00173/summary",
+  "distance_km": 0.12,
+  "score": 0.97,
+  "verified": false
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q4931425",
+  "url": "http://www.wikidata.org/entity/Q4931425",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Boardman%20Oregon%20coal%20plant%20at%20Carty%20Reservoir.jpg?width=800",
+  "inception": 1980,
+  "start_year": null,
+  "operator": "Portland General Electric",
+  "commons_category": "Boardman Coal Plant"
+ },
+ "wikipedia": {
+  "title": "Boardman Coal Plant",
+  "url": "https://en.wikipedia.org/wiki/Boardman_Coal_Plant",
+  "extract": "The Boardman Coal Plant was a coal-fired power plant located in Boardman, Oregon. The facility had a nameplate capacity of 550 megawatts (MWs) and is owned by Portland General Electric. In 2010, the plant was the only remaining coal powered plant in Oregon and received much attention from regional media due to its being the largest single source of greenhouse gas emissions in the state with environmental groups such as the Sierra Club calling for its closing.\nIn 2014, PGE built a new $500 million, 450 MW combined cycle natural gas power plant, named Carty Generating Station, next to the coal plant.\nIn October 2020, Portland General Electric announced that the coal plant has been permanently ",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Boardman_Oregon_coal_plant_at_Carty_Reservoir.jpg/500px-Boardman_Oregon_coal_plant_at_Carty_Reservoir.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

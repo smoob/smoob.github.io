@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q6108043",
+  "url": "http://www.wikidata.org/entity/Q6108043",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JEA%20Northside%2001.JPG?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "JEA Northside Generating Station",
+  "url": "https://en.wikipedia.org/wiki/JEA_Northside_Generating_Station",
+  "extract": "JEA Northside Generating Station in Jacksonville, Florida is a major power plant, one of the three power plants owned and operated by JEA, Jacksonville's municipal utilities service. It produces electricity by burning coal and petroleum coke at Units 1 and 2, formerly the largest circulating fluidized-bed combustors, (CFBs), in the world. These combustors, completed in 2002 and rated at 297.5 megawatts each, produce enough electricity to light more than 250,000 households. In addition, Unit ST3 produces 505 megawatts of electricity by burning residual fuel oil and/or natural gas.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/JEA_Northside_Generating_Station.jpg/500px-JEA_Northside_Generating_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

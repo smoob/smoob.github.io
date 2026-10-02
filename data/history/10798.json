@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "VA077002",
+  "dam_name": "Fries, Canal Embankment",
+  "owner": "Aquenergy Systems, LLC",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1902,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Navigation",
+  "river": "New River",
+  "height_ft": 33.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/VA077002/summary",
+  "distance_km": 0.1,
+  "score": 0.974,
+  "verified": false
+ }
+}

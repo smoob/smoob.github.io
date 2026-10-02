@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q19867544",
+  "url": "http://www.wikidata.org/entity/Q19867544",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Block%20Island%20offshore%20wind%20farm%20P6290638m.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Block Island Wind Farm"
+ },
+ "wikipedia": {
+  "title": "Block Island Wind Farm",
+  "url": "https://en.wikipedia.org/wiki/Block_Island_Wind_Farm",
+  "extract": "Block Island Wind Farm is the first commercial offshore wind farm in the United States, located 3.8 mi (6.1 km) from Block Island, Rhode Island in the Atlantic Ocean. The five-turbine, 30 MW project was developed by Deepwater Wind, now known as \u00d8rsted US Offshore Wind.\nConstruction began in 2015, and in late summer 2016, five Alstom Haliade 150-6MW turbines were erected. Operations were launched in December 2016. It is the largest project using wind power in Rhode Island.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Block_Island_offshore_wind_farm_P6290638m.jpg/500px-Block_Island_offshore_wind_farm_P6290638m.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

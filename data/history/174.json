@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "AR00535",
+  "dam_name": "Remmel",
+  "owner": "Entergy Arkansas, Inc.",
+  "owner_type": "Public Utility",
+  "designer": "AMBURSEN COMPANY",
+  "year_completed": 1925,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Other;Fish and Wildlife Pond;Recreation",
+  "river": "Ouachita River",
+  "height_ft": 75.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/AR00535/summary",
+  "distance_km": 0.06,
+  "score": 0.985,
+  "verified": false
+ }
+}

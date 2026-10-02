@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MN00511",
+  "dam_name": "Redwood Falls",
+  "owner": "City of Redwood Falls",
+  "owner_type": "Local Government",
+  "designer": "Hydro Management Corp",
+  "year_completed": 1902,
+  "years_modified": "1957;1987",
+  "purposes": "Hydroelectric",
+  "river": "Redwood River",
+  "height_ft": 41.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MN00511/summary",
+  "distance_km": 0.41,
+  "score": 0.896,
+  "verified": false
+ }
+}

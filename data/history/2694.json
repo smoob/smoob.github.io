@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00678",
+  "dam_name": "Robert Moses - St. Lawrence",
+  "owner": "New York Power Authority",
+  "owner_type": "State",
+  "designer": "UHL, Hall & Rich (now Parsons Main)",
+  "year_completed": 1958,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Navigation",
+  "river": "St. Lawrence River",
+  "height_ft": 167.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00678/summary",
+  "distance_km": 0.2,
+  "score": 0.951,
+  "verified": false
+ }
+}

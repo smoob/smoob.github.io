@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA10246",
+  "dam_name": "New Melones Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": "US ARMY CORPS OF ENGINEERS",
+  "year_completed": 1979,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Irrigation;Recreation;Water Supply",
+  "river": "Stanislaus River",
+  "height_ft": 625.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA10246/summary",
+  "distance_km": 0.44,
+  "score": 0.89,
+  "verified": false
+ }
+}

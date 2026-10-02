@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "TN12102",
+  "dam_name": "Watts Bar Dam",
+  "owner": "TVA",
+  "owner_type": "Federal",
+  "designer": "TVA",
+  "year_completed": 1942,
+  "years_modified": "1998;2015",
+  "purposes": "Flood Risk Reduction;Navigation;Recreation;Hydroelectric",
+  "river": "Tennessee River",
+  "height_ft": 150.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/TN12102/summary",
+  "distance_km": 0.35,
+  "score": 0.913,
+  "verified": false
+ }
+}

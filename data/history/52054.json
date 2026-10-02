@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MN00512",
+  "dam_name": "Rapidan",
+  "owner": null,
+  "owner_type": "Not Listed",
+  "designer": "INDECO",
+  "year_completed": 1910,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Blue Earth",
+  "height_ft": 73.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MN00512/summary",
+  "distance_km": 0.07,
+  "score": 0.982,
+  "verified": false
+ }
+}

@@ -1,0 +1,41 @@
+[
+ {
+  "source": "Global Energy Monitor",
+  "source_key": "gem",
+  "title": "TransAlta",
+  "url": "https://www.gem.wiki/TransAlta",
+  "thumb": null,
+  "extract": "TransAlta Corporation is a Canadian power generation and wholesale energy marketing company headquartered in Calgary, Alberta. The company generates electricity through coal, natural gas, water, geothermal energy and wind, and sells it to wholesale customers in various regions of Canada, the U.S., and Australia. TransAlta is comprised by two principal operating entities: TransAlta Generation Partnership, a general partnership, and TransAlta Energy Marketing Corp. TransAlta trades on the Toronto (TSX: TA) and New York (NYSE: TAC) stock exchanges.",
+  "date": null,
+  "rights": "GEM wiki text, CC BY 4.0",
+  "rights_status": "licensed",
+  "score": 0.625,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons (near site)",
+  "source_key": "commons",
+  "title": "Centralia Power Plant, September 2020.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Centralia_Power_Plant,_September_2020.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Centralia_Power_Plant%2C_September_2020.jpg/500px-Centralia_Power_Plant%2C_September_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "2020-09-20 15:51:13",
+  "author": "Steven Baltakatei Sandoval",
+  "rights": "CC BY-SA 4.0",
+  "rights_status": "licensed",
+  "score": 0.757,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons (near site)",
+  "source_key": "commons",
+  "title": "Centralia Washington - Big Hanaford Power Station.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Centralia_Washington_-_Big_Hanaford_Power_Station.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Centralia_Washington_-_Big_Hanaford_Power_Station.jpg/500px-Centralia_Washington_-_Big_Hanaford_Power_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "2013-07-15 14:04:16",
+  "author": "Hatchetman86",
+  "rights": "CC0",
+  "rights_status": "licensed",
+  "score": 0.732,
+  "verified": false
+ }
+]

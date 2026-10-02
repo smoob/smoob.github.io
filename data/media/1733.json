@@ -1,0 +1,111 @@
+[
+ {
+  "source": "Global Energy Monitor",
+  "source_key": "gem",
+  "title": "Monroe Power Plant",
+  "url": "https://www.gem.wiki/Monroe_Power_Plant",
+  "thumb": null,
+  "extract": "Monroe Power Plant is an operating power station of at least 3279-megawatts (MW) in Monroe, Michigan, United States.",
+  "date": null,
+  "rights": "GEM wiki text, CC BY 4.0",
+  "rights_status": "licensed",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Detroit Arsenal, Michigan Avenue & Monroe Boulevard, Dearborn, MI",
+  "url": "http://www.loc.gov/item/mi0059/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0000/mi0059/sheet/00000_150px.jpg#h=122&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Monroe Street Bridge, Spanning River Raisin at Monroe Street, Monroe, Monroe County, MI",
+  "url": "http://www.loc.gov/item/mi0253/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0200/mi0253/photos/089505p_150px.jpg#h=120&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Rudolph Nims House, 206 West Noble Street, Monroe, Monroe County, MI",
+  "url": "http://www.loc.gov/item/mi0051/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0000/mi0051/photos/089503p_150px.jpg#h=108&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Governor Robert B. McClelland House, 47 East Elm Street, Monroe, Monroe County, MI",
+  "url": "http://www.loc.gov/item/mi0050/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0000/mi0050/photos/089501p_150px.jpg#h=107&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "58 Monroe Avenue (Commercial Building), Detroit, Wayne County, MI",
+  "url": "http://www.loc.gov/item/mi0237/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0200/mi0237/photos/035072p_150px.jpg#h=150&w=121",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "62 Monroe Avenue (Commercial Building), Detroit, Wayne County, MI",
+  "url": "http://www.loc.gov/item/mi0238/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0200/mi0238/photos/035076p_150px.jpg#h=150&w=120",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "16-30 Monroe Avenue (Commercial Building), Detroit, Wayne County, MI",
+  "url": "http://www.loc.gov/item/mi0233/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0200/mi0233/photos/035055p_150px.jpg#h=121&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Detroit Arsenal, Sutler's Shop, Garrison Avenue & Monroe Boulevard, Dearborn, MI",
+  "url": "http://www.loc.gov/item/mi0062/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0000/mi0062/photos/089706p_150px.jpg#h=107&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ }
+]

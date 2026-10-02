@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ID83006",
+  "dam_name": "Gem State",
+  "owner": "City of Idaho Falls",
+  "owner_type": "Local Government",
+  "designer": "CH2MHILL",
+  "year_completed": 1988,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Irrigation",
+  "river": "Snake River",
+  "height_ft": 40.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ID83006/summary",
+  "distance_km": 0.19,
+  "score": 0.953,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MT00568",
+  "dam_name": "Canyon Ferry Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1954,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Irrigation;Fish and Wildlife Pond;Recreation;Hydroelectric",
+  "river": "Missouri River",
+  "height_ft": 225.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MT00568/summary",
+  "distance_km": 0.05,
+  "score": 0.987,
+  "verified": false
+ }
+}

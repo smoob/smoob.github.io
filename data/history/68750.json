@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "IL00004",
+  "dam_name": "Starved Rock Lock and Dam",
+  "owner": "USACE - Rock Island District",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1933,
+  "years_modified": null,
+  "purposes": "Navigation;Hydroelectric",
+  "river": "Illinois River",
+  "height_ft": 35.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/IL00004/summary",
+  "distance_km": 0.36,
+  "score": 0.41,
+  "verified": false
+ }
+}

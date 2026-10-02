@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00395",
+  "dam_name": "Pit No. 3 Diversion",
+  "owner": "Pacific Gas and Electric Company",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1925,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Pit River",
+  "height_ft": 135.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00395/summary",
+  "distance_km": 0.05,
+  "score": 0.487,
+  "verified": false
+ }
+}

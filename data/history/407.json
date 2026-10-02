@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00095",
+  "dam_name": "Upper Gorge",
+  "owner": "City of Los Angeles Department of Water and Power",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1953,
+  "years_modified": null,
+  "purposes": "Other;Hydroelectric",
+  "river": "Owens River",
+  "height_ft": 44.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00095/summary",
+  "distance_km": 0.02,
+  "score": 0.994,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WY12080",
+  "dam_name": "Lower Afton",
+  "owner": "Swift Creek Power Company",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1942,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Other",
+  "river": "Swift Creek, Salt River",
+  "height_ft": 30.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WY12080/summary",
+  "distance_km": 0.56,
+  "score": 0.36,
+  "verified": false
+ }
+}

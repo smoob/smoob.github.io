@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ME00087",
+  "dam_name": "Anson",
+  "owner": "Eagle Creek Renewable Energies, LLC Parent Org (CRO)",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1923,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fire Protection, Stock, Or Small Fish Pond;Recreation",
+  "river": "Kennebec River",
+  "height_ft": 36.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ME00087/summary",
+  "distance_km": 0.19,
+  "score": 0.953,
+  "verified": false
+ }
+}

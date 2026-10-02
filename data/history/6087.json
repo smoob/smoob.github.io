@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "GA00854",
+  "dam_name": "Wallace",
+  "owner": "Georgia Power Company",
+  "owner_type": "Public Utility",
+  "designer": "GEORGIA POWER COMPANY/SOUTHERN COMPANY SERVICES",
+  "year_completed": 1980,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation;Water Supply",
+  "river": "Oconee",
+  "height_ft": 120.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/GA00854/summary",
+  "distance_km": 0.0,
+  "score": 1.0,
+  "verified": false
+ }
+}

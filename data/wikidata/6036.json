@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q1517795",
+  "url": "http://www.wikidata.org/entity/Q1517795",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Catawba%20Nuclear%20Station-2%20%28cropped%29.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": "Duke Energy",
+  "commons_category": "Catawba Nuclear Station"
+ },
+ "wikipedia": {
+  "title": "Catawba Nuclear Station",
+  "url": "https://en.wikipedia.org/wiki/Catawba_Nuclear_Station",
+  "extract": "The Catawba Nuclear Station is a nuclear power plant located on a 391-acre (158 ha) peninsula, called \"Concord Peninsula\", that reaches out into Lake Wylie, in York, South Carolina, US. Catawba utilizes a pair of Westinghouse four-loop pressurized water reactors.\nAs a part of the Megatons to Megawatts Program Catawba was one of the plants that received and tested 4 fuel assemblies containing MOX fuel with the plutonium supplied from old weapons programs. Because concerns of nuclear proliferation are greater with fuel containing plutonium, special precautions and added security were used around the new fuel. The four test assemblies did not perform as expected and at present those plans are s",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Catawba_Nuclear_Station-2.jpg/500px-Catawba_Nuclear_Station-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MN00600",
+  "dam_name": "Little Falls",
+  "owner": "Allete, Inc.",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1914,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Mississippi River",
+  "height_ft": 30.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MN00600/summary",
+  "distance_km": 0.02,
+  "score": 0.994,
+  "verified": false
+ }
+}

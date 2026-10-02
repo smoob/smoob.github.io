@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "TN01904",
+  "dam_name": "Wilbur Dam",
+  "owner": "TVA",
+  "owner_type": "Federal",
+  "designer": "East Tn Light & Power;TVA;Watauga Power Company",
+  "year_completed": 1912,
+  "years_modified": "1950H;1950M;1950S",
+  "purposes": "Flood Risk Reduction;Recreation;Hydroelectric",
+  "river": "Watauga River",
+  "height_ft": 76.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/TN01904/summary",
+  "distance_km": 0.05,
+  "score": 0.988,
+  "verified": false
+ }
+}

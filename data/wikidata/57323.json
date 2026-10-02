@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q15277724",
+  "url": "http://www.wikidata.org/entity/Q15277724",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sierra%20SunTower%20Power%20Plant.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": "eSolar",
+  "commons_category": "Sierra SunTower"
+ },
+ "wikipedia": {
+  "title": "Sierra SunTower",
+  "url": "https://en.wikipedia.org/wiki/Sierra_SunTower",
+  "extract": "Sierra SunTower was a 5 MW commercial concentrating solar power (CSP) plant built and operated by eSolar. The plant is located in Lancaster, California. As of mid-September, 2022, the two towers that were the center of the facility are no longer standing.  However the rest of the plant is still present.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sierra_SunTower_Power_Plant.jpg/500px-Sierra_SunTower_Power_Plant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

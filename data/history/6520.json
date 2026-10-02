@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "VT00027",
+  "dam_name": "Waterbury",
+  "owner": "STATE OF VERMONT - DEC",
+  "owner_type": "State",
+  "designer": "USACE",
+  "year_completed": 1938,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Recreation;Hydroelectric",
+  "river": "Little River",
+  "height_ft": 187.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/VT00027/summary",
+  "distance_km": 0.0,
+  "score": 0.999,
+  "verified": false
+ }
+}

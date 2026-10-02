@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q61772517",
+  "url": "http://www.wikidata.org/entity/Q61772517",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/San%20Isabel%20Solar%20Project.JPG?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "San Isabel Solar Energy Center",
+  "url": "https://en.wikipedia.org/wiki/San_Isabel_Solar_Energy_Center",
+  "extract": "The San Isabel Solar Energy Center is a 30 megawatt (MWAC) photovoltaic power station in Las Animas County, Colorado located about 20 miles north of the city of Trinidad.   The electricity is being sold to Tri-State Generation and Transmission (aka Tri-State) under a 25-year power purchase agreement.  It is the second solar project,  following the Cimarron Solar Facility in year 2010, to be added to the utility cooperative's renewables portfolio.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/San_Isabel_Solar_Project.JPG/500px-San_Isabel_Solar_Project.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

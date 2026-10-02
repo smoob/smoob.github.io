@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WI00783",
+  "dam_name": "Whiting Mill Dam",
+  "owner": "Consolidated Water Power Company",
+  "owner_type": "Public Utility",
+  "designer": "ORBISON & ORBISON, APPLETON, WI",
+  "year_completed": 1925,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Water Supply",
+  "river": "Wisconsin River",
+  "height_ft": 24.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WI00783/summary",
+  "distance_km": 0.17,
+  "score": 0.958,
+  "verified": false
+ }
+}

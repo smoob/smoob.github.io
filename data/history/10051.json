@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NC00751",
+  "dam_name": "Lockville - Canal Embankment",
+  "owner": "Lockville Hydro Power Co",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1830,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Deep River",
+  "height_ft": 30.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NC00751/summary",
+  "distance_km": 0.54,
+  "score": 0.864,
+  "verified": false
+ }
+}

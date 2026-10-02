@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q85802263",
+  "url": "http://www.wikidata.org/entity/Q85802263",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/South%20Chestnut%20WF%20from%20W.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "South Chestnut Wind Project",
+  "url": "https://en.wikipedia.org/wiki/South_Chestnut_Wind_Project",
+  "extract": "The South Chestnut Wind Farm is a wind farm located in Fayette County, Pennsylvania with 23 2.0 MW Gamesa G87s that began commercial operation in 2012. The wind farm has a combined total nameplate capacity of 46 MW. The wind farm was developed by Iberdrola (now Avangrid in the US), and power produced by the wind farm is sold to Washington, D.C.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/South_Chestnut_WF_from_W.jpg/500px-South_Chestnut_WF_from_W.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

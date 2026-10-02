@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "GA06398",
+  "dam_name": "Augusta Canal Right Embankment",
+  "owner": "City of Augusta, Georgia",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1847,
+  "years_modified": null,
+  "purposes": "Water Supply;Hydroelectric",
+  "river": "Augusta Canal",
+  "height_ft": 14.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/GA06398/summary",
+  "distance_km": 0.2,
+  "score": 0.451,
+  "verified": false
+ }
+}

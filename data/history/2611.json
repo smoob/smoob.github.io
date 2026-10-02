@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00259",
+  "dam_name": "South Colton",
+  "owner": "Erie Boulevard Hydropower, L.P.",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1954,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Raquette River",
+  "height_ft": 42.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00259/summary",
+  "distance_km": 0.48,
+  "score": 0.881,
+  "verified": false
+ }
+}

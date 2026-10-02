@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CT00039",
+  "dam_name": "Rainbow Reservoir Dam",
+  "owner": "The Farmington River Power Co.",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1925,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Farmington River",
+  "height_ft": 43.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CT00039/summary",
+  "distance_km": 0.0,
+  "score": 0.999,
+  "verified": false
+ }
+}

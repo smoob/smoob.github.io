@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q7273914",
+  "url": "http://www.wikidata.org/entity/Q7273914",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/R.%20Paul%20Smith%20power%20plant%20MD1.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "R. Paul Smith Power Station",
+  "url": "https://en.wikipedia.org/wiki/R._Paul_Smith_Power_Station",
+  "extract": "The R. Paul Smith Power Station is a closed electric generating plant owned by FirstEnergy (formerly Allegheny Energy) in Williamsport, Maryland.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/R._Paul_Smith_power_plant_MD1.jpg/500px-R._Paul_Smith_power_plant_MD1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

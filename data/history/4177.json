@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WY01291",
+  "dam_name": "Glendo Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1958,
+  "years_modified": "2016S",
+  "purposes": "Flood Risk Reduction;Irrigation;Fish and Wildlife Pond;Recreation;Hydroelectric",
+  "river": "North Platte River",
+  "height_ft": 196.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WY01291/summary",
+  "distance_km": 1.16,
+  "score": 0.71,
+  "verified": false
+ }
+}

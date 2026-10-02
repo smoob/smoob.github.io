@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q108559320",
+  "url": "http://www.wikidata.org/entity/Q108559320",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Colbert%20fossil%20plant.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Colbert Combustion Turbine Plant",
+  "url": "https://en.wikipedia.org/wiki/Colbert_Combustion_Turbine_Plant",
+  "extract": "The Colbert Combustion Turbine Plant is a combustion turbine natural gas-fired power plant operated by the Tennessee Valley Authority (TVA) near Tuscumbia, Alabama. Commissioned in 1972, it is currently the oldest gas-fired power plant operated by TVA. The site was formerly home to the Colbert Fossil Plant, a coal-fired power station which operated from 1955 to 2016.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Colbert_fossil_plant.jpg/500px-Colbert_fossil_plant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

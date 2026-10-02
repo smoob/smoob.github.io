@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY14017",
+  "dam_name": "D Mill At Ticonderoga Dam",
+  "owner": "Central Rivers Power, LLC",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1981,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Other",
+  "river": "Lachute River",
+  "height_ft": 20.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY14017/summary",
+  "distance_km": 0.36,
+  "score": 0.409,
+  "verified": false
+ }
+}

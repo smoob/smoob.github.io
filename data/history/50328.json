@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MN00514",
+  "dam_name": "Lake Byllesby",
+  "owner": "Dakota And Goodhue Counties",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1911,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Cannon River",
+  "height_ft": 75.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MN00514/summary",
+  "distance_km": 0.03,
+  "score": 0.993,
+  "verified": false
+ }
+}

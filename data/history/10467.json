@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY01574",
+  "dam_name": "Mohawk Papers - West Dam",
+  "owner": "Mohawk Paper Mills",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1962,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Mohawk River",
+  "height_ft": 9.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY01574/summary",
+  "distance_km": 0.41,
+  "score": 0.397,
+  "verified": false
+ }
+}

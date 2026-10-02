@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "GA00824",
+  "dam_name": "Buford Dam",
+  "owner": "USACE - Mobile District",
+  "owner_type": "Federal",
+  "designer": "CESAM",
+  "year_completed": 1958,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Recreation;Hydroelectric",
+  "river": "Chattahoochee River",
+  "height_ft": 231.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/GA00824/summary",
+  "distance_km": 0.39,
+  "score": 0.903,
+  "verified": false
+ }
+}

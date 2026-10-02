@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "KY03032",
+  "dam_name": "Captain Anthony Meldahl Locks and Dam",
+  "owner": "USACE - Huntington District",
+  "owner_type": "Federal",
+  "designer": "CELRH",
+  "year_completed": 1965,
+  "years_modified": null,
+  "purposes": "Navigation;Recreation;Hydroelectric",
+  "river": "Ohio River",
+  "height_ft": 138.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/KY03032/summary",
+  "distance_km": 0.28,
+  "score": 0.931,
+  "verified": false
+ }
+}

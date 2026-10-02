@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "AZ10318",
+  "dam_name": "Stewart Mountain Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1930,
+  "years_modified": "1992E;1992H;1992S",
+  "purposes": "Hydroelectric;Irrigation;Water Supply",
+  "river": "Salt River",
+  "height_ft": 210.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/AZ10318/summary",
+  "distance_km": 0.05,
+  "score": 0.989,
+  "verified": false
+ }
+}

@@ -1,0 +1,28 @@
+[
+ {
+  "source": "Global Energy Monitor",
+  "source_key": "gem",
+  "title": "SunZia Wind",
+  "url": "https://www.gem.wiki/SunZia_Wind",
+  "thumb": null,
+  "extract": "SunZia Wind is a wind farm under construction in Torrance County, New Mexico, United States.",
+  "date": null,
+  "rights": "GEM wiki text, CC BY 4.0",
+  "rights_status": "licensed",
+  "score": 0.625,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons (near site)",
+  "source_key": "commons",
+  "title": "M 3410544 nw 13 060 20200620.tif",
+  "url": "https://commons.wikimedia.org/wiki/File:M_3410544_nw_13_060_20200620.tif",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/M_3410544_nw_13_060_20200620.tif/lossless-page1-500px-M_3410544_nw_13_060_20200620.tif.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "Published on\u00a025 October 2022",
+  "author": "NOAA Office for Coastal Management / The USDA-FSA Aerial Photography Field office (crediting while reuse is desired as Courtesy Attribution)",
+  "rights": "Public domain",
+  "rights_status": "public-domain",
+  "score": 0.612,
+  "verified": false
+ }
+]

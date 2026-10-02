@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "IN00451",
+  "dam_name": "Oakdale",
+  "owner": "Northern Indiana Public Service Company",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1925,
+  "years_modified": null,
+  "purposes": "Recreation;Hydroelectric",
+  "river": "Tippecanoe River",
+  "height_ft": 64.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/IN00451/summary",
+  "distance_km": 0.08,
+  "score": 0.98,
+  "verified": false
+ }
+}

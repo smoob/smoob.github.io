@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "PA00515",
+  "dam_name": "York Haven Headrace",
+  "owner": "York Haven Power Company, LLC",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1904,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation;Water Supply",
+  "river": "Susquehanna River",
+  "height_ft": 20.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/PA00515/summary",
+  "distance_km": 0.47,
+  "score": 0.883,
+  "verified": false
+ }
+}

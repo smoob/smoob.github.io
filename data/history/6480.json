@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00077",
+  "dam_name": "Drinkwater",
+  "owner": "City of Los Angeles Department of Water and Power",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1923,
+  "years_modified": null,
+  "purposes": "Other;Hydroelectric;Water Supply",
+  "river": "Offstream",
+  "height_ft": 105.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00077/summary",
+  "distance_km": 0.49,
+  "score": 0.378,
+  "verified": false
+ }
+}

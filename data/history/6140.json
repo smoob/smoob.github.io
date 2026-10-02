@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MO82201",
+  "dam_name": "Clarence Cannon Dam",
+  "owner": "USACE - St. Louis District",
+  "owner_type": "Federal",
+  "designer": "CEMVS",
+  "year_completed": 1983,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Navigation;Fish and Wildlife Pond;Recreation;Hydroelectric;Water Supply",
+  "river": "Salt River",
+  "height_ft": 188.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MO82201/summary",
+  "distance_km": 0.04,
+  "score": 0.989,
+  "verified": false
+ }
+}

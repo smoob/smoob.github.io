@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MT00223",
+  "dam_name": "Noxon Rapids",
+  "owner": "Avista Corporation",
+  "owner_type": "Private",
+  "designer": "EBASCO",
+  "year_completed": 1960,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fish and Wildlife Pond;Recreation",
+  "river": "Clark Fork River",
+  "height_ft": 260.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MT00223/summary",
+  "distance_km": 0.13,
+  "score": 0.967,
+  "verified": false
+ }
+}

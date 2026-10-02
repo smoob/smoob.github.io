@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "OR00555",
+  "dam_name": "Soda Springs",
+  "owner": "PacifiCorp",
+  "owner_type": "Private",
+  "designer": "Pioneer Service & Engineering",
+  "year_completed": 1952,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "North Umpqua River",
+  "height_ft": 127.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/OR00555/summary",
+  "distance_km": 0.65,
+  "score": 0.838,
+  "verified": false
+ }
+}

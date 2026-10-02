@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q649785",
+  "url": "http://www.wikidata.org/entity/Q649785",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohave%20Generating%20Station%201.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Mohave Generating Station"
+ },
+ "wikipedia": {
+  "title": "Mohave Power Station",
+  "url": "https://en.wikipedia.org/wiki/Mohave_Power_Station",
+  "extract": "Mohave Power Station (known also as Mohave Generating Station, or MOGS) was a 1580 megawatt electric (MWe) coal-fired power plant that was located in Laughlin, Nevada. Southern California Edison is the majority owner of the plant and was its operator. The plant entered commercial operation in 1971. A steam line that ran near the plant's control room and cafeteria ruptured on June 9, 1985, fatally scalding six and injuring ten more. In 2005, the plant was shut down and was later dismantled.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Mohave_Generating_Station_1.jpg/500px-Mohave_Generating_Station_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

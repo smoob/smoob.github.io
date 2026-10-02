@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WI00734",
+  "dam_name": "Cedar Falls",
+  "owner": "Northern States Power Co",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1910,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Red Cedar",
+  "height_ft": 63.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WI00734/summary",
+  "distance_km": 0.15,
+  "score": 0.962,
+  "verified": false
+ }
+}

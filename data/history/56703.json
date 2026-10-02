@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY01503",
+  "dam_name": "Lyons Falls - Mill 3",
+  "owner": "Northbrook Lyons Falls, LLC",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1922,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Black River",
+  "height_ft": 10.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY01503/summary",
+  "distance_km": 0.1,
+  "score": 0.976,
+  "verified": false
+ }
+}

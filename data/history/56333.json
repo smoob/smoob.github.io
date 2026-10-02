@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WV06702",
+  "dam_name": "Summersville Dam",
+  "owner": "USACE - Huntington District",
+  "owner_type": "Federal",
+  "designer": "CELRH",
+  "year_completed": 1965,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Other;Fish and Wildlife Pond;Recreation;Hydroelectric",
+  "river": "Gauley River",
+  "height_ft": 390.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WV06702/summary",
+  "distance_km": 0.35,
+  "score": 0.413,
+  "verified": false
+ }
+}

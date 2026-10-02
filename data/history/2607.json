@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00002",
+  "dam_name": "Schuylerville",
+  "owner": "Erie Boulevard Hydropower, L.P.",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1919,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Fish Creek",
+  "height_ft": 43.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00002/summary",
+  "distance_km": 0.31,
+  "score": 0.923,
+  "verified": false
+ }
+}

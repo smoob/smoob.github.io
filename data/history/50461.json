@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MI00520",
+  "dam_name": "Cheboygan",
+  "owner": "Michigan Department of Natural Resources",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1922,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Cheboygan River",
+  "height_ft": 21.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MI00520/summary",
+  "distance_km": 0.21,
+  "score": 0.948,
+  "verified": false
+ }
+}

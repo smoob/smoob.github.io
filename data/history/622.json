@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WA00238",
+  "dam_name": "Regulating Basin South Dam",
+  "owner": "City of Seattle",
+  "owner_type": "Local Government",
+  "designer": "Carey & Kramer Consulting Engineers",
+  "year_completed": 1962,
+  "years_modified": null,
+  "purposes": "Water Supply;Hydroelectric",
+  "river": "North & South Fork Tolt River",
+  "height_ft": 35.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WA00238/summary",
+  "distance_km": 0.17,
+  "score": 0.458,
+  "verified": false
+ }
+}

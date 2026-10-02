@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q5733435",
+  "url": "http://www.wikidata.org/entity/Q5733435",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Herbert%20A.%20Wagner%20plant%20MD1.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Herbert A. Wagner Generating Station"
+ },
+ "wikipedia": {
+  "title": "Herbert A. Wagner Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Herbert_A._Wagner_Generating_Station",
+  "extract": "The Herbert A. Wagner Generating Station is an electric generating station located in Anne Arundel County, Maryland, just east of Glen Burnie, and is operated by the Raven Power Holdings, LLC, a subsidiary of Talen Energy.\nTalen Energy had committed to converting the coal-fired units to alternate fuels by 2025 and completed converting H.A. Wagner's active coal-fired units to run on oil in 2024. However, in 2023, Talen announced they would retire the plant, despite grid operator PJM Interconnection finding that this \"would adversely affect the reliability of the system.\" The plant will remain open until 2029 to maintain reliability in the Baltimore area while transmission upgrades are complet",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Herbert_A._Wagner_Generating_Station_aerial.jpg/500px-Herbert_A._Wagner_Generating_Station_aerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NC00747",
+  "dam_name": "Saxapahaw",
+  "owner": "Gravity Renewables, Inc.",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1938,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Haw",
+  "height_ft": 28.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NC00747/summary",
+  "distance_km": 0.11,
+  "score": 0.471,
+  "verified": false
+ }
+}

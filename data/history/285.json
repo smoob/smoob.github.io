@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00391",
+  "dam_name": "Stanislaus Forebay West",
+  "owner": "Pacific Gas and Electric Company",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1908,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "North Fork Stanislaus River-os",
+  "height_ft": 60.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00391/summary",
+  "distance_km": 1.23,
+  "score": 0.692,
+  "verified": false
+ }
+}

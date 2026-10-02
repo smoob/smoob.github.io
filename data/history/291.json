@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00408",
+  "dam_name": "Electra Diversion",
+  "owner": "Pacific Gas and Electric Company",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": null,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "North Fork Mokelumne River",
+  "height_ft": 45.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00408/summary",
+  "distance_km": 0.06,
+  "score": 0.485,
+  "verified": false
+ }
+}

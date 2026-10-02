@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "SC83018",
+  "dam_name": "Upper Pelzer",
+  "owner": "Consolidated Hydro Southeast, LLC",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1881,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Saluda River",
+  "height_ft": 31.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/SC83018/summary",
+  "distance_km": 0.13,
+  "score": 0.968,
+  "verified": false
+ }
+}

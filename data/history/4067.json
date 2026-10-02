@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WI00758",
+  "dam_name": "Johnson Falls",
+  "owner": "Wisconsin Public Service Corporation",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1923,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Peshtigo River",
+  "height_ft": 43.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WI00758/summary",
+  "distance_km": 0.09,
+  "score": 0.977,
+  "verified": false
+ }
+}

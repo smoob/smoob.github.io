@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q1001929",
+  "url": "http://www.wikidata.org/entity/Q1001929",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BuffaloBillDam.jpg?width=800",
+  "inception": 1910,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Buffalo Bill Dam"
+ },
+ "wikipedia": {
+  "title": "Buffalo Bill Dam",
+  "url": "https://en.wikipedia.org/wiki/Buffalo_Bill_Dam",
+  "extract": "Buffalo Bill Dam is a concrete arch-gravity dam on the Shoshone River in the U.S. state of Wyoming.  Originally 325 feet (99 m), it was the tallest dam in the world when it opened in 1910; a 25-foot (7.6 m) extension was added in 1992 in one of the numerous changes and improvements to the structure and its support facilities, which include two full-time power generators and two seasonal operations added between 1920 and 1994, and a 2.8-mile (4.5 km) irrigation tunnel completed in 1939.\nThe dam is located in Shoshone Canyon, and named after the famous Wild West figure William \"Buffalo Bill\" Cody, who founded the nearby town of Cody and owned much of the land now covered by the reservoir forme",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/7b/BuffaloBillDam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ }
+}

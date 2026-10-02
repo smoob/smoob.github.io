@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q4926872",
+  "url": "http://www.wikidata.org/entity/Q4926872",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bliss.windpark.sunset.JPG?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Noble Bliss Windpark"
+ },
+ "wikipedia": {
+  "title": "Bliss Wind Farm",
+  "url": "https://en.wikipedia.org/wiki/Bliss_Wind_Farm",
+  "extract": "The Bliss Wind Farm is a 100.5 megawatt wind energy project built by Noble Environmental Power, that opened  May 18, 2008. The $210-million project is in Eagle, New York in Wyoming County, and consists of 67 General Electric 1.5 megawatt turbines.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bliss.windpark.sunset.JPG/500px-Bliss.windpark.sunset.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

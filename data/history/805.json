@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ME00005",
+  "dam_name": "Lewiston Falls",
+  "owner": "Brookfield Renewable Power LLC NYRO",
+  "owner_type": "Not Listed",
+  "designer": null,
+  "year_completed": 1865,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Water Supply",
+  "river": "Androscoggin River",
+  "height_ft": 27.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ME00005/summary",
+  "distance_km": 0.27,
+  "score": 0.432,
+  "verified": false
+ }
+}

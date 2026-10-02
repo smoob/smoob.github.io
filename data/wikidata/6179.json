@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q5439027",
+  "url": "http://www.wikidata.org/entity/Q5439027",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fayette%20power%20project.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Fayette Power Project"
+ },
+ "wikipedia": {
+  "title": "Fayette Power Project",
+  "url": "https://en.wikipedia.org/wiki/Fayette_Power_Project",
+  "extract": "The Fayette Power Project, also known as Sam Seymour Power Plant, is a coal-fired power plant located near La Grange, Texas in Fayette County, Texas.  It is owned by Austin Energy and the Lower Colorado River Authority (LCRA) and operated by LCRA.\nThree generating units comprise the Fayette Power Project:\n\nUnit 1, completed in 1979, with a generating capacity of 615 megawatts\nUnit 2, completed in 1980, with a generating capacity of 615 megawatts\nUnit 3, completed in 1988, with a generating capacity of 460 megawatts\nThe main source of fuel for the Fayette Power Project is low-sulfur coal from the Powder River Basin in Wyoming.  Cooling water is provided by the Fayette County Reservoir, a 2,40",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Fayette_power_project.jpg/500px-Fayette_power_project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

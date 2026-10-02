@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q7115136",
+  "url": "http://www.wikidata.org/entity/Q7115136",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oxbowdam.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Oxbow Dam"
+ },
+ "wikipedia": {
+  "title": "Oxbow Dam",
+  "url": "https://en.wikipedia.org/wiki/Oxbow_Dam",
+  "extract": "Oxbow Dam is a hydroelectric run-of-the-river rockfill dam in the western United States, on the Snake River in Hells Canyon (river mile 273) along the Idaho-Oregon border.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Oxbowdam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ }
+}

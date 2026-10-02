@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "TX00986",
+  "dam_name": "Wirtz Dam",
+  "owner": "LOWER COLORADO RIVER AUTHORITY",
+  "owner_type": "Local Government",
+  "designer": "FARGO ENGINEERING CO AND  LAN CHRISTENSON CO (MOD);FREESE & NICHOLS INC",
+  "year_completed": 1951,
+  "years_modified": "1997H",
+  "purposes": "Irrigation;Recreation;Hydroelectric",
+  "river": "Colorado River",
+  "height_ft": 118.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/TX00986/summary",
+  "distance_km": 0.07,
+  "score": 0.483,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MI00169",
+  "dam_name": "Foote",
+  "owner": "Consumers Energy Company",
+  "owner_type": "Public Utility",
+  "designer": "Fargo Engineering",
+  "year_completed": 1918,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Au Sable River",
+  "height_ft": 51.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MI00169/summary",
+  "distance_km": 0.01,
+  "score": 0.998,
+  "verified": false
+ }
+}

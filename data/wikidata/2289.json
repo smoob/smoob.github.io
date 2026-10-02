@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q1739400",
+  "url": "http://www.wikidata.org/entity/Q1739400",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fort%20Calhoun%20power%20plant%201.JPG?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": "Omaha Public Power District",
+  "commons_category": "Fort Calhoun Nuclear Generating Station"
+ },
+ "wikipedia": {
+  "title": "Fort Calhoun Nuclear Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Fort_Calhoun_Nuclear_Generating_Station",
+  "extract": "The Fort Calhoun Nuclear Generating Station is a shut-down nuclear power plant located on 660 acres (2.7 km2) between Fort Calhoun, and Blair, Nebraska adjacent to the Missouri River between mile markers 645.6 and 646.0. The utility has an easement for another 580 acres (2.3 km2) which is maintained in a natural state. The power plant is owned by the Omaha Public Power District of Omaha, Nebraska. When operational, the plant accounted for 25 percent of OPPD's net generation capabilities.\nThe plant's single Combustion Engineering pressurized water reactor generated 484 megawatts of electricity. This was the smallest rated capacity among all operating commercial power reactors in North America",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Fort_Calhoun_power_plant_1.JPG/500px-Fort_Calhoun_power_plant_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

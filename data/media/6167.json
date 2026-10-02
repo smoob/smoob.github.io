@@ -1,0 +1,111 @@
+[
+ {
+  "source": "Global Energy Monitor",
+  "source_key": "gem",
+  "title": "Bath County hydroelectric plant",
+  "url": "https://www.gem.wiki/Bath_County_hydroelectric_plant",
+  "thumb": null,
+  "extract": "Bath County hydroelectric plant is an operating hydroelectric power plant in Warm Springs, Bath County, Virginia, United States.",
+  "date": null,
+  "rights": "GEM wiki text, CC BY 4.0",
+  "rights_status": "licensed",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Buckhorn Manor, State Route 603, Bacova, Bath County, VA",
+  "url": "http://www.loc.gov/item/va0265/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/va/va0200/va0265/photos/165774p_150px.jpg#h=121&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Buckhorn Manor, Kitchen, State Route 603, Bacova, Bath County, VA",
+  "url": "http://www.loc.gov/item/va0266/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/va/va0200/va0266/photos/165794p_150px.jpg#h=150&w=120",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Buckhorn Manor, Springhouse, State Route 603, Bacova, Bath County, VA",
+  "url": "http://www.loc.gov/item/va0267/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/va/va0200/va0267/photos/165798p_150px.jpg#h=121&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Buckhorn Manor, Log Dwelling, State Route 603, Bacova, Bath County, VA",
+  "url": "http://www.loc.gov/item/va0268/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/va/va0200/va0268/photos/165801p_150px.jpg#h=121&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Buckhorn Manor, Log Outbuilding, State Route 603, Bacova, Bath County, VA",
+  "url": "http://www.loc.gov/item/va0269/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/va/va0200/va0269/photos/165804p_150px.jpg#h=123&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Sweet Springs Bath House, State Route 311, Sweet Springs, Monroe County, WV",
+  "url": "http://www.loc.gov/item/wv0133/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/wv/wv0100/wv0133/photos/173350p_150px.jpg#h=121&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Salt Sulphur Springs, Bath House, U.S. Route 219, Salt Sulphur Springs, Monroe County, WV",
+  "url": "http://www.loc.gov/item/wv0241/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/wv/wv0200/wv0241/photos/173345p_150px.jpg#h=150&w=120",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Chopawamsic Recreational Demonstration Area - Cabin Camp 1, Staff Bath House, Prince William Forest Park, Triangle, Prince William County, VA",
+  "url": "http://www.loc.gov/item/va2201/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/va/va2200/va2201/photos/397477p_150px.jpg#h=107&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ }
+]

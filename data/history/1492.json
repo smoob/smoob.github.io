@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ME00090",
+  "dam_name": "Indian Pond",
+  "owner": "Brookfield Renewable Power LLC NYRO",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1955,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Kennebec River",
+  "height_ft": 175.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ME00090/summary",
+  "distance_km": 0.12,
+  "score": 0.469,
+  "verified": false
+ }
+}

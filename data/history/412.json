@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA82570",
+  "dam_name": "Chicago Park Forebay",
+  "owner": "Nevada Irrigation District",
+  "owner_type": "Public Utility",
+  "designer": "Ebasco Services, Inc.",
+  "year_completed": 1966,
+  "years_modified": null,
+  "purposes": "Irrigation;Hydroelectric;Water Supply",
+  "river": "Chicago Park Conduit",
+  "height_ft": 60.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA82570/summary",
+  "distance_km": 0.85,
+  "score": 0.787,
+  "verified": false
+ }
+}

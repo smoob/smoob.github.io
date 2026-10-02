@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WI00750",
+  "dam_name": "Mosinee",
+  "owner": null,
+  "owner_type": "Not Listed",
+  "designer": null,
+  "year_completed": 1910,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Wisconsin River",
+  "height_ft": 22.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WI00750/summary",
+  "distance_km": 0.41,
+  "score": 0.899,
+  "verified": false
+ }
+}

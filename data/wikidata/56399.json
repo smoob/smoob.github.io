@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q6521509",
+  "url": "http://www.wikidata.org/entity/Q6521509",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lempster%20Wind%20Farm-3.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Lempster Mountain Wind Power Project",
+  "url": "https://en.wikipedia.org/wiki/Lempster_Mountain_Wind_Power_Project",
+  "extract": "Lempster Mountain Wind Power Project is a 24-megawatt wind farm, opened in 2008 in Lempster, New Hampshire in the northeast United States. Owned by Avangrid (formerly known as Iberdrola USA), it is the first major wind farm in the state of New Hampshire.\nLocated 5 miles from Mount Sunapee, it has 12 wind turbines, each capable of producing 2 megawatts and made by Siemens Gamesa, stretching over several connected ridgelines.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lempster_Wind_Farm-3.jpg/500px-Lempster_Wind_Farm-3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

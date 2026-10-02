@@ -1,0 +1,41 @@
+[
+ {
+  "source": "Global Energy Monitor",
+  "source_key": "gem",
+  "title": "James E. Rogers Energy Complex",
+  "url": "https://www.gem.wiki/James_E._Rogers_Energy_Complex",
+  "thumb": null,
+  "extract": "James E. Rogers Energy Complex is an operating power station of at least 1530-megawatts (MW) in Cliffside, Cleveland, North Carolina, United States with multiple units, some of which are not currently operating. It is also known as Cliffside Plant.",
+  "date": null,
+  "rights": "GEM wiki text, CC BY 4.0",
+  "rights_status": "licensed",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons (near site)",
+  "source_key": "commons",
+  "title": "M 3508150 ne 17 060 20181103.tif",
+  "url": "https://commons.wikimedia.org/wiki/File:M_3508150_ne_17_060_20181103.tif",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/M_3508150_ne_17_060_20181103.tif/lossless-page1-500px-M_3508150_ne_17_060_20181103.tif.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "Published on\u00a026 December 2019",
+  "author": "NOAA Office for Coastal Management / The USDA-FSA Aerial Photography Field office (crediting while reuse is desired as Courtesy Attribution)",
+  "rights": "Public domain",
+  "rights_status": "public-domain",
+  "score": 0.481,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons (near site)",
+  "source_key": "commons",
+  "title": "M 3508150 ne 17 060 20220602 20221207.tif",
+  "url": "https://commons.wikimedia.org/wiki/File:M_3508150_ne_17_060_20220602_20221207.tif",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/M_3508150_ne_17_060_20220602_20221207.tif/lossless-page1-500px-M_3508150_ne_17_060_20220602_20221207.tif.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "Published on\u00a020 July 2023",
+  "author": "NOAA Office for Coastal Management / The USDA-FSA Aerial Photography Field office (crediting while reuse is desired as Courtesy Attribution)",
+  "rights": "Public domain",
+  "rights_status": "public-domain",
+  "score": 0.481,
+  "verified": false
+ }
+]

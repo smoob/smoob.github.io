@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "OR00011",
+  "dam_name": "John Day Lock and Dam",
+  "owner": "USACE - Portland District",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1968,
+  "years_modified": null,
+  "purposes": "Navigation;Other;Irrigation;Recreation;Hydroelectric;Flood Risk Reduction",
+  "river": "Columbia River",
+  "height_ft": 230.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/OR00011/summary",
+  "distance_km": 0.2,
+  "score": 0.951,
+  "verified": false
+ }
+}

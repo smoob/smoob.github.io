@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q1516614",
+  "url": "http://www.wikidata.org/entity/Q1516614",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Indian%20Point.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": "Entergy",
+  "commons_category": "Indian Point Energy Center"
+ },
+ "wikipedia": {
+  "title": "Indian Point Energy Center",
+  "url": "https://en.wikipedia.org/wiki/Indian_Point_Energy_Center",
+  "extract": "Indian Point Energy Center (IPEC) is a defunct three-unit nuclear power station located in Buchanan, just south of Peekskill, in Westchester County, New York. It sits on the east bank of the Hudson River, about 36 miles (58 km) north of Midtown Manhattan. The facility permanently ceased power operations on April 30, 2021. Before its closure, the station's two operating reactors generated about 2,000 megawatts (MWe) of electrical power, about 25% of New York City's usage. The station is owned by Holtec International, and consists of three permanently deactivated reactors, Indian Point Units 1, 2, and 3. Units 2 and 3 were Westinghouse pressurized water reactors. Entergy purchased Unit 3 from ",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Indian_Point_Nuclear_Power_Plant.jpg/500px-Indian_Point_Nuclear_Power_Plant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

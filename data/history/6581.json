@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "AK00007",
+  "dam_name": "Upper Silvis",
+  "owner": "City of Ketchikan",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1968,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Beaver Falls Creek, George Inl",
+  "height_ft": 60.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/AK00007/summary",
+  "distance_km": 0.18,
+  "score": 0.956,
+  "verified": false
+ }
+}

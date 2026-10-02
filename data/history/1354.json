@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "KY00316",
+  "dam_name": "Dix River Dam",
+  "owner": "KENTUCKY UTILITIES COMPANY",
+  "owner_type": "Private",
+  "designer": "L.F.HARZA",
+  "year_completed": 1925,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fish and Wildlife Pond;Recreation",
+  "river": "Dix River",
+  "height_ft": 287.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/KY00316/summary",
+  "distance_km": 0.14,
+  "score": 0.966,
+  "verified": false
+ }
+}

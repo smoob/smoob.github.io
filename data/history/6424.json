@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WA00004",
+  "dam_name": "Chelan",
+  "owner": "PUD #1 of Chelan County, WA",
+  "owner_type": "Public Utility",
+  "designer": "Washington Water Power Company",
+  "year_completed": 1927,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Flood Risk Reduction",
+  "river": "Chelan River",
+  "height_ft": 66.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WA00004/summary",
+  "distance_km": 0.0,
+  "score": 1.0,
+  "verified": false
+ }
+}

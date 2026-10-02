@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q11964596",
+  "url": "http://www.wikidata.org/entity/Q11964596",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dallman%20plant%20close.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Dallman Power Plant",
+  "url": "https://en.wikipedia.org/wiki/Dallman_Power_Plant",
+  "extract": "The V.Y. Dallman Power Station is a coal-fired power plant located in Springfield, Illinois, at the north end of Lake Springfield. It is owned and operated by the city-owned utility City Water, Light & Power. The plant operates on pulverized coal supplied by truck from an Illinois coal mine, and takes its cooling water from Lake Springfield.\nDallman consists of four units, built in 1968, 1972, 1978, and 2009. Only the most recently built unit is still operating.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dallman_plant_close.jpg/500px-Dallman_plant_close.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "TX03849",
+  "dam_name": "Morris Sheppard Dam",
+  "owner": "BRAZOS RIVER AUTHORITY",
+  "owner_type": "Local Government",
+  "designer": "FORREST AND COTTON AND  FREESE AND NICHOLS INC;FORREST AND COTTON AND  FREESE AND NICHOLS INC",
+  "year_completed": 1941,
+  "years_modified": "1994S",
+  "purposes": "Irrigation;Recreation;Hydroelectric;Water Supply",
+  "river": "Brazos River",
+  "height_ft": 187.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/TX03849/summary",
+  "distance_km": 0.11,
+  "score": 0.972,
+  "verified": false
+ }
+}

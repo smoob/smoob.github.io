@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CO02707",
+  "dam_name": "Mcphee Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1983,
+  "years_modified": null,
+  "purposes": "Fish and Wildlife Pond;Irrigation;Recreation;Hydroelectric;Water Supply",
+  "river": "Delores River",
+  "height_ft": 295.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CO02707/summary",
+  "distance_km": 0.3,
+  "score": 0.925,
+  "verified": false
+ }
+}

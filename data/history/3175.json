@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "PA00855",
+  "dam_name": "Safe Harbor",
+  "owner": "Safe Harbor Water Power Corporation",
+  "owner_type": "Public Utility",
+  "designer": "Safe Harbor Water Power Corporation",
+  "year_completed": 1930,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation;Water Supply",
+  "river": "Susquehanna River",
+  "height_ft": 75.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/PA00855/summary",
+  "distance_km": 0.06,
+  "score": 0.986,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00170",
+  "dam_name": "Vischer Ferry",
+  "owner": "New York State Canal Corporation",
+  "owner_type": "State",
+  "designer": null,
+  "year_completed": 1913,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Navigation",
+  "river": "Mohawk River",
+  "height_ft": 30.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00170/summary",
+  "distance_km": 0.37,
+  "score": 0.906,
+  "verified": false
+ }
+}

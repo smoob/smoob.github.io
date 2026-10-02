@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "OK00136",
+  "dam_name": "Forebay",
+  "owner": "Grand River Dam Authority",
+  "owner_type": "State",
+  "designer": "BENHAM-HOLWAY COMPANY",
+  "year_completed": 1968,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Salina Creek, Neosho River",
+  "height_ft": 60.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/OK00136/summary",
+  "distance_km": 0.04,
+  "score": 0.49,
+  "verified": false
+ }
+}

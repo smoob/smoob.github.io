@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00469",
+  "dam_name": "Chasm",
+  "owner": null,
+  "owner_type": "Not Listed",
+  "designer": null,
+  "year_completed": 1913,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Salmon River",
+  "height_ft": 25.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00469/summary",
+  "distance_km": 1.01,
+  "score": 0.747,
+  "verified": false
+ }
+}

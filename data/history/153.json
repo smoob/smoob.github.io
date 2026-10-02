@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "AZ10307",
+  "dam_name": "Glen Canyon Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1963,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Other;Irrigation;Recreation",
+  "river": "Colorado River",
+  "height_ft": 710.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/AZ10307/summary",
+  "distance_km": 0.15,
+  "score": 0.964,
+  "verified": false
+ }
+}

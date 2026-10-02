@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WI00003",
+  "dam_name": "Danbury",
+  "owner": "N.W. Wisconsin Elec. Co.",
+  "owner_type": "Public Utility",
+  "designer": "HERMAN T. HAGESTAD",
+  "year_completed": 1928,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fish and Wildlife Pond;Recreation",
+  "river": "Yellow River",
+  "height_ft": 35.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WI00003/summary",
+  "distance_km": 0.4,
+  "score": 0.901,
+  "verified": false
+ }
+}

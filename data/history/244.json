@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00404",
+  "dam_name": "Hat Creek No. 2 Diversion",
+  "owner": "Pacific Gas and Electric Company",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1943,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Hat Creek",
+  "height_ft": 29.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00404/summary",
+  "distance_km": 1.19,
+  "score": 0.702,
+  "verified": false
+ }
+}

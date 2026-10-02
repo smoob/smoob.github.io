@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "TN03701",
+  "dam_name": "J. Percy Priest Dam",
+  "owner": "USACE - Nashville District",
+  "owner_type": "Federal",
+  "designer": "CELRN",
+  "year_completed": 1967,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Other;Recreation;Hydroelectric;Water Supply",
+  "river": "Stones River",
+  "height_ft": 147.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/TN03701/summary",
+  "distance_km": 0.02,
+  "score": 0.995,
+  "verified": false
+ }
+}

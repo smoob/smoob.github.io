@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q4745874",
+  "url": "http://www.wikidata.org/entity/Q4745874",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ames%20Power%20Plant%202011.jpg?width=800",
+  "inception": 1890,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Ames Hydroelectric Generating Plant"
+ },
+ "wikipedia": {
+  "title": "Ames Hydroelectric Generating Plant",
+  "url": "https://en.wikipedia.org/wiki/Ames_Hydroelectric_Generating_Plant",
+  "extract": "The Ames Hydroelectric Generating Plant, constructed in 1890 near Ophir, Colorado, was one of the first (if not the first) commercial system to produce and transmit alternating current (AC) electricity for industrial use and one of the first AC hydro-electric plants ever constructed. It became operational in 1891 and was built by Westinghouse Electric around two of their large alternators. One was set up in the valley as a generator and driven by water. It was connected by a 2.6-mile (4.2 km) transmission line to the second alternator used as a motor up at the Gold King Mine to drive the mining operation. The facility has been changed and upgraded over the years but is still in operation. It",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ames_Power_Plant_2011.jpg/500px-Ames_Power_Plant_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

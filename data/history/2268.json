@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NE00465",
+  "dam_name": "Kearney Dam",
+  "owner": "Nebraska Public Power District",
+  "owner_type": "Public Utility",
+  "designer": "LF Hazra",
+  "year_completed": 1885,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Kearney Canal Off Platte River",
+  "height_ft": 27.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NE00465/summary",
+  "distance_km": 0.21,
+  "score": 0.946,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "KY01203",
+  "dam_name": "Kentucky River Lock & Dam No. 11",
+  "owner": "Commonwealth of Kentucky",
+  "owner_type": "State",
+  "designer": null,
+  "year_completed": 1906,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Kentucky",
+  "height_ft": 35.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/KY01203/summary",
+  "distance_km": 0.04,
+  "score": 0.49,
+  "verified": false
+ }
+}

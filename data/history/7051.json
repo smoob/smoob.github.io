@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "VT00052",
+  "dam_name": "Wrightsville",
+  "owner": "STATE OF VERMONT - DEC",
+  "owner_type": "State",
+  "designer": "USACE",
+  "year_completed": 1935,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Recreation;Hydroelectric",
+  "river": "North Branch Winooski River",
+  "height_ft": 115.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/VT00052/summary",
+  "distance_km": 0.13,
+  "score": 0.967,
+  "verified": false
+ }
+}

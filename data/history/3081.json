@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "OR00014",
+  "dam_name": "Hills Creek Dam",
+  "owner": "USACE - Portland District",
+  "owner_type": "Federal",
+  "designer": "CENWP",
+  "year_completed": 1962,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Other;Irrigation;Navigation;Recreation;Hydroelectric",
+  "river": "Middle Fork Willamette River",
+  "height_ft": 341.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/OR00014/summary",
+  "distance_km": 0.22,
+  "score": 0.945,
+  "verified": false
+ }
+}

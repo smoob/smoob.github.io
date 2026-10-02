@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00118",
+  "dam_name": "Schaghticoke",
+  "owner": "Erie Boulevard Hydropower, L.P.",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1909,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Hoosic River",
+  "height_ft": 28.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00118/summary",
+  "distance_km": 1.04,
+  "score": 0.74,
+  "verified": false
+ }
+}

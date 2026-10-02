@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q12008905",
+  "url": "http://www.wikidata.org/entity/Q12008905",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valley%20Steam%20Plant%20from%20the%20southwest-%20March%202022.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Valley Generating Station"
+ },
+ "wikipedia": {
+  "title": "Valley Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Valley_Generating_Station",
+  "extract": "The Valley Generating Station is a natural gas-fired power station located in Sun Valley, Los Angeles, California.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Valley_Steam_Plant_from_the_southwest-_March_2022.jpg/500px-Valley_Steam_Plant_from_the_southwest-_March_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ID00319",
+  "dam_name": "Albeni Falls Dam",
+  "owner": "USACE - Seattle District",
+  "owner_type": "Federal",
+  "designer": "CE",
+  "year_completed": 1955,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Navigation;Recreation;Flood Risk Reduction",
+  "river": "Pend Oreille River",
+  "height_ft": 180.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ID00319/summary",
+  "distance_km": 0.11,
+  "score": 0.973,
+  "verified": false
+ }
+}

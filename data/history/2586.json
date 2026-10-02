@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00402",
+  "dam_name": "Minetto Lock & Dam 5",
+  "owner": "New York State Canal Corporation",
+  "owner_type": "State",
+  "designer": null,
+  "year_completed": 1915,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Navigation",
+  "river": "Oswego River",
+  "height_ft": 23.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00402/summary",
+  "distance_km": 0.13,
+  "score": 0.967,
+  "verified": false
+ }
+}

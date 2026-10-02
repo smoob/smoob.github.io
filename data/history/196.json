@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "AR00159",
+  "dam_name": "Norfork Dam",
+  "owner": "USACE - Little Rock District",
+  "owner_type": "Federal",
+  "designer": "CESWL",
+  "year_completed": 1944,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Fish and Wildlife Pond;Recreation;Hydroelectric;Water Supply",
+  "river": "North Fork of The White",
+  "height_ft": 248.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/AR00159/summary",
+  "distance_km": 0.17,
+  "score": 0.957,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "TX01086",
+  "dam_name": "Tom Miller Dam",
+  "owner": "CITY OF AUSTIN",
+  "owner_type": "Local Government",
+  "designer": "FREESE & NICHOLS INC;FREESE & NICHOLS INC;HATCH;NO DATA FOR ORIGINAL DESIGNER",
+  "year_completed": 1939,
+  "years_modified": "2005F;2005S;2019S",
+  "purposes": "Irrigation;Recreation;Hydroelectric;Water Supply",
+  "river": "Colorado River",
+  "height_ft": 85.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/TX01086/summary",
+  "distance_km": 0.2,
+  "score": 0.449,
+  "verified": false
+ }
+}

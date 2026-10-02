@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "VT00028",
+  "dam_name": "Highgate Falls",
+  "owner": "Village of Swanton, VT",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1918,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fire Protection, Stock, Or Small Fish Pond;Recreation",
+  "river": "Missisquoi River",
+  "height_ft": 45.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/VT00028/summary",
+  "distance_km": 0.33,
+  "score": 0.917,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "OR00008",
+  "dam_name": "Dorena Dam",
+  "owner": "USACE - Portland District",
+  "owner_type": "Federal",
+  "designer": "CENWP",
+  "year_completed": 1949,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Other;Irrigation;Navigation;Recreation;Hydroelectric",
+  "river": "Row River",
+  "height_ft": 154.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/OR00008/summary",
+  "distance_km": 0.45,
+  "score": 0.888,
+  "verified": false
+ }
+}

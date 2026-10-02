@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ID00497",
+  "dam_name": "Post Falls South Channel",
+  "owner": "Avista Corporation",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1906,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Other;Fish and Wildlife Pond;Recreation",
+  "river": "Spokane River",
+  "height_ft": 25.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ID00497/summary",
+  "distance_km": 0.14,
+  "score": 0.965,
+  "verified": false
+ }
+}

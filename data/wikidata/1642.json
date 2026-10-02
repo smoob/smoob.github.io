@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q7986565",
+  "url": "http://www.wikidata.org/entity/Q7986565",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/West%20Springfield%20Power%20Plant%2C%20West%20Springfield%20MA.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "West Springfield Generating Station"
+ },
+ "wikipedia": {
+  "title": "West Springfield Generating Station",
+  "url": "https://en.wikipedia.org/wiki/West_Springfield_Generating_Station",
+  "extract": "The West Springfield Generating Station, also known by its corporate name EP Energy Massachusetts, LLC, was a fossil-fuel-fired power plant located in West Springfield, Massachusetts. The station was a \"peaking\" facility, meaning that it primarily operates during peak electrical demand. The facility consisted of two 49-megawatt (MW) combustion turbine generators (Units 1 and 2) fueled by natural gas or ultra low-sulphur diesel fuel, one 18 MW jet turbine (Unit 10) that was fueled by kerosene, and one 107 MW simple-cycle steam boiler unit (Unit 3) burning no. 6 fuel oil, ULSD or natural gas. The station also had a small auxiliary boiler for process and building heat and an emergency back-up g",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/West_Springfield_Power_Plant%2C_West_Springfield_MA.jpg/500px-West_Springfield_Power_Plant%2C_West_Springfield_MA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

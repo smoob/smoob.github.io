@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "SC01076",
+  "dam_name": "Cooper Dev - Pinopolis Dam",
+  "owner": "South Carolina Public Service Authority",
+  "owner_type": "State",
+  "designer": "Harza Engineering Company",
+  "year_completed": 1942,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Navigation;Recreation;Hydroelectric;Water Supply",
+  "river": "Cooper",
+  "height_ft": 138.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/SC01076/summary",
+  "distance_km": 0.16,
+  "score": 0.46,
+  "verified": false
+ }
+}

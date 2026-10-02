@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ME00199",
+  "dam_name": "Medway",
+  "owner": "Black Bear Hydro Partners, LLC",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1922,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "West Branch Penobscot River",
+  "height_ft": 35.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ME00199/summary",
+  "distance_km": 0.04,
+  "score": 0.99,
+  "verified": false
+ }
+}

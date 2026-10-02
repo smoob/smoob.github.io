@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "SC01075",
+  "dam_name": "Gaston Shoals Lower",
+  "owner": "Northbrook Carolina Hydro II, LLC",
+  "owner_type": "Private",
+  "designer": "SOUTHERN POWER COMPANY",
+  "year_completed": 1908,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Broad River",
+  "height_ft": 62.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/SC01075/summary",
+  "distance_km": 0.03,
+  "score": 0.993,
+  "verified": false
+ }
+}

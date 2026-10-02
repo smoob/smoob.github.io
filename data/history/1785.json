@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MI00205",
+  "dam_name": "Way Dike F",
+  "owner": "Wisconsin Electric Power Company",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1941,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation;Flood Risk Reduction",
+  "river": "Michigamme River",
+  "height_ft": 10.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MI00205/summary",
+  "distance_km": 0.05,
+  "score": 0.988,
+  "verified": false
+ }
+}

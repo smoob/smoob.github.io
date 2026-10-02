@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q24807542",
+  "url": "http://www.wikidata.org/entity/Q24807542",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/West%20Campus%20Cogeneration%20Facility%20-%20panoramio.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "West Campus Cogeneration Facility",
+  "url": "https://en.wikipedia.org/wiki/West_Campus_Cogeneration_Facility",
+  "extract": "West Campus Cogeneration Facility is a natural gas fired, electrical power station located in Madison, Wisconsin in Dane County. The facility is owned jointly by Madison Gas and Electric and the University of Wisconsin-Madison, with Madison Gas and Electric operating and maintaining the facility. It provides electricity to Madison Gas and Electric, and steam heat and chilled-water air-conditioning to the University of Wisconsin-Madison campus.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/West_Campus_Cogeneration_Facility_-_panoramio.jpg/500px-West_Campus_Cogeneration_Facility_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q5021164",
+  "url": "http://www.wikidata.org/entity/Q5021164",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Solar%20Panels%20at%20California%20Valley%20Solar%20Ranch%201%20%288159038006%29.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": "SunPower",
+  "commons_category": "California Valley Solar Ranch"
+ },
+ "wikipedia": {
+  "title": "California Valley Solar Ranch",
+  "url": "https://en.wikipedia.org/wiki/California_Valley_Solar_Ranch",
+  "extract": "The California Valley Solar Ranch (CVSR) is a 250 megawatt (MWAC) photovoltaic power plant in the Carrizo Plain, northeast of California Valley. The project is owned by NRG Energy, and SunPower is the EPC contractor and technology provider.\nThe project constructed on 1,966 acres (796 ha) of a 4,365-acre (1,766 ha) site of former grazing land. It is utilizing high-efficiency, crystalline PV panels designed and manufactured by SunPower. The project includes up to 88,000 SunPower solar tracking devices to hold PV panels that track the sun across the sky.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Solar_Panels_at_California_Valley_Solar_Ranch_1_%288159038006%29.jpg/500px-Solar_Panels_at_California_Valley_Solar_Ranch_1_%288159038006%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

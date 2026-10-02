@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q7545237",
+  "url": "http://www.wikidata.org/entity/Q7545237",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SmithMountainDamUSGS.jpg?width=800",
+  "inception": 1959,
+  "start_year": 1960,
+  "operator": "American Electric Power",
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Smith Mountain Dam",
+  "url": "https://en.wikipedia.org/wiki/Smith_Mountain_Dam",
+  "extract": "Smith Mountain Dam is a concrete arch dam located on the Roanoke River in Virginia, creating Smith Mountain Lake. The dam was built by Appalachian Power (a division of American Electric Power) between 1960 and 1963 for the purposes of pumped-storage hydroelectricity. The dam created Smith Mountain Lake as its reservoir, where recreation and real estate have become popular.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SmithMountainDamUSGS.jpg/500px-SmithMountainDamUSGS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

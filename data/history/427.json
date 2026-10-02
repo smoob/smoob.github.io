@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00859",
+  "dam_name": "Ralston Afterbay",
+  "owner": "Placer County Water Agency",
+  "owner_type": "Local Government",
+  "designer": "McCreary-Koretsky",
+  "year_completed": 1966,
+  "years_modified": null,
+  "purposes": "Irrigation;Recreation;Hydroelectric;Water Supply",
+  "river": "Rubicon River",
+  "height_ft": 89.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00859/summary",
+  "distance_km": 1.88,
+  "score": 0.53,
+  "verified": false
+ }
+}

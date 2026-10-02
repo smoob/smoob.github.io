@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "SC01069",
+  "dam_name": "Parr Shoals Dam",
+  "owner": "South Carolina Electric and Gas Company",
+  "owner_type": "Public Utility",
+  "designer": "J.G. WHITE",
+  "year_completed": 1914,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Broad",
+  "height_ft": 55.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/SC01069/summary",
+  "distance_km": 0.32,
+  "score": 0.921,
+  "verified": false
+ }
+}

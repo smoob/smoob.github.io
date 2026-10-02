@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WV10702",
+  "dam_name": "Belleville Locks and Dam",
+  "owner": "USACE - Huntington District",
+  "owner_type": "Federal",
+  "designer": "CELRH",
+  "year_completed": 1968,
+  "years_modified": null,
+  "purposes": "Navigation;Recreation;Hydroelectric",
+  "river": "Ohio River",
+  "height_ft": 130.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WV10702/summary",
+  "distance_km": 0.35,
+  "score": 0.913,
+  "verified": false
+ }
+}

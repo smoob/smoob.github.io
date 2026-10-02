@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MA00973",
+  "dam_name": "Holyoke - Overflow No. 3",
+  "owner": "City of Holyoke Gas and Electric Department",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1860,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Holyoke Canal",
+  "height_ft": 20.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MA00973/summary",
+  "distance_km": 0.43,
+  "score": 0.392,
+  "verified": false
+ }
+}

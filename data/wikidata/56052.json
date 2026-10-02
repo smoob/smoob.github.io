@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q6826493",
+  "url": "http://www.wikidata.org/entity/Q6826493",
+  "image": null,
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Meyersdale Wind Farm",
+  "url": "https://en.wikipedia.org/wiki/Meyersdale_Wind_Farm",
+  "extract": "The Meyersdale Wind Farm is a wind farm located in Meyersdale, Somerset County, Pennsylvania with 20 NEG Micon/Vestas 1.5 MW wind turbines that began commercial operation in December 2003. The wind farm has a combined total nameplate capacity of 30 MW, enough to power about 10,000 homes. The project was constructed by NextEra Energy Resources, based in Florida.\nIn late 2015, NextEra upgraded the facility with battery energy storage having a maximum discharge capacity of 18 MW.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Wind_Farm_PA.jpg/500px-Wind_Farm_PA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

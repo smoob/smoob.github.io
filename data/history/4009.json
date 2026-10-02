@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WI00735",
+  "dam_name": "Menomonie",
+  "owner": "Northern States Power Co",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1957,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Red Cedar",
+  "height_ft": 37.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WI00735/summary",
+  "distance_km": 0.02,
+  "score": 0.995,
+  "verified": false
+ }
+}

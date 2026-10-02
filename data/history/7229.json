@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA10102",
+  "dam_name": "Black Butte Dam",
+  "owner": "USACE - Sacramento District",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1963,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Irrigation;Recreation;Hydroelectric",
+  "river": "Stony Creek",
+  "height_ft": 156.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA10102/summary",
+  "distance_km": 0.4,
+  "score": 0.9,
+  "verified": false
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q5501798",
+  "url": "http://www.wikidata.org/entity/Q5501798",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/French%20Island%20Generating%20Plant.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "French Island Generating Plant",
+  "url": "https://en.wikipedia.org/wiki/French_Island_Generating_Plant",
+  "extract": "French Island Generating Plant is a waste fired electrical power station located on French Island in La Crosse, Wisconsin. Unit 1 and 2 are boiler / steam turbine units originally constructed in the 1940s operating on coal. They were converted to burn oil  in the early 1970s. When oil became too costly, alternative fuels were used. Unit 2 was converted to burn waste wood in an Atmospheric Fluidized Bed Combustion Boiler in the early 1980s with unit 1 following in 1987.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/French_Island_incinerator.jpg/500px-French_Island_incinerator.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

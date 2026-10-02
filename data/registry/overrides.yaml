@@ -1,0 +1,10 @@
+# Hand-researched corrections, keyed by EIA plant code.
+# Applied after ingest on every run, so your research survives refreshes.
+#
+# plants:
+#   113:
+#     site_established: 1891
+#     site_established_source: NRHP nomination 79000603
+#     aliases: [Ames Power Plant, Ames Station]
+#     notes: 1905 powerhouse still in service.
+plants: {}

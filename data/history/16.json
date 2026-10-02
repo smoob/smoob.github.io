@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "AL01425",
+  "dam_name": "Martin",
+  "owner": "Alabama Power Company",
+  "owner_type": "Public Utility",
+  "designer": "DIXIE CONSTRUCTION",
+  "year_completed": 1926,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation;Water Supply;Flood Risk Reduction",
+  "river": "Tallapoosa River",
+  "height_ft": 168.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/AL01425/summary",
+  "distance_km": 0.1,
+  "score": 0.975,
+  "verified": false
+ }
+}

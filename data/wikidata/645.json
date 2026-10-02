@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q4905098",
+  "url": "http://www.wikidata.org/entity/Q4905098",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Big%20Bend%20Power%20Station.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Big Bend Power Station"
+ },
+ "wikipedia": {
+  "title": "Big Bend Power Station",
+  "url": "https://en.wikipedia.org/wiki/Big_Bend_Power_Station",
+  "extract": "Big Bend Power Station is a major coal-fired power plant, located across Tampa Bay from Tampa, Florida, United States, on nearly 1,500 acres (6 km2) in southwestern Hillsborough County, close to Apollo Beach. It is owned and operated by TECO Energy. Three similar units (each 445.5 MWe nameplate capacity) were launched in the early 1970s, followed by a newer 486-MWe unit 4 in 1985.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Big_Bend_Power_Station.jpg/500px-Big_Bend_Power_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

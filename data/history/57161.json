@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "AR01320",
+  "dam_name": "White River Lock & Dam No. 2",
+  "owner": "Independence County",
+  "owner_type": "Local Government",
+  "designer": "CORPS OF ENGINEERS",
+  "year_completed": 1905,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "White River",
+  "height_ft": 29.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/AR01320/summary",
+  "distance_km": 0.06,
+  "score": 0.985,
+  "verified": false
+ }
+}

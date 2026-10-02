@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q1516618",
+  "url": "http://www.wikidata.org/entity/Q1516618",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Columbia%20Generating%20Station%20at%20Hanford%20Washington.JPG?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": "Energy Northwest",
+  "commons_category": "Columbia Generating Station"
+ },
+ "wikipedia": {
+  "title": "Columbia Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Columbia_Generating_Station",
+  "extract": "Columbia Generating Station is a nuclear commercial energy facility located on the Hanford Site, 10 miles (16 km) north of Richland, Washington. It is owned and operated by Energy Northwest, a Washington state, not-for-profit joint operating agency. Licensed by the Nuclear Regulatory Commission in 1983, Columbia first produced electricity in May 1984, and entered commercial operation in December 1984.\nColumbia produces 1,207 megawatts net electricity.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Columbia_Generating_Station_at_Hanford_Washington.JPG/500px-Columbia_Generating_Station_at_Hanford_Washington.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

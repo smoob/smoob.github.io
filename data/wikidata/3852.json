@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q8047372",
+  "url": "http://www.wikidata.org/entity/Q8047372",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yale%20Dam%2C%20north%20side.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Yale Dam",
+  "url": "https://en.wikipedia.org/wiki/Yale_Dam",
+  "extract": "Yale Dam is a 323-foot high earth-type hydroelectric dam on the Lewis River, in the U.S. state of Washington, owned by PacifiCorp. It is located on the border between Cowlitz County and Clark County. Its reservoir is called Yale Lake. The dam's power plant capacity is 134 megawatts.\nIn January 2020, PacifiCorp, the dam owner, lowered the reservoir level 10 feet below normal operating level in order to reduce the probability of an accidental release due to an earthquake.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Yale_Dam%2C_north_side.jpg/500px-Yale_Dam%2C_north_side.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

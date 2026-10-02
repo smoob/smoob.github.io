@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00215",
+  "dam_name": "Upper Mechanicville",
+  "owner": "New York State Canal Corporation",
+  "owner_type": "State",
+  "designer": null,
+  "year_completed": 1882,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Navigation",
+  "river": "Hudson River",
+  "height_ft": 19.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00215/summary",
+  "distance_km": 0.11,
+  "score": 0.972,
+  "verified": false
+ }
+}

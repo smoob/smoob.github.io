@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "IL50458",
+  "dam_name": "Marseilles Power Canal Dam",
+  "owner": "MIDWEST HYDRO, INC.",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1911,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Marseilles Power Canal",
+  "height_ft": 15.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/IL50458/summary",
+  "distance_km": 1.13,
+  "score": 0.717,
+  "verified": false
+ }
+}

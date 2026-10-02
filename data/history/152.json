@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "AZ10309",
+  "dam_name": "Davis Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": "BUREAU OF RECLAMATION",
+  "year_completed": 1950,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Colorado River",
+  "height_ft": 200.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/AZ10309/summary",
+  "distance_km": 0.14,
+  "score": 0.965,
+  "verified": false
+ }
+}

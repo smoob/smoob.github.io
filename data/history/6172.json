@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MT00652",
+  "dam_name": "Libby Dam",
+  "owner": "USACE - Seattle District",
+  "owner_type": "Federal",
+  "designer": "CE",
+  "year_completed": 1973,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation;Flood Risk Reduction",
+  "river": "Kootenai River",
+  "height_ft": 422.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MT00652/summary",
+  "distance_km": 0.05,
+  "score": 0.986,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WI00763",
+  "dam_name": "Oconto Falls Upper",
+  "owner": null,
+  "owner_type": "Not Listed",
+  "designer": "Orbison & Orbison",
+  "year_completed": 1902,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Oconto River",
+  "height_ft": 37.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WI00763/summary",
+  "distance_km": 0.05,
+  "score": 0.987,
+  "verified": false
+ }
+}

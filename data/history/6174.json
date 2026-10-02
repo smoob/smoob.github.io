@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "OR00612",
+  "dam_name": "William L. Jess Dam",
+  "owner": "USACE - Portland District",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1976,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Other;Irrigation;Recreation;Hydroelectric",
+  "river": "Rogue River",
+  "height_ft": 345.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/OR00612/summary",
+  "distance_km": 0.27,
+  "score": 0.432,
+  "verified": false
+ }
+}

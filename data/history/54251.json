@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "OR02591",
+  "dam_name": "Opal Springs",
+  "owner": "Desschutes Valley Water District",
+  "owner_type": "Local Government",
+  "designer": "CH2M-Hill",
+  "year_completed": 1985,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Water Supply",
+  "river": "Crooked River",
+  "height_ft": 21.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/OR02591/summary",
+  "distance_km": 0.43,
+  "score": 0.893,
+  "verified": false
+ }
+}

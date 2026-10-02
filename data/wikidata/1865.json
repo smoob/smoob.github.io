@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q15995449",
+  "url": "http://www.wikidata.org/entity/Q15995449",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edison%20Sault%20hydroelectric%20power%20plant.JPG?width=800",
+  "inception": 1898,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Saint Marys Falls Hydropower Plant"
+ },
+ "wikipedia": {
+  "title": "Saint Marys Falls Hydropower Plant",
+  "url": "https://en.wikipedia.org/wiki/Saint_Marys_Falls_Hydropower_Plant",
+  "extract": "The Saint Marys Falls Hydropower Plant (also known as the Edison Sault Power Plant, Michigan Lake Superior Hydroelectric Power Plant, and the Cloverland Electric Cooperative Power House) is an 18-MW hydroelectric generating plant located in Sault Ste. Marie, Michigan (the \"Soo\").  It extracts water from the St. Marys River under the supervision of the Army Corps of Engineers, and the power is taken up and distributed by the Cloverland Electric Cooperative, a rural utility that serves the Soo area.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Edison_Sault_hydroelectric_power_plant.JPG/500px-Edison_Sault_hydroelectric_power_plant.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

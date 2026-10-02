@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "GA01705",
+  "dam_name": "Richard B. Russell Dam",
+  "owner": "USACE - Savannah District",
+  "owner_type": "Federal",
+  "designer": "CESAS",
+  "year_completed": 1986,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Other;Fish and Wildlife Pond;Recreation;Water Supply;Flood Risk Reduction",
+  "river": "Savannah River",
+  "height_ft": 195.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/GA01705/summary",
+  "distance_km": 0.09,
+  "score": 0.977,
+  "verified": false
+ }
+}

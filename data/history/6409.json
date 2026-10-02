@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WY01290",
+  "dam_name": "Alcova Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": "BUREAU OF RECLAMATION",
+  "year_completed": 1938,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Irrigation",
+  "river": "North Platte River",
+  "height_ft": 265.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WY01290/summary",
+  "distance_km": 0.21,
+  "score": 0.948,
+  "verified": false
+ }
+}

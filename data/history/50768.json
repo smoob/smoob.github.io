@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00305",
+  "dam_name": "Forestport",
+  "owner": "New York State Canal Corporation",
+  "owner_type": "State",
+  "designer": null,
+  "year_completed": 1904,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Navigation",
+  "river": "Black River",
+  "height_ft": 27.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00305/summary",
+  "distance_km": 0.83,
+  "score": 0.792,
+  "verified": false
+ }
+}

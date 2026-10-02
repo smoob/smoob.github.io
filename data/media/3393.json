@@ -1,0 +1,39 @@
+[
+ {
+  "source": "Global Energy Monitor",
+  "source_key": "gem",
+  "title": "Allen Fossil Plant",
+  "url": "https://www.gem.wiki/Allen_Fossil_Plant",
+  "thumb": null,
+  "extract": "Allen Fossil Plant is an operating power station of at least 1291-megawatts (MW) in Memphis, Shelby, Tennessee, United States with multiple units, some of which are not currently operating. It is also known as Allen Combustion Turbine peaker project (Unit 1), Allen Combined Cycle Plant, Allen Combustion Turbine Plant, Allen Aeroderivative Combustion Turbine Project (Unit 1), TH Allen power station.",
+  "date": null,
+  "rights": "GEM wiki text, CC BY 4.0",
+  "rights_status": "licensed",
+  "score": 0.75,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Allen Line Schoolteacher's House, Marietta & Jacinto Road, Tishomingo, Tishomingo County, MS",
+  "url": "http://www.loc.gov/item/ms0042/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ms/ms0000/ms0042/photos/093878p_150px.jpg#h=121&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Elkmont Historic District, Society Hill, Allen Cabin, Jakes Creek Trail, Gatlinburg, Sevier County, TN",
+  "url": "http://www.loc.gov/item/tn0355/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/tn/tn0300/tn0355/photos/388089p_150px.jpg#h=120&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ }
+]

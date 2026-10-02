@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WI00817",
+  "dam_name": "Wisconsin Rapids",
+  "owner": "Consolidated Water Power Company",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1843,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Irrigation;Recreation;Water Supply;Flood Risk Reduction",
+  "river": "Wisconsin River",
+  "height_ft": 34.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WI00817/summary",
+  "distance_km": 0.39,
+  "score": 0.903,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00497",
+  "dam_name": "Rio",
+  "owner": "Eagle Creek Hydro Power, LLC",
+  "owner_type": "Private",
+  "designer": "Chas. T. Main, Inc.",
+  "year_completed": 1927,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Mongaup River",
+  "height_ft": 101.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00497/summary",
+  "distance_km": 1.91,
+  "score": 0.523,
+  "verified": false
+ }
+}

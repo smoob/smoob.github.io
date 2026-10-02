@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NH00199",
+  "dam_name": "Jackman Reservoir Dam",
+  "owner": "CENTRAL RIVERS POWER NH LLC",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1926,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "North Branch Contoocook River",
+  "height_ft": 43.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NH00199/summary",
+  "distance_km": 0.04,
+  "score": 0.991,
+  "verified": false
+ }
+}

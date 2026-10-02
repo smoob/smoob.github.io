@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q6403998",
+  "url": "http://www.wikidata.org/entity/Q6403998",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kibby%20Mountian%20Wind%20Turbines.JPG?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Kibby Wind Power Project",
+  "url": "https://en.wikipedia.org/wiki/Kibby_Wind_Power_Project",
+  "extract": "Kibby Wind Power Project is a wind farm on Kibby Mountain in Franklin County, Maine, United States of America.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kibby_Mountian_Wind_Turbines.JPG/500px-Kibby_Mountian_Wind_Turbines.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "TN10502",
+  "dam_name": "Melton Hill Dam",
+  "owner": "TVA",
+  "owner_type": "Federal",
+  "designer": "TVA",
+  "year_completed": 1963,
+  "years_modified": "1988O",
+  "purposes": "Hydroelectric;Navigation;Recreation;Water Supply",
+  "river": "Clinch River",
+  "height_ft": 103.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/TN10502/summary",
+  "distance_km": 0.06,
+  "score": 0.986,
+  "verified": false
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q1292402",
+  "url": "http://www.wikidata.org/entity/Q1292402",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nevada%20Solar%20One.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Nevada Solar One"
+ },
+ "wikipedia": {
+  "title": "Nevada Solar One",
+  "url": "https://en.wikipedia.org/wiki/Nevada_Solar_One",
+  "extract": "Nevada Solar One is a concentrated solar power plant, with a nominal capacity of 64 MW and maximum steam turbine power output up to 72 MW net (75 MW gross), spread over an area of 400 acres (160 ha). The projected CO2 emissions avoided are equivalent to taking approximately 20,000 cars off the road. The project required an investment of $266 million USD, and the project officially went into operation in June 2007. Electricity production is estimated to be 134 GWh (gigawatt hours) per year.\nIn 2007, when the plant came on line, it was the second solar thermal energy (STE) power plant built in the United States in more than 16 years, and in 2007, the largest STE plant built in the world since ",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Nevada_Solar_One.jpg/500px-Nevada_Solar_One.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

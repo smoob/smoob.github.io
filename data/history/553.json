@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CT00023",
+  "dam_name": "Stevenson",
+  "owner": "FirstLight Power Services LLC",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1919,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Housatonic River",
+  "height_ft": 103.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CT00023/summary",
+  "distance_km": 0.04,
+  "score": 0.989,
+  "verified": false
+ }
+}

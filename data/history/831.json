@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ID00060",
+  "dam_name": "Soda",
+  "owner": "PacifiCorp",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1925,
+  "years_modified": null,
+  "purposes": "Irrigation;Recreation;Hydroelectric",
+  "river": "Bear River",
+  "height_ft": 103.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ID00060/summary",
+  "distance_km": 0.02,
+  "score": 0.995,
+  "verified": false
+ }
+}

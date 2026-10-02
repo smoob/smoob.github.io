@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ME00155",
+  "dam_name": "Howland",
+  "owner": "Penobscot River Restoration Trust",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1916,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Piscataquis River",
+  "height_ft": 17.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ME00155/summary",
+  "distance_km": 0.09,
+  "score": 0.977,
+  "verified": false
+ }
+}

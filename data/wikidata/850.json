@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q7127598",
+  "url": "http://www.wikidata.org/entity/Q7127598",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Palisades.jpg?width=800",
+  "inception": 1951,
+  "start_year": null,
+  "operator": "United States Bureau of Reclamation",
+  "commons_category": "Palisades Dam"
+ },
+ "wikipedia": {
+  "title": "Palisades Dam",
+  "url": "https://en.wikipedia.org/wiki/Palisades_Dam",
+  "extract": "Palisades Dam (National Inventory of Dams ID ID00273) is an earth-fill dam in the western United States, on the upper Snake River in eastern Idaho. Located in Bonneville County near the Wyoming border, the dam was completed 69 years ago in 1957.\nProviding irrigation water, flood control, and recreation, it features a four-turbine hydroelectric power plant and can potentially generate 176.5 MW of electricity. The resulting water impoundment, Palisades Reservoir, has a storage capacity of 1.2 million acre-feet. The dam and power station were listed on the National Register of Historic Places in 2018.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/57/Palisades.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ }
+}

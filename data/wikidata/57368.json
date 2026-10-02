@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q4705998",
+  "url": "http://www.wikidata.org/entity/Q4705998",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Testing%20Photovoltaics%20%287336065466%29.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Alamosa Solar Generating Project",
+  "url": "https://en.wikipedia.org/wiki/Alamosa_Solar_Generating_Project",
+  "extract": "The Alamosa Solar Generating Plant is a 35.3 MWp (30.0 MWAC) concentrator photovoltaics (CPV) power station, the largest in the world when it was completed, in May 2012.\n \n   It is currently the world's third largest operating CPV facility. The output is being sold to Public Service of Colorado, a subsidiary of Xcel Energy, under a long term power purchase agreement.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Testing_Photovoltaics_%287336065466%29.jpg/500px-Testing_Photovoltaics_%287336065466%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

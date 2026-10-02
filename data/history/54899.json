@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NC00393",
+  "dam_name": "Cheoah",
+  "owner": "Brookfield Renewable Energy Group (ARO)",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1919,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Little Tennessee",
+  "height_ft": 236.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NC00393/summary",
+  "distance_km": 0.17,
+  "score": 0.958,
+  "verified": false
+ }
+}

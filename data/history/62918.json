@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "IN00807",
+  "dam_name": "South Bend",
+  "owner": "South Bend, City of",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1850,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "St Joseph River",
+  "height_ft": 12.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/IN00807/summary",
+  "distance_km": 0.09,
+  "score": 0.477,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MA00719",
+  "dam_name": "Chicopee",
+  "owner": "City of Chicopee, MA",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1898,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fire Protection, Stock, Or Small Fish Pond;Recreation;Flood Risk Reduction",
+  "river": "Chicopee River",
+  "height_ft": 9.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MA00719/summary",
+  "distance_km": 0.05,
+  "score": 0.987,
+  "verified": false
+ }
+}

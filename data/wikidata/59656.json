@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q65122031",
+  "url": "http://www.wikidata.org/entity/Q65122031",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Comanche%20Solar%20Layout.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Comanche Solar Project",
+  "url": "https://en.wikipedia.org/wiki/Comanche_Solar_Project",
+  "extract": "The Comanche Solar Project is a 120 megawatt (MWAC) photovoltaic power station  near the city of Pueblo, Colorado.   It became the largest solar facility in the state when it came online in late 2016.   The electricity is being sold to Public Service of Colorado, a subsidiary of Xcel Energy, under a 25-year power purchase agreement (PPA).   Xcel determined through an open bid process that the PPA's terms were competitive with natural gas.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Comanche_Solar_Project.JPG/500px-Comanche_Solar_Project.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

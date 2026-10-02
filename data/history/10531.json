@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00546",
+  "dam_name": "Beebee Island",
+  "owner": "Erie Boulevard Hydropower, L.P.",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1931,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Black River",
+  "height_ft": 31.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00546/summary",
+  "distance_km": 0.02,
+  "score": 0.994,
+  "verified": false
+ }
+}

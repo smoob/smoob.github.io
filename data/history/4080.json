@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WI00740",
+  "dam_name": "Petenwell",
+  "owner": "Wisconsin River Power Company",
+  "owner_type": "Public Utility",
+  "designer": "HARZA ENGINEERING COMPANY",
+  "year_completed": 1949,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation;Flood Risk Reduction",
+  "river": "Wisconsin River",
+  "height_ft": 50.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WI00740/summary",
+  "distance_km": 0.1,
+  "score": 0.976,
+  "verified": false
+ }
+}

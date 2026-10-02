@@ -1,0 +1,67 @@
+[
+ {
+  "source": "Global Energy Monitor",
+  "source_key": "gem",
+  "title": "Scherer Steam Generating Station",
+  "url": "https://www.gem.wiki/Scherer_Steam_Generating_Station",
+  "thumb": null,
+  "extract": "Scherer Steam Generating Station is an operating power station of at least 2673-megawatts (MW) in Juliette, Monroe, Georgia, United States with multiple units, some of which are not currently operating.",
+  "date": null,
+  "rights": "GEM wiki text, CC BY 4.0",
+  "rights_status": "licensed",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons",
+  "source_key": "commons",
+  "title": "Schererplant.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Schererplant.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schererplant.jpg/500px-Schererplant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "2007-05-01",
+  "author": "Antennas",
+  "rights": "Public domain",
+  "rights_status": "public-domain",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons",
+  "source_key": "commons",
+  "title": "2024-12-17 Memorial grave of Johannes Scherer.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:2024-12-17_Memorial_grave_of_Johannes_Scherer.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2024-12-17_Memorial_grave_of_Johannes_Scherer.jpg/500px-2024-12-17_Memorial_grave_of_Johannes_Scherer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "Taken on\u00a017 December 2024 15:04:23+03:00",
+  "author": "Yuri Samoylov",
+  "rights": "CC BY-SA 4.0",
+  "rights_status": "licensed",
+  "score": 0.75,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons",
+  "source_key": "commons",
+  "title": "Tsagveri, 1917.jpeg",
+  "url": "https://commons.wikimedia.org/wiki/File:Tsagveri,_1917.jpeg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Tsagveri%2C_1917.jpeg/500px-Tsagveri%2C_1917.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "1917",
+  "author": "Scherer",
+  "rights": "Public domain",
+  "rights_status": "public-domain",
+  "score": 0.75,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons (near site)",
+  "source_key": "commons",
+  "title": "Showy Emerald Caterpillar - Dichorda iridaria, Piedmont NWR, Ga.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Showy_Emerald_Caterpillar_-_Dichorda_iridaria,_Piedmont_NWR,_Ga.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showy_Emerald_Caterpillar_-_Dichorda_iridaria%2C_Piedmont_NWR%2C_Ga.jpg/500px-Showy_Emerald_Caterpillar_-_Dichorda_iridaria%2C_Piedmont_NWR%2C_Ga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "2011-05-23 11:33:41",
+  "author": "Judy Gallagher",
+  "rights": "CC BY 2.0",
+  "rights_status": "licensed",
+  "score": 0.475,
+  "verified": false
+ }
+]

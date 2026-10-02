@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00701",
+  "dam_name": "Unionville",
+  "owner": "Erie Boulevard Hydropower, L.P.",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1907,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fire Protection, Stock, Or Small Fish Pond;Recreation",
+  "river": "Raquette River",
+  "height_ft": 20.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00701/summary",
+  "distance_km": 0.08,
+  "score": 0.98,
+  "verified": false
+ }
+}

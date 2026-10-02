@@ -1,0 +1,67 @@
+[
+ {
+  "source": "Global Energy Monitor",
+  "source_key": "gem",
+  "title": "Gavin Power Plant",
+  "url": "https://www.gem.wiki/Gavin_Power_Plant",
+  "thumb": null,
+  "extract": "Gavin Power Plant is an operating power station of at least 2600-megawatts (MW) in Cheshire, Gallia, Ohio, United States. It is also known as General James M. Gavin Power Plant.",
+  "date": null,
+  "rights": "GEM wiki text, CC BY 4.0",
+  "rights_status": "licensed",
+  "score": 0.75,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons (near site)",
+  "source_key": "commons",
+  "title": "Gavin Power Plant chimneys.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Gavin_Power_Plant_chimneys.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gavin_Power_Plant_chimneys.jpg/500px-Gavin_Power_Plant_chimneys.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "Taken on\u00a01 January 2018",
+  "author": "Nyttend",
+  "rights": "Public domain",
+  "rights_status": "public-domain",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons (near site)",
+  "source_key": "commons",
+  "title": "Cheshire post office 45620.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Cheshire_post_office_45620.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cheshire_post_office_45620.jpg/500px-Cheshire_post_office_45620.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "Taken on\u00a01 January 2018",
+  "author": "Nyttend",
+  "rights": "Public domain",
+  "rights_status": "public-domain",
+  "score": 0.583,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons (near site)",
+  "source_key": "commons",
+  "title": "Kyger Creek Power Plant on Little Kyger Road.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Kyger_Creek_Power_Plant_on_Little_Kyger_Road.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Kyger_Creek_Power_Plant_on_Little_Kyger_Road.jpg/500px-Kyger_Creek_Power_Plant_on_Little_Kyger_Road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "2019-08-10 17:20:46",
+  "author": "FunksBrother",
+  "rights": "CC BY-SA 4.0",
+  "rights_status": "licensed",
+  "score": 0.475,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons (near site)",
+  "source_key": "commons",
+  "title": "Smokestacks and cooling towers at a power plant north of Point Pleasant, along the Ohio River in Mason County, West Virginia LCCN2015631948.tif",
+  "url": "https://commons.wikimedia.org/wiki/File:Smokestacks_and_cooling_towers_at_a_power_plant_north_of_Point_Pleasant,_along_the_Ohio_River_in_Mason_County,_West_Virginia_LCCN2015631948.tif",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Smokestacks_and_cooling_towers_at_a_power_plant_north_of_Point_Pleasant%2C_along_the_Ohio_River_in_Mason_County%2C_West_Virginia_LCCN2015631948.tif/lossy-page1-500px-Smokestacks_and_cooling_towers_at_a_power_plant_north_of_Point_Pleasant%2C_along_the_Ohio_River_in_Mason_County%2C_West_Virginia_LCCN2015631948.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "Taken on\u00a09 May 2015, 16:10\u00a0(according to Exif data)",
+  "author": "Carol M. Highsmith",
+  "rights": "Public domain",
+  "rights_status": "public-domain",
+  "score": 0.472,
+  "verified": false
+ }
+]

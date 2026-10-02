@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "PA00854",
+  "dam_name": "Holtwood",
+  "owner": "BIF III Holtwood LLC",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1910,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Susquehanna River",
+  "height_ft": 55.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/PA00854/summary",
+  "distance_km": 0.42,
+  "score": 0.896,
+  "verified": false
+ }
+}

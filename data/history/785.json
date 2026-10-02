@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NE01048",
+  "dam_name": "Kingsley",
+  "owner": "Central Nebraska Public Power & Irrigation District",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1941,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Irrigation",
+  "river": "North Platte River",
+  "height_ft": 162.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NE01048/summary",
+  "distance_km": 0.81,
+  "score": 0.798,
+  "verified": false
+ }
+}

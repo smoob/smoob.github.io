@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "IL00008",
+  "dam_name": "Dayton",
+  "owner": null,
+  "owner_type": "Not Listed",
+  "designer": "STONE & WEBSTER",
+  "year_completed": 1925,
+  "years_modified": null,
+  "purposes": "Navigation;Recreation;Hydroelectric",
+  "river": "Fox River",
+  "height_ft": 26.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/IL00008/summary",
+  "distance_km": 0.3,
+  "score": 0.925,
+  "verified": false
+ }
+}

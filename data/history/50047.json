@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ME00010",
+  "dam_name": "Jay",
+  "owner": "Eagle Creek Renewable Energies, LLC Parent Org (CRO)",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1912,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Androscoggin River",
+  "height_ft": 24.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ME00010/summary",
+  "distance_km": 0.07,
+  "score": 0.982,
+  "verified": false
+ }
+}

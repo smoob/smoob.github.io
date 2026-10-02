@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MA01917",
+  "dam_name": "Collins",
+  "owner": "Dichotomy Capital LLC",
+  "owner_type": "Private",
+  "designer": "CHI Engineering Inc.",
+  "year_completed": 1984,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fire Protection, Stock, Or Small Fish Pond;Recreation;Flood Risk Reduction",
+  "river": "Chicopee River",
+  "height_ft": 11.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MA01917/summary",
+  "distance_km": 0.0,
+  "score": 1.0,
+  "verified": false
+ }
+}

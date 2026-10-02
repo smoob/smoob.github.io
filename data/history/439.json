@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00281",
+  "dam_name": "Don Pedro Main",
+  "owner": "Turlock Irrigation District",
+  "owner_type": "Public Utility",
+  "designer": "Bechtel",
+  "year_completed": 1971,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Irrigation;Fish and Wildlife Pond;Recreation;Flood Risk Reduction",
+  "river": "Tuolumne River",
+  "height_ft": 585.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00281/summary",
+  "distance_km": 0.55,
+  "score": 0.862,
+  "verified": false
+ }
+}

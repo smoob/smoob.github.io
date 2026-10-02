@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA10204",
+  "dam_name": "Whiskeytown Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1963,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Irrigation;Water Supply",
+  "river": "Clear Creek",
+  "height_ft": 282.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA10204/summary",
+  "distance_km": 0.19,
+  "score": 0.953,
+  "verified": false
+ }
+}

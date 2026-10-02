@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "AL09501",
+  "dam_name": "Guntersville Dam",
+  "owner": "TVA",
+  "owner_type": "Federal",
+  "designer": "TVA",
+  "year_completed": 1939,
+  "years_modified": "1952M;1965S;1995S",
+  "purposes": "Flood Risk Reduction;Navigation;Recreation;Hydroelectric;Water Supply",
+  "river": "Tennessee River",
+  "height_ft": 94.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/AL09501/summary",
+  "distance_km": 0.31,
+  "score": 0.923,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "AL01424",
+  "dam_name": "Mitchell",
+  "owner": "Alabama Power Company",
+  "owner_type": "Public Utility",
+  "designer": "ALABAMA POWER COMPANY",
+  "year_completed": 1923,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Coosa River",
+  "height_ft": 106.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/AL01424/summary",
+  "distance_km": 0.04,
+  "score": 0.989,
+  "verified": false
+ }
+}

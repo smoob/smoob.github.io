@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "PA00101",
+  "dam_name": "Conemaugh Dam",
+  "owner": "USACE - Pittsburgh District",
+  "owner_type": "Federal",
+  "designer": "CELRP",
+  "year_completed": 1952,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Other;Recreation;Hydroelectric",
+  "river": "Conemaugh River",
+  "height_ft": 144.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/PA00101/summary",
+  "distance_km": 0.42,
+  "score": 0.896,
+  "verified": false
+ }
+}

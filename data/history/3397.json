@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "TN08903",
+  "dam_name": "Cherokee Dam",
+  "owner": "TVA",
+  "owner_type": "Federal",
+  "designer": "TVA",
+  "year_completed": 1941,
+  "years_modified": "2014;2015E;2015S",
+  "purposes": "Flood Risk Reduction;Navigation;Recreation;Hydroelectric;Water Supply",
+  "river": "Holston River",
+  "height_ft": 175.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/TN08903/summary",
+  "distance_km": 0.18,
+  "score": 0.956,
+  "verified": false
+ }
+}

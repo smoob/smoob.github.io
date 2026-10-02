@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MI00143",
+  "dam_name": "Twin Falls",
+  "owner": "Wisconsin Electric Power Company",
+  "owner_type": "Public Utility",
+  "designer": "Mead & Seastone",
+  "year_completed": 1912,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Menominee River",
+  "height_ft": 43.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MI00143/summary",
+  "distance_km": 0.09,
+  "score": 0.976,
+  "verified": false
+ }
+}

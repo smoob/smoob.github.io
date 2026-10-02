@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WA00148",
+  "dam_name": "Yale",
+  "owner": "PacifiCorp",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1953,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fish and Wildlife Pond;Recreation",
+  "river": "Lewis River",
+  "height_ft": 323.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WA00148/summary",
+  "distance_km": 0.26,
+  "score": 0.936,
+  "verified": false
+ }
+}

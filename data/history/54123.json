@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ME00379",
+  "dam_name": "Mechanic Falls",
+  "owner": "KEI (Maine) Power Management (IV) LLC",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1866,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Little Androscoggin River",
+  "height_ft": 15.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ME00379/summary",
+  "distance_km": 0.08,
+  "score": 0.979,
+  "verified": false
+ }
+}

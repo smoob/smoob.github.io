@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "PA00116",
+  "dam_name": "Allegheny River Lock and Dam 6",
+  "owner": "USACE - Pittsburgh District",
+  "owner_type": "Federal",
+  "designer": "CELRP",
+  "year_completed": 1928,
+  "years_modified": null,
+  "purposes": "Navigation;Hydroelectric",
+  "river": "Allegheny River",
+  "height_ft": 21.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/PA00116/summary",
+  "distance_km": 0.22,
+  "score": 0.945,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "OK00135",
+  "dam_name": "Pensacola",
+  "owner": "Grand River Dam Authority",
+  "owner_type": "State",
+  "designer": null,
+  "year_completed": 1940,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Flood Risk Reduction",
+  "river": "Neosho",
+  "height_ft": 155.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/OK00135/summary",
+  "distance_km": 0.57,
+  "score": 0.858,
+  "verified": false
+ }
+}

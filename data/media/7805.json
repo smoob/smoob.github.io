@@ -1,0 +1,54 @@
+[
+ {
+  "source": "Global Energy Monitor",
+  "source_key": "gem",
+  "title": "Sherwood H Smith Jr energy complex",
+  "url": "https://www.gem.wiki/Sherwood_H_Smith_Jr_energy_complex",
+  "thumb": null,
+  "extract": "Sherwood H Smith Jr energy complex is an operating power station of at least 2243-megawatts (MW) in Hamlet, Richmond, North Carolina, United States with multiple units, some of which are not currently operating. It is also known as Smith Energy Complex.",
+  "date": null,
+  "rights": "GEM wiki text, CC BY 4.0",
+  "rights_status": "licensed",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons (near site)",
+  "source_key": "commons",
+  "title": "M 3407911 nw 17 060 20181030.tif",
+  "url": "https://commons.wikimedia.org/wiki/File:M_3407911_nw_17_060_20181030.tif",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/M_3407911_nw_17_060_20181030.tif/lossless-page1-500px-M_3407911_nw_17_060_20181030.tif.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "Published on\u00a026 December 2019",
+  "author": "NOAA Office for Coastal Management / The USDA-FSA Aerial Photography Field office (crediting while reuse is desired as Courtesy Attribution)",
+  "rights": "Public domain",
+  "rights_status": "public-domain",
+  "score": 0.473,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons (near site)",
+  "source_key": "commons",
+  "title": "M 3407911 nw 17 060 20220617 20221207.tif",
+  "url": "https://commons.wikimedia.org/wiki/File:M_3407911_nw_17_060_20220617_20221207.tif",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/M_3407911_nw_17_060_20220617_20221207.tif/lossless-page1-500px-M_3407911_nw_17_060_20220617_20221207.tif.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "Published on\u00a020 July 2023",
+  "author": "NOAA Office for Coastal Management / The USDA-FSA Aerial Photography Field office (crediting while reuse is desired as Courtesy Attribution)",
+  "rights": "Public domain",
+  "rights_status": "public-domain",
+  "score": 0.473,
+  "verified": false
+ },
+ {
+  "source": "Wikimedia Commons (near site)",
+  "source_key": "commons",
+  "title": "M 3407911 nw 17 1 20160608.tif",
+  "url": "https://commons.wikimedia.org/wiki/File:M_3407911_nw_17_1_20160608.tif",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/M_3407911_nw_17_1_20160608.tif/lossless-page1-500px-M_3407911_nw_17_1_20160608.tif.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "date": "Published on\u00a015 November 2016",
+  "author": "NOAA Office for Coastal Management / The USDA-FSA Aerial Photography Field office (crediting while reuse is desired as Courtesy Attribution)",
+  "rights": "Public domain",
+  "rights_status": "public-domain",
+  "score": 0.473,
+  "verified": false
+ }
+]

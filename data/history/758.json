@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "GA29101",
+  "dam_name": "Nottely Dam",
+  "owner": "TVA",
+  "owner_type": "Federal",
+  "designer": "TVA",
+  "year_completed": 1942,
+  "years_modified": "1988",
+  "purposes": "Flood Risk Reduction;Recreation;Hydroelectric;Water Supply",
+  "river": "Nottely River",
+  "height_ft": 197.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/GA29101/summary",
+  "distance_km": 0.12,
+  "score": 0.97,
+  "verified": false
+ }
+}

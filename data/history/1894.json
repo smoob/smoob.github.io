@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MN00603",
+  "dam_name": "Fond Du Lac",
+  "owner": "Allete, Inc.",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1924,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "St Louis River",
+  "height_ft": 80.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MN00603/summary",
+  "distance_km": 0.24,
+  "score": 0.939,
+  "verified": false
+ }
+}

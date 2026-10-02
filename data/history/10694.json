@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MA00373",
+  "dam_name": "Pepperell Paper",
+  "owner": "Pepperell Hydro Company, LLC",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1918,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Nashua River",
+  "height_ft": 24.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MA00373/summary",
+  "distance_km": 0.41,
+  "score": 0.897,
+  "verified": false
+ }
+}

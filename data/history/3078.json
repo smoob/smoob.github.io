@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "OR00006",
+  "dam_name": "Dexter Dam",
+  "owner": "USACE - Portland District",
+  "owner_type": "Federal",
+  "designer": "CENWP",
+  "year_completed": 1955,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Irrigation;Navigation;Recreation;Hydroelectric",
+  "river": "Middle Fork Willamette River",
+  "height_ft": 117.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/OR00006/summary",
+  "distance_km": 0.4,
+  "score": 0.901,
+  "verified": false
+ }
+}

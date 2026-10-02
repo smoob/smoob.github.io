@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NC00337",
+  "dam_name": "Tuckasegee",
+  "owner": "Duke Energy",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1950,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "West Fork Tuckasegee River",
+  "height_ft": 64.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NC00337/summary",
+  "distance_km": 1.01,
+  "score": 0.748,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00330",
+  "dam_name": "Rock Creek",
+  "owner": "Pacific Gas and Electric Company",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1950,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "North Fork Feather River",
+  "height_ft": 126.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00330/summary",
+  "distance_km": 0.05,
+  "score": 0.988,
+  "verified": false
+ }
+}

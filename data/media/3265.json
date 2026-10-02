@@ -1,0 +1,87 @@
+[
+ {
+  "source": "Global Energy Monitor",
+  "source_key": "gem",
+  "title": "Oconee nuclear power plant",
+  "url": "https://www.gem.wiki/Oconee_nuclear_power_plant",
+  "thumb": null,
+  "extract": "Oconee nuclear power plant is an operating nuclear power plant in Oconee County, South Carolina, United States.",
+  "date": null,
+  "rights": "GEM wiki text, CC BY 4.0",
+  "rights_status": "licensed",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Oconee Station, Oconee (historical), Oconee County, SC",
+  "url": "http://www.loc.gov/item/sc0314/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/sc/sc0300/sc0314/photos/150342p_150px.jpg#h=108&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "William Richards House, Walhalla Vicinity, Oconee (historical), Oconee County, SC",
+  "url": "http://www.loc.gov/item/sc0313/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/sc/sc0300/sc0313/photos/150345p_150px.jpg#h=111&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Tamassee, Tamassee, Oconee County, SC",
+  "url": "http://www.loc.gov/item/sc0312/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/sc/sc0300/sc0312/photos/150352p_150px.jpg#h=109&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Galbraith Robinson House, Horseshoe Bridge Road, Westminster, Oconee County, SC",
+  "url": "http://www.loc.gov/item/sc0044/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/sc/sc0000/sc0044/photos/150364p_150px.jpg#h=109&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Chattooga River Bridge, Spanning Chattooga River on U.S. 76, Walhalla, Oconee County, SC",
+  "url": "http://www.loc.gov/item/sc1134/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/sc/sc1100/sc1134/photos/226394p_150px.jpg#h=150&w=122",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "J. R. Strother House, State Routes 28 & 11 (Old Georgian Road), West Union, Oconee County, SC",
+  "url": "http://www.loc.gov/item/sc0111/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/sc/sc0100/sc0111/photos/150359p_150px.jpg#h=108&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ }
+]

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "TX01601",
+  "dam_name": "Lake Mcqueeney Dam",
+  "owner": "GUADALUPE-BLANCO RIVER AUTHORITY",
+  "owner_type": "State",
+  "designer": "FARGO ENGR COMPANY",
+  "year_completed": 1928,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Guadalupe River",
+  "height_ft": 42.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/TX01601/summary",
+  "distance_km": 0.05,
+  "score": 0.489,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00272",
+  "dam_name": "Sly Creek",
+  "owner": "South Feather Water and Power Agency",
+  "owner_type": "Public Utility",
+  "designer": "Bechtel",
+  "year_completed": 1961,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Irrigation;Water Supply",
+  "river": "Lost Creek",
+  "height_ft": 299.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00272/summary",
+  "distance_km": 0.39,
+  "score": 0.902,
+  "verified": false
+ }
+}

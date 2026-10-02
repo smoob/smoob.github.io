@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WI00724",
+  "dam_name": "Castle Rock",
+  "owner": "Wisconsin River Power Company",
+  "owner_type": "Public Utility",
+  "designer": "HARZA ENGINEERING CO",
+  "year_completed": 1950,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation;Flood Risk Reduction",
+  "river": "Wisconsin River",
+  "height_ft": 38.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WI00724/summary",
+  "distance_km": 0.5,
+  "score": 0.876,
+  "verified": false
+ }
+}

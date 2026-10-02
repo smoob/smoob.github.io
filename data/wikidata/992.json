@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q7169816",
+  "url": "http://www.wikidata.org/entity/Q7169816",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Citizens%20Energy%20Group%20Perry%20K.%20Generating%20Station%202014.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Perry K. Generating Station"
+ },
+ "wikipedia": {
+  "title": "Perry K. Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Perry_K._Generating_Station",
+  "extract": "Perry K. Generating Station is a small multi-fired power station producing steam for one of the largest central district steam heating systems in the United States. The plant is located on the south side of Downtown Indianapolis, at the intersection of Kentucky Avenue and West Street. Its coal-fired units were among the oldest operating power plants in the United States at the time, and were converted to natural gas in 2016. Perry K. is owned by Citizens Thermal, a division of Citizens Energy Group.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Citizens_Energy_Group_Perry_K._Generating_Station_2014.jpg/500px-Citizens_Energy_Group_Perry_K._Generating_Station_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q7235146",
+  "url": "http://www.wikidata.org/entity/Q7235146",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Unit%203%20-%20Potrero%20Power%20Plant.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Potrero Generating Station"
+ },
+ "wikipedia": {
+  "title": "Potrero Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Potrero_Generating_Station",
+  "extract": "The Potrero Generating Station was a natural gas and diesel burning electricity generating station owned by Mirant and located on a 23-acre (9.3 ha) site in Potrero Point, San Francisco, California.  The plant's primary power source was a 206 MW, natural gas burning steam turbine providing baseload power and referred to as \"Unit 3\".  In addition, three 52 MW peaking power diesel generators provided additional power during times of highest consumption.  Since the closure of the Hunters Point Power Plant in 2006, Potrero was the last remaining fossil fuel power plant within the confines of San Francisco, with capacity to provide approximately 1/3 of the city's peak electrical power needs.\nOn D",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Unit_3_-_Potrero_Power_Plant.jpg/500px-Unit_3_-_Potrero_Power_Plant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

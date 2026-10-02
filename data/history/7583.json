@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00371",
+  "dam_name": "Talcville",
+  "owner": "Erie Boulevard Hydropower, L.P.",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1987,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "East Branch Oswegatchie River",
+  "height_ft": 13.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00371/summary",
+  "distance_km": 0.02,
+  "score": 0.994,
+  "verified": false
+ }
+}

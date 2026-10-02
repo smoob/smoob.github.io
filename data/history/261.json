@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00410",
+  "dam_name": "Murphys Afterbay",
+  "owner": "Utica Water & Power Authority",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1953,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Irrigation",
+  "river": "Angels Creek",
+  "height_ft": 43.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00410/summary",
+  "distance_km": 0.82,
+  "score": 0.796,
+  "verified": false
+ }
+}

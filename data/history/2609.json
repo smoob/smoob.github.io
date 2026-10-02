@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NY00141",
+  "dam_name": "Sherman Island",
+  "owner": "Brookfield Renewable Power LLC NYRO",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1923,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation;Water Supply",
+  "river": "Hudson River",
+  "height_ft": 80.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NY00141/summary",
+  "distance_km": 1.15,
+  "score": 0.711,
+  "verified": false
+ }
+}

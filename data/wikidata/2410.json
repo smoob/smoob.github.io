@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q1535057",
+  "url": "http://www.wikidata.org/entity/Q1535057",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Salem%20Nuclear%20Power%20Plant.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": "Public Service Enterprise Group",
+  "commons_category": "Salem Nuclear Generating Station"
+ },
+ "wikipedia": {
+  "title": "Salem Nuclear Power Plant",
+  "url": "https://en.wikipedia.org/wiki/Salem_Nuclear_Power_Plant",
+  "extract": "The Salem Nuclear Power Plant is a two-unit pressurized water reactor nuclear power plant located in Lower Alloways Creek Township, in Salem County, New Jersey, United States.  It is owned by PSEG Nuclear LLC of the Public Service Enterprise Group and Constellation Energy.\nIn 2019, New Jersey began providing the state's nuclear plants Zero-Emission Certificates worth $300 million a year to keep them in service. The subsidy was ended in 2024, effective June 1, 2025, as the Inflation Reduction Act provides alternative tax credits to support clean energy.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Salem_and_Hope_Creek_Nuclear_Reactors_%287238282472%29.jpg/500px-Salem_and_Hope_Creek_Nuclear_Reactors_%287238282472%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

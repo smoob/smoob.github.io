@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NJ00821",
+  "dam_name": "Beatties Mill Dam",
+  "owner": "Passaic Valley Water Commission",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1932,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Water Supply",
+  "river": "Passaic River",
+  "height_ft": 12.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NJ00821/summary",
+  "distance_km": 0.38,
+  "score": 0.405,
+  "verified": false
+ }
+}

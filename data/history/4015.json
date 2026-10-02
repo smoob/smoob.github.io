@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WI00730",
+  "dam_name": "Wissota",
+  "owner": "Northern States Power Co",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1917,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation;Flood Risk Reduction",
+  "river": "Chippewa River",
+  "height_ft": 68.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WI00730/summary",
+  "distance_km": 0.03,
+  "score": 0.993,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ME00234",
+  "dam_name": "Scopan",
+  "owner": "InClime, Inc.",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1928,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation;Flood Risk Reduction",
+  "river": "Squa Pan Stream",
+  "height_ft": 35.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ME00234/summary",
+  "distance_km": 0.01,
+  "score": 0.497,
+  "verified": false
+ }
+}

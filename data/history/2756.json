@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NC00826",
+  "dam_name": "Gaston",
+  "owner": "Virginia Electric and Power Company",
+  "owner_type": "Public Utility",
+  "designer": "STONE & WEBSTER",
+  "year_completed": 1963,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Fish and Wildlife Pond;Recreation;Water Supply",
+  "river": "Roanoke",
+  "height_ft": 99.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NC00826/summary",
+  "distance_km": 0.31,
+  "score": 0.923,
+  "verified": false
+ }
+}

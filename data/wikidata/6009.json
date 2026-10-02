@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q2188703",
+  "url": "http://www.wikidata.org/entity/Q2188703",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/WhiteBluffPP.jpg?width=800",
+  "inception": 1978,
+  "start_year": null,
+  "operator": "Entergy",
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "White Bluff Power Plant",
+  "url": "https://en.wikipedia.org/wiki/White_Bluff_Power_Plant",
+  "extract": "The White Bluff Power Plant is a 1,800.0-megawatt (MW) coal-fired power station operated by Entergy Arkansas in Barraque Township, Arkansas. The plant is owned and operated by Entergy and has one of the tallest chimneys in the world at 305 metres (1,001 ft), which was built in 1980.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/WhiteBluffPP.jpg/500px-WhiteBluffPP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

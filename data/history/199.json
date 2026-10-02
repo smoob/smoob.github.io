@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "AR00162",
+  "dam_name": "Dardanelle Lock and Dam",
+  "owner": "USACE - Little Rock District",
+  "owner_type": "Federal",
+  "designer": "CESWL",
+  "year_completed": 1969,
+  "years_modified": null,
+  "purposes": "Navigation;Recreation;Hydroelectric;Water Supply",
+  "river": "Arkansas",
+  "height_ft": 90.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/AR00162/summary",
+  "distance_km": 0.15,
+  "score": 0.961,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00402",
+  "dam_name": "Pit No. 5 Diversion",
+  "owner": "Pacific Gas and Electric Company",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1944,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Pit River",
+  "height_ft": 58.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00402/summary",
+  "distance_km": 1.83,
+  "score": 0.541,
+  "verified": false
+ }
+}

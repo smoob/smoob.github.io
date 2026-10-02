@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "OR00003",
+  "dam_name": "Big Cliff Dam",
+  "owner": "USACE - Portland District",
+  "owner_type": "Federal",
+  "designer": "CENWP",
+  "year_completed": 1954,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "North Santiam River",
+  "height_ft": 172.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/OR00003/summary",
+  "distance_km": 0.05,
+  "score": 0.988,
+  "verified": false
+ }
+}

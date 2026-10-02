@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "GA00873",
+  "dam_name": "Lloyd Shoals",
+  "owner": "Georgia Power Company",
+  "owner_type": "Public Utility",
+  "designer": "J. G. WHITE ENGINEERING COMPANY, NEW YORK, NEW YORK",
+  "year_completed": 1911,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Ocmulgee",
+  "height_ft": 105.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/GA00873/summary",
+  "distance_km": 0.0,
+  "score": 1.0,
+  "verified": false
+ }
+}

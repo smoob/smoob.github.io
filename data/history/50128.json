@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00911",
+  "dam_name": "Clear Lake",
+  "owner": "Yolo County Flood Control and Water Conservation District",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1914,
+  "years_modified": null,
+  "purposes": "Irrigation;Hydroelectric;Water Supply;Flood Risk Reduction",
+  "river": "Cache Creek",
+  "height_ft": 43.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00911/summary",
+  "distance_km": 0.1,
+  "score": 0.975,
+  "verified": false
+ }
+}

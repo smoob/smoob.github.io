@@ -1,0 +1,111 @@
+[
+ {
+  "source": "Global Energy Monitor",
+  "source_key": "gem",
+  "title": "W.A. Parish Carbon Capture Plant",
+  "url": "https://www.gem.wiki/W.A._Parish_Carbon_Capture_Plant",
+  "thumb": null,
+  "extract": "W.A. Parish Carbon Capture Plant is an operating power station of at least 82-megawatts (MW) in Thompsons, Fort Bend, Texas, United States.",
+  "date": null,
+  "rights": "GEM wiki text, CC BY 4.0",
+  "rights_status": "licensed",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Plamoor Ballroom, 1053 Texas Street, Shreveport, Caddo Parish, LA",
+  "url": "http://www.loc.gov/item/la0463/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/la/la0400/la0463/sheet/00001_150px.jpg#h=100&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Texas & Pacific Railway Depot, Seventh Street, Natchitoches, Natchitoches Parish, LA",
+  "url": "http://www.loc.gov/item/la0418/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/la/la0400/la0418/photos/210227p_150px.jpg#h=109&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "U.S. Post Office & Courthouse, Marshall & Texas Streets, Shreveport, Caddo Parish, LA",
+  "url": "http://www.loc.gov/item/la0070/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/la/la0000/la0070/photos/073591p_150px.jpg#h=118&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Missouri Pacific-Texas Pacific Railroad Station, Tenth & Jackson Streets, Alexandria, Rapides Parish, LA",
+  "url": "http://www.loc.gov/item/la0221/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/la/la0200/la0221/photos/210252p_150px.jpg#h=120&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Long-Allen Bridge, Texas Street Bridge, Spanning the Red River on US 80, Shreveport, Caddo Parish, LA",
+  "url": "http://www.loc.gov/item/la0514/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/la/la0500/la0514/photos/221394p_150px.jpg#h=120&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Martin Hat Shop, 312 Stewart Street, Lafayette, Lafayette Parish, LA",
+  "url": "http://www.loc.gov/item/la0796/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/la/la0700/la0796/sheet/00001_150px.jpg#h=100&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Crowell Sawmill Historic District, 77 Long Leaf Road, Longleaf, Rapides Parish, LA",
+  "url": "http://www.loc.gov/item/la0752/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/la/la0700/la0752/sheet/00001_150px.jpg#h=100&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ },
+ {
+  "source": "HAER/HABS via Library of Congress",
+  "source_key": "loc",
+  "title": "Northwestern State University of Louisiana, Normal Hill, 136 Caldwell Drive, Natchitoches, Natchitoches Parish, LA",
+  "url": "http://www.loc.gov/item/la0783/",
+  "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/la/la0700/la0783/sheet/00001_150px.jpg#h=116&w=150",
+  "date": null,
+  "rights": "No known restrictions on images made by the U.S. Government",
+  "rights_status": "public-domain-usgov",
+  "score": 1.0,
+  "verified": false
+ }
+]

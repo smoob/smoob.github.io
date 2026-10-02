@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "VT00021",
+  "dam_name": "West Charleston",
+  "owner": "Great Bay Hydro Corporation",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1928,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Clyde River",
+  "height_ft": 28.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/VT00021/summary",
+  "distance_km": 0.87,
+  "score": 0.782,
+  "verified": false
+ }
+}

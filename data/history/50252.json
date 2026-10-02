@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MN00505",
+  "dam_name": "Sartell",
+  "owner": null,
+  "owner_type": "Not Listed",
+  "designer": null,
+  "year_completed": 1964,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Mississippi River",
+  "height_ft": 46.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MN00505/summary",
+  "distance_km": 0.39,
+  "score": 0.903,
+  "verified": false
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q571906",
+  "url": "http://www.wikidata.org/entity/Q571906",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Gulf%20NPP.jpg?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": "Entergy",
+  "commons_category": null
+ },
+ "wikipedia": {
+  "title": "Grand Gulf Nuclear Station",
+  "url": "https://en.wikipedia.org/wiki/Grand_Gulf_Nuclear_Station",
+  "extract": "Grand Gulf Nuclear Station is a nuclear power station with one operational GE BWR reactor (General Electric boiling water reactor).  It lies on a 2,100 acres (850 ha) site near Port Gibson, Mississippi, United States.  The site is wooded and contains two lakes.  The plant has a 520-foot natural draft cooling tower. As of January 2023, the plant employs 675 people.\nGrand Gulf's reactor is the most powerful in the US and the 7th most powerful in the world, with a core power of 4408 MWth yielding a nominal gross electrical output of 1443 MWe.\nGrand Gulf is operated by Entergy, which also owns 90% of the station through their subsidiary, System Energy Resources Inc. The other 10% is owned by Coo",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Grand_Gulf_NPP.jpg/500px-Grand_Gulf_NPP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

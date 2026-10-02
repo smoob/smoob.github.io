@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "ME00138",
+  "dam_name": "Orono",
+  "owner": "Black Bear Hydro Partners, LLC, Black Bear Development Holdings, LLC & Black Bear SO, LLC",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1917,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Stillwater River",
+  "height_ft": 15.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/ME00138/summary",
+  "distance_km": 0.15,
+  "score": 0.962,
+  "verified": false
+ }
+}

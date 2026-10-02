@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA10114",
+  "dam_name": "Terminus Dam",
+  "owner": "USACE - Sacramento District",
+  "owner_type": "Federal",
+  "designer": null,
+  "year_completed": 1962,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Irrigation;Recreation;Hydroelectric",
+  "river": "Kaweah River",
+  "height_ft": 255.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA10114/summary",
+  "distance_km": 0.34,
+  "score": 0.915,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "SC01071",
+  "dam_name": "Rocky Creek-Cedar Creek",
+  "owner": "Duke Energy",
+  "owner_type": "Public Utility",
+  "designer": "SOUTHERN POWER COMPANY",
+  "year_completed": 1909,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Catawba River",
+  "height_ft": 117.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/SC01071/summary",
+  "distance_km": 0.17,
+  "score": 0.957,
+  "verified": false
+ }
+}

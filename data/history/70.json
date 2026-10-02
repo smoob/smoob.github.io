@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "AK83013",
+  "dam_name": "Swan Lake",
+  "owner": "South East Alaska Power Agency",
+  "owner_type": "Public Utility",
+  "designer": "R. W. BECK & ASSOCIATES",
+  "year_completed": 1984,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Falls Creek, Carroll Inlet",
+  "height_ft": 174.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/AK83013/summary",
+  "distance_km": 0.9,
+  "score": 0.775,
+  "verified": false
+ }
+}

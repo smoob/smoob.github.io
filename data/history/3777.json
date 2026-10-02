@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "VA143001",
+  "dam_name": "Leesville",
+  "owner": "Appalachian Power Company",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1963,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Roanoke River",
+  "height_ft": 90.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/VA143001/summary",
+  "distance_km": 0.08,
+  "score": 0.979,
+  "verified": false
+ }
+}

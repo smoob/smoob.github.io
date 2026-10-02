@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "TX00011",
+  "dam_name": "Sam Rayburn Dam",
+  "owner": "USACE - Fort Worth District",
+  "owner_type": "Federal",
+  "designer": "CESWF",
+  "year_completed": 1965,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Fish and Wildlife Pond;Recreation;Hydroelectric;Water Supply",
+  "river": "Angelina River",
+  "height_ft": 130.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/TX00011/summary",
+  "distance_km": 1.36,
+  "score": 0.66,
+  "verified": false
+ }
+}

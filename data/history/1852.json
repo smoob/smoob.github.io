@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MI00551",
+  "dam_name": "St Louis",
+  "owner": "City of St Louis",
+  "owner_type": "Public Utility",
+  "designer": "MC MEE, PORTER & SLEELEX",
+  "year_completed": 1901,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Pine Creek",
+  "height_ft": 21.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MI00551/summary",
+  "distance_km": 1.29,
+  "score": 0.678,
+  "verified": false
+ }
+}

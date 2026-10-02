@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "NC00298",
+  "dam_name": "Fontana Dam",
+  "owner": "TVA",
+  "owner_type": "Federal",
+  "designer": "TVA",
+  "year_completed": 1944,
+  "years_modified": "1973E;1973S;1976S;1983S;1999E;1999S;2000S;2003H;2019S;2021S",
+  "purposes": "Flood Risk Reduction;Navigation;Recreation;Hydroelectric;Water Supply",
+  "river": "Little Tennessee River",
+  "height_ft": 480.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/NC00298/summary",
+  "distance_km": 0.21,
+  "score": 0.947,
+  "verified": false
+ }
+}

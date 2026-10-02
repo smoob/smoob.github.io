@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q11064575",
+  "url": "http://www.wikidata.org/entity/Q11064575",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/International%20Selkirk%20Loop%20-%20Box%20Canyon%20Dam%20-%20NARA%20-%207719594.jpg?width=800",
+  "inception": 1952,
+  "start_year": null,
+  "operator": null,
+  "commons_category": "Box Canyon Dam"
+ },
+ "wikipedia": {
+  "title": "Box Canyon Dam (Washington)",
+  "url": "https://en.wikipedia.org/wiki/Box_Canyon_Dam_(Washington)",
+  "extract": "Box Canyon Dam is a gravity-type hydroelectric dam on the Pend Oreille River, in northeastern Washington state in the United States.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/International_Selkirk_Loop_-_Box_Canyon_Dam_-_NARA_-_7719594.jpg/500px-International_Selkirk_Loop_-_Box_Canyon_Dam_-_NARA_-_7719594.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

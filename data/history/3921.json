@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "WA00299",
+  "dam_name": "Chief Joseph Dam",
+  "owner": "USACE - Seattle District",
+  "owner_type": "Federal",
+  "designer": "CE",
+  "year_completed": 1955,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Columbia River",
+  "height_ft": 230.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/WA00299/summary",
+  "distance_km": 0.22,
+  "score": 0.944,
+  "verified": false
+ }
+}

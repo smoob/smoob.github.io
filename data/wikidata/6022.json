@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q674107",
+  "url": "http://www.wikidata.org/entity/Q674107",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Braidwood%20nuclear%20power%20station.png?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": "Exelon",
+  "commons_category": "Braidwood Nuclear Generating Station"
+ },
+ "wikipedia": {
+  "title": "Braidwood Nuclear Generating Station",
+  "url": "https://en.wikipedia.org/wiki/Braidwood_Nuclear_Generating_Station",
+  "extract": "Braidwood Generating Station is located in Will County in northeastern Illinois, U.S. The nuclear power plant serves Chicago and northern Illinois with electricity. The plant was originally built by Commonwealth Edison company, and subsequently transferred to Com Ed's parent company, Exelon Corporation. Following Exelon's spin-off of their Generation company, the station was transferred to Constellation Energy.\nThis station has two Westinghouse pressurized water reactors. Unit #1 came online in July 1987. Unit #2 came online in May 1988. The units were licensed by the Nuclear Regulatory Commission to operate until 2026 and 2027, then granted extended licenses until 2046 and 2047. Each unit h",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Braidwood_nuclear_power_station.png/500px-Braidwood_nuclear_power_station.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ }
+}

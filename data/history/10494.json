@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "VT00151",
+  "dam_name": "Sheldon Springs",
+  "owner": "Missisquoi, LLC",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1908,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Missisquoi River",
+  "height_ft": 38.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/VT00151/summary",
+  "distance_km": 0.02,
+  "score": 0.994,
+  "verified": false
+ }
+}

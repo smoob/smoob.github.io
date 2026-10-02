@@ -1,0 +1,17 @@
+{
+ "wikidata": {
+  "qid": "Q611354",
+  "url": "http://www.wikidata.org/entity/Q611354",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susquehanna%20Steam%20Electric%20Station%20from%20Council%20Cup%201.JPG?width=800",
+  "inception": null,
+  "start_year": null,
+  "operator": "Talen Energy",
+  "commons_category": "Susquehanna Steam Electric Station"
+ },
+ "wikipedia": {
+  "title": "Susquehanna Steam Electric Station",
+  "url": "https://en.wikipedia.org/wiki/Susquehanna_Steam_Electric_Station",
+  "extract": "The Susquehanna Steam Electric Station is a 2.5-gigawatt nuclear power plant in Pennsylvania. Susquehanna produces 63 GWh per day at 2.4 c/kWh, partly to an adjacent data center campus. It is located near the Susquehanna River in Salem Township, Luzerne County, Pennsylvania.",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/da/Logo_of_the_Susquehanna_Steam_Electric_Station.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ }
+}

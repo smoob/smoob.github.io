@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CA00173",
+  "dam_name": "Camanche Main",
+  "owner": "East Bay Municipal Utility District",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1964,
+  "years_modified": null,
+  "purposes": "Water Supply;Fish and Wildlife Pond;Recreation;Hydroelectric;Flood Risk Reduction",
+  "river": "Mokelumne River",
+  "height_ft": 171.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CA00173/summary",
+  "distance_km": 0.25,
+  "score": 0.938,
+  "verified": false
+ }
+}

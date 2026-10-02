@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "OK10308",
+  "dam_name": "Eufaula Dam",
+  "owner": "USACE - Tulsa District",
+  "owner_type": "Federal",
+  "designer": "CESWT",
+  "year_completed": 1964,
+  "years_modified": null,
+  "purposes": "Flood Risk Reduction;Other;Recreation;Hydroelectric;Water Supply",
+  "river": "Canadian River",
+  "height_ft": 114.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/OK10308/summary",
+  "distance_km": 0.38,
+  "score": 0.904,
+  "verified": false
+ }
+}

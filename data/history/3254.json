@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "SC00109",
+  "dam_name": "Buzzards Roost Spillway",
+  "owner": "Greenwood County, SC",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1940,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Saluda River",
+  "height_ft": 93.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/SC00109/summary",
+  "distance_km": 0.01,
+  "score": 0.998,
+  "verified": false
+ }
+}

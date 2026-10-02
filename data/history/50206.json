@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "CO01695",
+  "dam_name": "Vallecito Dam",
+  "owner": "BUREAU OF RECLAMATION",
+  "owner_type": "Federal",
+  "designer": "BUREAU OF RECLAMATION",
+  "year_completed": 1941,
+  "years_modified": null,
+  "purposes": "Fish and Wildlife Pond;Irrigation;Recreation;Hydroelectric",
+  "river": "Los Pinos River",
+  "height_ft": 162.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/CO01695/summary",
+  "distance_km": 0.53,
+  "score": 0.867,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MA01274",
+  "dam_name": "Turners Falls Dike",
+  "owner": "FirstLight Power Services LLC",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1905,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Turners Falls Canal",
+  "height_ft": 10.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MA01274/summary",
+  "distance_km": 0.32,
+  "score": 0.92,
+  "verified": false
+ }
+}

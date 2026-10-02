@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "PA01899",
+  "dam_name": "Townsend",
+  "owner": "Beaver Falls Municipal Authority",
+  "owner_type": "Local Government",
+  "designer": null,
+  "year_completed": 1913,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Beaver River",
+  "height_ft": 13.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/PA01899/summary",
+  "distance_km": 0.09,
+  "score": 0.978,
+  "verified": false
+ }
+}

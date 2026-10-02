@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "GA00843",
+  "dam_name": "High Shoals Upper Dam",
+  "owner": "Jason and Carol Victoria Presley",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1920,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Apalachee River",
+  "height_ft": 11.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/GA00843/summary",
+  "distance_km": 0.44,
+  "score": 0.889,
+  "verified": false
+ }
+}

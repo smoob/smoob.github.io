@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "TX00988",
+  "dam_name": "Lcra Inks Dam",
+  "owner": "LOWER COLORADO RIVER AUTHORITY",
+  "owner_type": "Local Government",
+  "designer": "FARGO ENGINEERING CO;FREESE & NICHOLS INC",
+  "year_completed": 1938,
+  "years_modified": "2001O",
+  "purposes": "Hydroelectric;Recreation",
+  "river": "Colorado River",
+  "height_ft": 97.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/TX00988/summary",
+  "distance_km": 0.14,
+  "score": 0.966,
+  "verified": false
+ }
+}

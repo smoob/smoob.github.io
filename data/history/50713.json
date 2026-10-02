@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "VT00042",
+  "dam_name": "Huntington Falls",
+  "owner": "Green Mountain Power Corporation",
+  "owner_type": "Public Utility",
+  "designer": null,
+  "year_completed": 1910,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Otter Creek",
+  "height_ft": 34.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/VT00042/summary",
+  "distance_km": 0.06,
+  "score": 0.984,
+  "verified": false
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MA00737",
+  "dam_name": "Woronoco - South Dam",
+  "owner": "Woronoco Hydro, LLC",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1938,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Water Supply",
+  "river": "Westfield River",
+  "height_ft": 25.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MA00737/summary",
+  "distance_km": 0.25,
+  "score": 0.937,
+  "verified": false
+ }
+}

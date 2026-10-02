@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "SC83025",
+  "dam_name": "Fairfield Dam C",
+  "owner": "South Carolina Electric and Gas Company",
+  "owner_type": "Public Utility",
+  "designer": "GIBBS & HILL",
+  "year_completed": 1977,
+  "years_modified": null,
+  "purposes": "Hydroelectric;Other",
+  "river": "Frees Creek, Broad River",
+  "height_ft": 169.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/SC83025/summary",
+  "distance_km": 0.57,
+  "score": 0.857,
+  "verified": false
+ }
+}

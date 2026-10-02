@@ -1,0 +1,20 @@
+{
+ "nid": {
+  "nid_id": "MI00531",
+  "dam_name": "Park Mill",
+  "owner": "NEW Hydro, Inc",
+  "owner_type": "Private",
+  "designer": null,
+  "year_completed": 1920,
+  "years_modified": null,
+  "purposes": "Hydroelectric",
+  "river": "Menominee River",
+  "height_ft": 24.0,
+  "source": "USACE National Inventory of Dams",
+  "source_key": "nid",
+  "url": "https://nid.sec.usace.army.mil/#/dams/system/MI00531/summary",
+  "distance_km": 0.7,
+  "score": 0.825,
+  "verified": false
+ }
+}
